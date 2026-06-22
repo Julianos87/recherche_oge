@@ -552,6 +552,9 @@ def main():
                 lettre_region_dep.mkdir(parents=True, exist_ok=True)
                 chemin_lettre = lettre_region_dep / f"lettre_{slugify(d['nom'])}.docx"
                 P.ecrire_docx(txt, chemin_lettre)
+                if not chemin_lettre.exists():
+                    raise OSError(f"Lettre non créée : {chemin_lettre}")
+                print(f"    -> enregistrée : {chemin_lettre.resolve()}")
         print(f"\nTerminé. Lettres V2 : {LETTRES}")
         return
 
@@ -664,7 +667,11 @@ def main():
                 txt = generer_lettre(d, profil, lettre_modele, gabarit,
                                      lettre_existante, backend)
                 if txt:
-                    P.ecrire_docx(txt, lettre_region_dep / f"lettre_{slug}.docx")
+                    chemin_lettre = lettre_region_dep / f"lettre_{slug}.docx"
+                    P.ecrire_docx(txt, chemin_lettre)
+                    if not chemin_lettre.exists():
+                        raise OSError(f"Lettre non créée : {chemin_lettre}")
+                    print(f"    -> enregistrée : {chemin_lettre.resolve()}")
 
     exporter_xlsx(dossiers, SORTIE / "dossiers_cabinets.xlsx")
     print(f"\nTerminé. Dossiers : {DOSSIERS}\nRécapitulatif : {SORTIE/'dossiers_cabinets.xlsx'}"
