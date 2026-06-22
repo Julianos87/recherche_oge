@@ -462,6 +462,12 @@ def ecrire_docx(texte, chemin):
     # On extrait uniquement les lignes avec du texte pour ignorer les sauts aléatoires de l'IA
     lignes_brutes = texte.split("\n")
     lignes = [l.strip() for l in lignes_brutes if l.strip()]
+
+    nombre_mots = len(re.findall(r"\b[\w'-]+\b", texte, flags=re.UNICODE))
+    if nombre_mots > 500:
+        raise ValueError(f"Lettre trop longue pour une page A4 : {nombre_mots} mots")
+    if nombre_mots < 300:
+        raise ValueError(f"Lettre anormalement courte : {nombre_mots} mots")
     
     # Trouver l'indice de l'objet
     idx_objet = -1
@@ -470,9 +476,11 @@ def ecrire_docx(texte, chemin):
             idx_objet = i
             break
             
-    # Fallback au cas où l'IA oublie le mot "Objet"
     if idx_objet == -1:
-        idx_objet = 8
+        raise ValueError("Lettre refusee : objet absent")
+
+    if not any("julian brouet" in ligne.lower() for ligne in lignes[-2:]):
+        raise ValueError("Lettre refusee : signature finale absente")
         
     # On s'assure que la lettre finit par Julian Brouet et on coupe ce qu'il y a après
     for i in range(len(lignes)-1, -1, -1):
