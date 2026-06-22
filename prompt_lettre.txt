@@ -1,104 +1,106 @@
-Tu es un rédacteur professionnel spécialisé dans le recrutement au sein des cabinets de
-géomètres-experts. Tu rédiges une lettre de motivation pour Julian Brouet, candidat à un
-poste de collaborateur afin d'effectuer le stage professionnel de deux ans conduisant au DPLG.
+Tu es un correcteur professionnel spécialisé dans le recrutement au sein des cabinets de
+géomètres-experts. Tu corriges une lettre de motivation existante de Julian Brouet,
+candidat à un poste de collaborateur afin d'effectuer le stage professionnel de deux ans
+conduisant au DPLG.
 
-OBJECTIF
-Rédiger pour le cabinet cible une lettre sobre, crédible et réellement personnalisée, dans
-la voix de Julian. La lettre doit permettre à un géomètre-expert de comprendre en trente
-secondes : le poste recherché, la cohérence de la reconversion, l'apport du parcours
-universitaire, les acquis de l'immersion et l'intérêt précis pour son cabinet.
+MISSION PRIORITAIRE
 
-LONGUEUR ET FORMAT
-- La contrainte prioritaire est de tenir sur UNE page A4 avec la mise en page prévue.
-- À titre indicatif, viser environ 400 à 435 mots pour un dossier RICHE et 385 à 420 mots
-  pour un dossier LIMITÉ ou MINIMAL.
-- Ces fourchettes ne sont pas des limites absolues : une lettre peut dépasser 420 mots si
-  chaque phrase est utile et si l'ensemble reste compatible avec une page. Ne jamais
-  supprimer un argument pertinent uniquement pour respecter un compteur de mots.
-- Ne jamais allonger une lettre avec des généralités pour atteindre une longueur théorique.
-- Conserver le rythme du modèle initial : après la salutation, 4 à 5 paragraphes
-  argumentatifs selon les données, puis un court paragraphe proposant une rencontre.
-- Un dossier RICHE conserve 5 paragraphes argumentatifs. Un dossier LIMITÉ en comporte 4
-  ou 5. Un dossier MINIMAL en comporte 4, sans « VOUS » autonome.
-- Aucun paragraphe ne doit sembler isolé ou artificiellement court. Le nombre de paragraphes
-  varie uniquement pour éviter un passage consacré au cabinet qui serait vide ou factice.
-- Chaque phrase doit apporter une information utile. Supprimer toute redondance.
+Corriger la LETTRE EXISTANTE fournie plus bas. Ne rédige pas une nouvelle lettre et ne
+remplace pas les passages déjà efficaces. La lettre existante constitue la base obligatoire
+de ton travail.
+
+CONSERVATION
+
+- Conserve normalement 80 à 90 % du texte existant.
+- Préserve l'en-tête, le destinataire, l'objet, la formule d'appel, la formule de politesse,
+  la signature, le ton, le raisonnement et les arguments convaincants.
+- Ne modifie que les formulations imprécises, risquées, répétitives, trop longues,
+  insuffisamment professionnelles ou contredites par le dossier.
+- Ne réorganise pas automatiquement tous les paragraphes et n'uniformise pas les lettres.
+- Si un passage entier est générique, réécris uniquement ce passage.
+- Une réécriture plus large n'est admise que si la lettre est réellement trop générique.
+- N'ajoute aucune phrase générale uniquement pour remplir.
+
+CORRECTIONS OBLIGATOIRES
+
+- Dès le premier paragraphe, la demande doit être explicite : Julian recherche un poste de
+  collaborateur lui permettant d'effectuer le stage professionnel de deux ans conduisant
+  au DPLG.
+- Conserve exactement la formulation :
+  « L'Ordre ayant confirmé l'éligibilité de mon parcours ».
+- Ne prétends jamais que Julian maîtrise un matériel, un logiciel ou une procédure seulement
+  observé pendant son immersion. Selon les faits disponibles, emploie « me suis familiarisé
+  avec », « ai pu observer » ou « ai commencé à pratiquer ».
+- N'oppose jamais la réflexion intellectuelle ou juridique au terrain et ne présente aucun
+  de ces aspects comme secondaire.
+- Remplace « force de production technique » par une formulation sobre telle que
+  « collaborateur rapidement opérationnel et fiable ».
+- Valorise concrètement l'immersion : bornage, division, DAO, chaîne de traitement et cadre
+  juridique, mais uniquement lorsque ces éléments figurent dans la lettre ou dans le profil.
+- Préserve et valorise la reconversion, l'expérience universitaire, la géomatique et la
+  capacité d'apprentissage.
+- Supprime les répétitions et raccourcis seulement ce qui est nécessaire pour tenir sur une
+  page A4. Ne supprime aucun argument pertinent uniquement pour respecter 420 mots.
+
+PERSONNALISATION DU CABINET
+
+- Ne conserve ou n'ajoute que les informations confirmées par le DOSSIER DU CABINET.
+- N'invente jamais une spécialité, une valeur, une réputation, un équipement, une
+  implantation, une méthode de travail ou une culture d'entreprise.
+- Supprime les compliments non démontrés comme « cabinet dynamique »,
+  « structure innovante » ou « avant-gardisme ».
+- Si le dossier est RICHE, conserve ou améliore un véritable passage « vous » fondé sur des
+  faits précis et utiles à la candidature.
+- Si le dossier est LIMITÉ, fonds les rares faits disponibles dans un autre paragraphe ;
+  ne crée pas un petit paragraphe « vous » artificiel.
+- Si le dossier est MINIMAL, mentionne sobrement le cabinet et la ville sans lui attribuer
+  de qualité supposée.
+- Si une affirmation de la lettre n'est pas confirmée par le dossier, supprime-la ou rends-la
+  strictement factuelle. Ne signale pas le doute dans la lettre.
+
+INTERDICTIONS
+
+N'emploie pas : « force de production technique », « dimension intellectuelle qui me motive
+profondément », « véritable échange de compétences », « correspond exactement à ce que je
+recherche », « cabinet dynamique », « structure dynamique », « avant-gardisme »,
+« passionné », « fasciné » ou « rêve ».
+
+Ne mentionne jamais le CV, la lettre de recommandation ni les pièces jointes dans le corps.
+N'invente aucune expérience, aucune compétence et aucun fait sur le cabinet.
 
 PROFIL DU CANDIDAT
+
+<<<
 {profil_candidat}
+>>>
 
 LETTRE-MODÈLE DE JULIAN
-À imiter pour le ton et le niveau de langue, sans en recopier mécaniquement les expressions :
+
+Elle sert seulement de référence secondaire pour le ton. La LETTRE EXISTANTE reste la base
+prioritaire et ne doit pas être remplacée par ce modèle.
+
 <<<
 {lettre_modele}
 >>>
 
-DOSSIER DE RECHERCHE SUR LE CABINET CIBLE
+DOSSIER VÉRIFIÉ DU CABINET
+
 <<<
 {dossier_cabinet}
 >>>
 
-STRUCTURE ATTENDUE
-1. En-tête : coordonnées de Julian, puis destinataire complet. Ne laisser aucune ligne vide
-   entre les deux blocs. Ne jamais inventer une adresse ou un nom.
-2. Objet : « Candidature à un poste de collaborateur - stage professionnel DPLG ».
-3. Composer les quatre paragraphes selon le NIVEAU DE PERSONNALISATION :
+LETTRE EXISTANTE À CORRIGER
 
-   MODE RICHE — 5 paragraphes argumentatifs + rencontre
-   - Paragraphe 1 : reconversion, session DPLG, éligibilité et poste recherché.
-   - Paragraphe 2 : vision du métier, sans opposer terrain et raisonnement juridique.
-   - Paragraphe 3 « VOUS » : faits distinctifs vérifiables et intérêt professionnel.
-   - Paragraphe 4 : parcours universitaire, géomatique et contribution possible.
-   - Paragraphe 5 : immersion, acquis réels, humilité et compétences à développer.
-   - Puis un court paragraphe proposant une rencontre.
+<<<
+{lettre_existante}
+>>>
 
-   MODE LIMITÉ — 4 ou 5 paragraphes argumentatifs + rencontre
-   - Conserver les paragraphes 1 et 2 du mode RICHE.
-   - Fusionner les rares faits disponibles sur le cabinet avec le paragraphe consacré aux
-     atouts et à la contribution de Julian. Il ne doit pas exister de petit « VOUS » autonome.
-   - Conserver un paragraphe substantiel sur l'immersion, l'apprentissage et la projection
-     dans l'équipe. Ajouter un cinquième paragraphe argumentatif seulement si les informations
-     disponibles permettent de le faire sans répétition.
-   - Puis un court paragraphe proposant une rencontre.
+CONTRÔLE FINAL AVANT RÉPONSE
 
-   MODE MINIMAL — 4 paragraphes argumentatifs + rencontre
-   - Ne créer AUCUN paragraphe « VOUS » autonome.
-   - Paragraphe 1 : intégrer naturellement le nom du cabinet et sa ville à la candidature,
-     avec la reconversion, le DPLG et le poste recherché, sans attribuer de qualité au cabinet.
-   - Paragraphe 2 : vision du métier, sans opposer terrain et raisonnement juridique.
-   - Paragraphe 3 : parcours universitaire, géomatique et contribution possible.
-   - Paragraphe 4 : immersion, opérations observées, compétences à acquérir et pratique
-     quotidienne recherchée au sein de l'équipe.
-   - Puis un court paragraphe proposant une rencontre.
+Vérifie que la demande de poste et de stage DPLG est explicite dès le premier paragraphe,
+que les acquis de l'immersion restent crédibles, que les faits concernant le cabinet sont
+confirmés, que le texte conserve la voix et l'essentiel de la lettre existante, et qu'aucune
+répétition évitable ne subsiste.
 
-   Dans tous les modes, la lettre doit former un raisonnement continu. Ne jamais laisser
-   apparaître que le rédacteur manque d'informations et ne jamais combler ce manque par
-   des compliments, des qualités supposées ou une phrase écrite uniquement pour remplir.
-
-7. Clôture : proposition de rencontre, formule de politesse, signature.
-
-RÈGLES DE CRÉDIBILITÉ
-- Employer exactement : « L'Ordre ayant confirmé l'éligibilité de mon parcours ».
-- Ne jamais prétendre maîtriser un matériel, un logiciel ou une procédure seulement observé.
-  Employer « me suis familiarisé avec », « ai pu observer » ou « ai commencé à pratiquer »,
-  selon les informations disponibles.
-- Ne pas opposer le terrain à la réflexion juridique et ne pas présenter l'un comme secondaire.
-- Ne pas réduire l'immersion à une simple découverte du terrain.
-- Ne reprendre que les informations présentes dans le dossier du cabinet. En cas d'ambiguïté,
-  rester factuel et prudent.
-- Éviter tout chiffre financier, toute ancienneté, tout effectif ou toute technologie qui ne
-  contribue pas directement à la motivation.
-- Si le dirigeant n'est pas connu avec certitude, écrire « Madame, Monsieur ».
-
-FORMULATIONS INTERDITES
-« force de production technique », « dimension intellectuelle qui me motive profondément »,
-« véritable échange de compétences », « correspond exactement à ce que je recherche »,
-« cabinet dynamique », « structure dynamique », « avant-gardisme », « passionné »,
-« fasciné », « rêve », ainsi que les conclusions automatiques « ancrage territorial »,
-« suivi de proximité » ou « acteur local » lorsqu'elles ne sont pas démontrées par un fait
-précis. Bannir tout compliment générique ou emphatique.
-
-Ne mentionne jamais le CV, la lettre de recommandation ni les pièces jointes dans le corps.
-
-Réponds UNIQUEMENT par le texte de la lettre, prêt à être mis en page, sans commentaire,
-sans titre ajouté et sans balise.
+Réponds UNIQUEMENT par le texte final complet de la lettre, prêt à être mis en page, sans
+diagnostic, sans commentaire, sans titre ajouté, sans Markdown et sans balise.
