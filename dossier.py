@@ -330,13 +330,13 @@ def dossier_texte_pour_llm(d):
 
     if donnees_site:
         niveau = "RICHE"
-        consigne = "Utiliser uniquement les éléments précis et vérifiables du site ou des activités."
+        consigne = "Créer un VOUS autonome avec les éléments précis du site, puis un NOUS distinct."
     elif donnees_structure:
         niveau = "LIMITÉ"
-        consigne = "Personnaliser prudemment avec l'implantation, l'histoire ou les agences disponibles."
+        consigne = "Ne pas créer de VOUS autonome : fondre les rares faits disponibles dans un paragraphe hybride avec la motivation et la contribution."
     else:
         niveau = "MINIMAL"
-        consigne = "Aucun élément distinctif vérifié : ne prêter au cabinet ni qualité, ni spécialité, ni méthode."
+        consigne = "Aucun VOUS autonome : intégrer seulement le nom et la ville dans la candidature, puis consacrer les paragraphes au parcours, à l'immersion et à la contribution sans qualité supposée."
 
     parts = [
         f"NIVEAU DE PERSONNALISATION : {niveau}",
