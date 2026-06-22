@@ -101,6 +101,9 @@ python dossier.py --tout --pause 0.35
 #    Source : sortie/lettres_corrigees ; destination : sortie/lettres_corrigees_V2
 python dossier.py --lettres-seules --local
 python dossier.py --lettres-seules --local --max 10   # test sur 10 cabinets
+python dossier.py --lettres-seules --local --region nouvelle-aquitaine
+python dossier.py --lettres-seules --local --region bretagne
+python dossier.py --lettres-seules --local --region pays-de-la-loire
 ```
 
 Ainsi, si une lettre ne te plait pas, tu ajustes `prompt_lettre.txt` ou le modele
