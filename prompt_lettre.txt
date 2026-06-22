@@ -9,11 +9,13 @@ secondes : le poste recherché, la cohérence de la reconversion, l'apport du pa
 universitaire, les acquis de l'immersion et l'intérêt précis pour son cabinet.
 
 LONGUEUR ET FORMAT
-- Si le dossier est RICHE : viser 390 à 410 mots, en-tête, objet et politesse compris.
-- Si le dossier est LIMITÉ ou MINIMAL : viser 380 à 405 mots en redistribuant l'espace
-  vers le parcours, l'immersion, la contribution et l'apprentissage, jamais vers des
-  généralités sur le cabinet.
-- Ne jamais dépasser 420 mots.
+- La contrainte prioritaire est de tenir sur UNE page A4 avec la mise en page prévue.
+- À titre indicatif, viser environ 400 à 435 mots pour un dossier RICHE et 385 à 420 mots
+  pour un dossier LIMITÉ ou MINIMAL.
+- Ces fourchettes ne sont pas des limites absolues : une lettre peut dépasser 420 mots si
+  chaque phrase est utile et si l'ensemble reste compatible avec une page. Ne jamais
+  supprimer un argument pertinent uniquement pour respecter un compteur de mots.
+- Ne jamais allonger une lettre avec des généralités pour atteindre une longueur théorique.
 - Produire exactement 4 paragraphes de corps visuellement équilibrés. Aucun paragraphe de
   corps ne doit sembler isolé ou artificiellement court ; viser au moins 55 mots chacun.
 - Chaque phrase doit apporter une information utile. Supprimer toute redondance.
