@@ -41,6 +41,7 @@ import pipeline as P  # réutilise les briques déjà validées
 SORTIE = P.SORTIE
 DOSSIERS = SORTIE / "dossiers"
 LETTRES = SORTIE / "lettres_corrigees_V2"
+LETTRES_SOURCE = SORTIE / "lettres_corrigees"
 
 # Pages internes à explorer sur le site du cabinet
 PAGES = ["", "/nos-prestations", "/prestations", "/nos-services", "/services",
@@ -70,6 +71,20 @@ def region_departement(dossier):
             region_nom = r_name.title().replace("-", " ")
             break
     return region_nom, dep
+
+
+def lire_lettre_source(dossier):
+    """Lit la lettre existante correspondant au cabinet, sans modifier le fichier."""
+    region_nom, dep = region_departement(dossier)
+    chemin = (LETTRES_SOURCE / region_nom / dep
+              / f"lettre_{slugify(dossier['nom'])}.docx")
+    if not chemin.exists():
+        return "", chemin
+
+    from docx import Document
+    document = Document(chemin)
+    paragraphes = [p.text.strip() for p in document.paragraphs if p.text.strip()]
+    return "\n".join(paragraphes), chemin
 
 
 def grouper(cabinets):
@@ -421,9 +436,11 @@ def appel_llm_anthropic(prompt):
     return "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
 
 
-def generer_lettre(d, profil, lettre_modele, gabarit, backend="anthropic"):
+def generer_lettre(d, profil, lettre_modele, gabarit, lettre_existante,
+                   backend="anthropic"):
     prompt = gabarit.format(profil_candidat=profil, lettre_modele=lettre_modele,
-                            dossier_cabinet=dossier_texte_pour_llm(d))
+                            dossier_cabinet=dossier_texte_pour_llm(d),
+                            lettre_existante=lettre_existante)
     try:
         if backend == "local":
             return appel_llm_local(prompt)
@@ -515,7 +532,12 @@ def main():
         print(f"{len(dossiers)} dossiers -> génération des lettres ({backend})...")
         for n, d in enumerate(dossiers, 1):
             print(f"  [{n}/{len(dossiers)}] {d['nom']}")
-            txt = generer_lettre(d, profil, lettre_modele, gabarit, backend)
+            lettre_existante, chemin_source = lire_lettre_source(d)
+            if not lettre_existante:
+                print(f"    [lettre] source introuvable, ignorée : {chemin_source}")
+                continue
+            txt = generer_lettre(d, profil, lettre_modele, gabarit,
+                                 lettre_existante, backend)
             if txt:
                 region_nom, dep = region_departement(d)
                 lettre_region_dep = LETTRES / region_nom / dep
@@ -627,9 +649,14 @@ def main():
         if args.lettres and lettre_modele:
             lettre_region_dep = LETTRES / region_nom / dep
             lettre_region_dep.mkdir(parents=True, exist_ok=True)
-            txt = generer_lettre(d, profil, lettre_modele, gabarit, backend)
-            if txt:
-                P.ecrire_docx(txt, lettre_region_dep / f"lettre_{slug}.docx")
+            lettre_existante, chemin_source = lire_lettre_source(d)
+            if not lettre_existante:
+                print(f"    [lettre] source introuvable, ignorée : {chemin_source}")
+            else:
+                txt = generer_lettre(d, profil, lettre_modele, gabarit,
+                                     lettre_existante, backend)
+                if txt:
+                    P.ecrire_docx(txt, lettre_region_dep / f"lettre_{slug}.docx")
 
     exporter_xlsx(dossiers, SORTIE / "dossiers_cabinets.xlsx")
     print(f"\nTerminé. Dossiers : {DOSSIERS}\nRécapitulatif : {SORTIE/'dossiers_cabinets.xlsx'}"
