@@ -527,6 +527,14 @@ def main():
         if not chemin_json.exists():
             ap.error(f"{chemin_json} introuvable : lance d'abord une collecte.")
         dossiers = json.loads(chemin_json.read_text(encoding="utf-8"))
+        if args.region:
+            deps_autorises = set(P.REGIONS[args.region])
+            dossiers = [d for d in dossiers
+                        if region_departement(d)[1] in deps_autorises]
+        elif args.departements:
+            deps_autorises = {d.zfill(2) for d in args.departements}
+            dossiers = [d for d in dossiers
+                        if region_departement(d)[1] in deps_autorises]
         if args.max:
             dossiers = dossiers[:args.max]
         print(f"{len(dossiers)} dossiers -> génération des lettres ({backend})...")
