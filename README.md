@@ -97,14 +97,19 @@ collecte sauvegarde un cache `sortie/dossiers.json`. Tu peux donc :
 # 1. Collecte une fois (remplit les dossiers + le cache JSON)
 python dossier.py --tout --pause 0.35
 
-# 2. Genere les lettres en LOCAL depuis le cache, SANS rappeler les API
-#    (rejouable autant de fois que tu veux : changer de modele, de prompt...)
+# 2. Corrige les lettres existantes en LOCAL depuis le cache, SANS rappeler les API
+#    Source : sortie/lettres_corrigees ; destination : sortie/lettres_corrigees_V2
 python dossier.py --lettres-seules --local
 python dossier.py --lettres-seules --local --max 10   # test sur 10 cabinets
 ```
 
 Ainsi, si une lettre ne te plait pas, tu ajustes `prompt_lettre.txt` ou le modele
 LM Studio et tu relances l'étape 2 seule — la collecte n'est pas refaite.
+
+En mode `--lettres-seules`, chaque lettre V2 est une correction conservatrice de la
+lettre `.docx` correspondante dans `sortie/lettres_corrigees`. Une lettre source
+introuvable est signalee puis ignoree : le programme ne fabrique pas de remplacement
+generique.
 
 Sorties : `sortie/dossiers/<cabinet>.md`, `sortie/dossiers_cabinets.xlsx`,
 et `sortie/lettres_corrigees_V2/<Region>/<Departement>/lettre_<cabinet>.docx`.
