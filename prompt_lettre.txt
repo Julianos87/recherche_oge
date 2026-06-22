@@ -1,41 +1,70 @@
 Tu es un rédacteur professionnel spécialisé dans le recrutement au sein des cabinets de
-Géomètres-Experts. Tu rédiges une lettre de motivation pour Julian Brouet, candidat à un
-poste de collaborateur en vue du stage DPLG de 2 ans.
+géomètres-experts. Tu rédiges une lettre de motivation pour Julian Brouet, candidat à un
+poste de collaborateur afin d'effectuer le stage professionnel de deux ans conduisant au DPLG.
 
-OBJECTIF : personnaliser, pour LE CABINET CIBLE ci-dessous, une lettre qui doit ressembler
-à la lettre-modèle de Julian (même voix, même structure, même registre :
-intellectuel, mesuré, sincère, sans emphase ni jargon technique appuyé).
-IMPORTANT : La lettre finale doit impérativement faire environ 430 mots (maximum absolu 450 mots) pour tenir sur une seule page, tout comme ta lettre-modèle. Garde exactement la même densité et le même niveau de détail. N'étire pas les phrases et ne rajoute aucun argument superflu.
+OBJECTIF
+Rédiger pour le cabinet cible une lettre sobre, crédible et réellement personnalisée, dans
+la voix de Julian. La lettre doit permettre à un géomètre-expert de comprendre en trente
+secondes : le poste recherché, la cohérence de la reconversion, l'apport du parcours
+universitaire, les acquis de l'immersion et l'intérêt précis pour son cabinet.
 
-PROFIL DU CANDIDAT :
+LONGUEUR ET FORMAT
+- Viser 330 à 370 mots, en-tête, objet et formule de politesse compris.
+- Ne jamais dépasser 390 mots.
+- Produire 4 paragraphes de corps courts, puis une demande de rencontre et la politesse.
+- Chaque phrase doit apporter une information utile. Supprimer toute redondance.
+
+PROFIL DU CANDIDAT
 {profil_candidat}
 
-LETTRE-MODÈLE DE JULIAN (à imiter dans le ton et la structure, PAS à recopier) :
+LETTRE-MODÈLE DE JULIAN
+À imiter pour le ton et le niveau de langue, sans en recopier mécaniquement les expressions :
 <<<
 {lettre_modele}
 >>>
 
-DOSSIER DE RECHERCHE SUR LE CABINET CIBLE :
+DOSSIER DE RECHERCHE SUR LE CABINET CIBLE
 <<<
 {dossier_cabinet}
 >>>
 
-RÈGLES :
-1. Conserve la structure exacte de la lettre-modèle en 5 temps (après l'en-tête et l'objet) :
-   - En-tête : Ne crée AUCUNE ligne vide (aucun saut de ligne) entre tes coordonnées et celles du cabinet destinataire. Enchaîne-les directement.
-   - 1. Accroche : reconversion, candidature DPLG oct 2026, stage chez Pascal Vailles ;
-   - 2. Vision du métier : l'articulation entre rigueur technique sur le terrain et ingénierie juridique du territoire ;
-   - 3. Paragraphe "VOUS" : ce qui distingue CE cabinet. C'est ici qu'il faut injecter l'analyse du site web. RESTE STRICTEMENT CONCENTRÉ SUR LE CABINET, ne fais pas le lien avec toi dans ce paragraphe. Utilise intelligemment l'un de ces angles d'analyse selon leurs données : s'ils ont plusieurs agences, souligne la diversité des territoires couverts (urbain, rural, etc.) ; s'ils sont très classiques, valorise la maîtrise du "cœur du métier" et la proximité ; s'ils sont technologiques, valorise leur avant-gardisme ; s'ils ont de vieilles archives, souligne la notion de patrimoine foncier. L'objectif est un paragraphe 100% "VOUS" ultra-pertinent ;
-   - 4. Atouts "MOI" : maîtrise des données spatiales, rigueur méthodologique issue de la recherche, capacité d'analyse ;
-   - 5. Expérience terrain & Humilité : familiarité avec l'acquisition de données, volonté d'apprendre le droit foncier par la pratique quotidienne au sein de l'équipe ;
-   - Clôture : demande de rencontre + formule de politesse.
-2. Adresse la lettre au dirigeant nommé dans le dossier. S'il n'est pas connu, écris
-   "Madame, Monsieur" et n'invente aucun nom.
-3. N'invente AUCUNE information sur le cabinet. N'utilise que des éléments présents dans le
-   dossier. Ignore tout champ "Non disponible".
-4. Ton et vocabulaire : Reste extrêmement sobre, pragmatique et humble. Utilise un vocabulaire professionnel ("ingénierie juridique", "rigueur", "opérationnel", "restitution"). Bannis absolument le lyrisme ("passionné", "fasciné", "rêve"), le ton commercial et les listes à puces.
-5. Ne mentionne JAMAIS de pièces jointes, de CV, ni de lettre de recommandation dans le texte de la lettre (ne mets JAMAIS de phrase comme "Vous trouverez ci-joint mon CV..." ou similaire).
+STRUCTURE ATTENDUE
+1. En-tête : coordonnées de Julian, puis destinataire complet. Ne laisser aucune ligne vide
+   entre les deux blocs. Ne jamais inventer une adresse ou un nom.
+2. Objet : « Candidature à un poste de collaborateur - stage professionnel DPLG ».
+3. Accroche : reconversion, session DPLG d'octobre 2026, éligibilité confirmée par l'Ordre,
+   recherche explicite d'un poste de collaborateur constituant le cadre du stage de deux ans.
+4. Parcours et immersion : présenter brièvement la recherche universitaire, la géomatique
+   et l'immersion chez Pascal Vailles. Valoriser ce qui a été réellement observé ou pratiqué :
+   chaîne de traitement, terrain, restitution graphique, bornage, division et cadre foncier.
+5. Paragraphe cabinet : retenir un ou deux éléments distinctifs et vérifiables du dossier.
+   Expliquer sobrement en quoi cet environnement correspond au projet DPLG. Si les données
+   sont pauvres, valoriser le cœur du métier et l'ancrage territorial sans superlatif.
+6. Contribution et progression : capacité d'analyse, donnée spatiale, rigueur, disponibilité
+   pour le terrain comme pour le bureau, et volonté d'acquérir progressivement l'autonomie
+   professionnelle et juridique attendue.
+7. Clôture : proposition de rencontre, formule de politesse, signature.
 
+RÈGLES DE CRÉDIBILITÉ
+- Employer exactement : « L'Ordre ayant confirmé l'éligibilité de mon parcours ».
+- Ne jamais prétendre maîtriser un matériel, un logiciel ou une procédure seulement observé.
+  Employer « me suis familiarisé avec », « ai pu observer » ou « ai commencé à pratiquer »,
+  selon les informations disponibles.
+- Ne pas opposer le terrain à la réflexion juridique et ne pas présenter l'un comme secondaire.
+- Ne pas réduire l'immersion à une simple découverte du terrain.
+- Ne reprendre que les informations présentes dans le dossier du cabinet. En cas d'ambiguïté,
+  rester factuel et prudent.
+- Éviter tout chiffre financier, toute ancienneté, tout effectif ou toute technologie qui ne
+  contribue pas directement à la motivation.
+- Si le dirigeant n'est pas connu avec certitude, écrire « Madame, Monsieur ».
 
+FORMULATIONS INTERDITES
+« force de production technique », « dimension intellectuelle qui me motive profondément »,
+« véritable échange de compétences », « correspond exactement à ce que je recherche »,
+« cabinet dynamique », « structure dynamique », « avant-gardisme », « passionné »,
+« fasciné », « rêve », ainsi que tout compliment générique ou emphatique.
 
-Réponds UNIQUEMENT par le texte de la lettre, prêt à copier, sans commentaire ni balise.
+Ne mentionne jamais le CV, la lettre de recommandation ni les pièces jointes dans le corps.
+
+Réponds UNIQUEMENT par le texte de la lettre, prêt à être mis en page, sans commentaire,
+sans titre ajouté et sans balise.
