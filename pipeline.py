@@ -448,14 +448,14 @@ def ecrire_docx(texte, chemin):
     # Mise en page compacte et lisible : la lettre doit tenir sur une page.
     style = doc.styles["Normal"]
     style.font.name = "Times New Roman"
-    style.font.size = Pt(10.5)
+    style.font.size = Pt(11)
 
     # Marges strictes
     for section in doc.sections:
-        section.top_margin = Cm(1.6)
-        section.bottom_margin = Cm(1.6)
-        section.left_margin = Cm(2.0)
-        section.right_margin = Cm(2.0)
+        section.top_margin = Cm(1.8)
+        section.bottom_margin = Cm(1.8)
+        section.left_margin = Cm(2.3)
+        section.right_margin = Cm(2.3)
         
     # On extrait uniquement les lignes avec du texte pour ignorer les sauts aléatoires de l'IA
     lignes_brutes = texte.split("\n")
@@ -507,7 +507,7 @@ def ecrire_docx(texte, chemin):
         elif i == idx_objet:
             # Objet
             para.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-            para.paragraph_format.line_spacing = 1.0
+            para.paragraph_format.line_spacing = 1.15
             para.paragraph_format.space_before = Pt(0)
             para.paragraph_format.space_after = Pt(0)
             
@@ -515,21 +515,21 @@ def ecrire_docx(texte, chemin):
             para_vide = doc.add_paragraph("")
             para_vide.paragraph_format.space_before = Pt(0)
             para_vide.paragraph_format.space_after = Pt(0)
-            para_vide.paragraph_format.line_spacing = 1.0
+            para_vide.paragraph_format.line_spacing = 1.15
             
         elif i == idx_signature:
             # Signature (Julian Brouet final)
             para.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-            para.paragraph_format.line_spacing = 1.0
+            para.paragraph_format.line_spacing = 1.15
             para.paragraph_format.space_before = Pt(0)
             para.paragraph_format.space_after = Pt(0)
             
         else:
             # Corps du texte
             para.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-            para.paragraph_format.line_spacing = 1.0
+            para.paragraph_format.line_spacing = 1.15
             para.paragraph_format.space_before = Pt(0)
-            para.paragraph_format.space_after = Pt(4)
+            para.paragraph_format.space_after = Pt(6)
             
     doc.save(chemin)
 
