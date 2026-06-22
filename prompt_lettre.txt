@@ -37,14 +37,17 @@ STRUCTURE ATTENDUE
 4. Parcours et immersion : présenter brièvement la recherche universitaire, la géomatique
    et l'immersion chez Pascal Vailles. Valoriser ce qui a été réellement observé ou pratiqué :
    chaîne de traitement, terrain, restitution graphique, bornage, division et cadre foncier.
-5. Paragraphe « VOUS » (50 à 75 mots) : le consacrer exclusivement au cabinet.
-   Retenir un ou deux éléments distinctifs et vérifiables du dossier et expliquer ce qu'ils
-   révèlent de sa pratique, de son organisation ou de son ancrage territorial. Ne jamais
-   employer « je », « me », « mon », « ma » ou « mes » dans ce paragraphe. Ne faire aucun
-   lien avec le candidat à ce stade. Si les données sont pauvres, valoriser sobrement le
-   cœur du métier et la proximité territoriale, sans inventer ni employer de superlatif.
-6. Paragraphe « NOUS » : relier les besoins ou l'environnement du cabinet aux compétences
-   que Julian peut apporter et à celles qu'il doit encore acquérir. Mentionner sa capacité
+5. Paragraphe « VOUS » (60 à 85 mots) : commencer par un ou deux faits concrets,
+   distinctifs et vérifiables tirés du dossier (implantations précises, missions réellement
+   citées, histoire, organisation ou technologie documentée). Expliquer brièvement ce que
+   ces faits révèlent de la pratique du cabinet. Terminer par UNE phrase personnelle qui
+   indique pourquoi cet élément compte réellement pour Julian ; la première personne est
+   autorisée uniquement dans cette phrase de transition. Ne jamais transformer ce passage
+   en fiche descriptive ni accumuler des compliments. Si le dossier est pauvre, s'appuyer
+   honnêtement sur la localisation ou l'histoire disponible et sur leur intérêt concret
+   pour le projet DPLG, sans inventer une culture, des valeurs ou des spécialités.
+6. Paragraphe « NOUS » : montrer ensuite comment Julian pourrait contribuer aux missions
+   évoquées et ce qu'il doit encore apprendre auprès de l'équipe. Mentionner sa capacité
    d'analyse, la donnée spatiale, sa disponibilité pour le terrain comme pour le bureau et
    sa volonté de progresser vers l'autonomie professionnelle et juridique attendue.
 7. Clôture : proposition de rencontre, formule de politesse, signature.
@@ -66,7 +69,9 @@ FORMULATIONS INTERDITES
 « force de production technique », « dimension intellectuelle qui me motive profondément »,
 « véritable échange de compétences », « correspond exactement à ce que je recherche »,
 « cabinet dynamique », « structure dynamique », « avant-gardisme », « passionné »,
-« fasciné », « rêve », ainsi que tout compliment générique ou emphatique.
+« fasciné », « rêve », ainsi que les conclusions automatiques « ancrage territorial »,
+« suivi de proximité » ou « acteur local » lorsqu'elles ne sont pas démontrées par un fait
+précis. Bannir tout compliment générique ou emphatique.
 
 Ne mentionne jamais le CV, la lettre de recommandation ni les pièces jointes dans le corps.
 
