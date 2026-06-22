@@ -1,0 +1,2784 @@
+======================================================================
+RAPPORT D'ADAPTATION DE LA LONGUEUR DES LETTRES (430-450 MOTS)
+Date : 21/06/2026 16:28:08
+Lettres à adapter : 923
+======================================================================
+
+[1/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_axis-conseils-rhone-alpes-selarl-de-geometres-experts.docx
+  [DEJA FAIT] 475 mots -> 445 mots
+
+[2/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_cabinet-chanel-grand-selarl-de-geometres-experts.docx
+  [DEJA FAIT] 486 mots -> 381 mots
+
+[3/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_johan-perrin-selarlu-de-geometres-experts.docx
+  [DEJA FAIT] 572 mots -> 443 mots
+
+[4/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_sarl-cabinet-bablet-magnien-gaud-sarl-cabinet-bablet-magnien.docx
+  [DEJA FAIT] 503 mots -> 422 mots
+
+[5/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_sarl-goy-geometres-experts-associes.docx
+  [DEJA FAIT] 487 mots -> 443 mots
+
+[6/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_sarl-gsm-savoyet-chatron.docx
+  [DEJA FAIT] 467 mots -> 453 mots
+
+[7/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_sarl-lachenal-geometre-expert-sarl-a-associe-unique.docx
+  [DEJA FAIT] 480 mots -> 472 mots
+
+[8/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_scp-barthelemy-blanc-geometres-experts-associes.docx
+  [DEJA FAIT] 460 mots -> 437 mots
+
+[9/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_selarl-alia-ge-geometres-experts-associes.docx
+  [DEJA FAIT] 467 mots -> 448 mots
+
+[10/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_selarl-arpentua-geometres-experts.docx
+  [DEJA FAIT] 487 mots -> 415 mots
+
+[11/923] [DEJA FAIT] Auvergne Rhone Alpes\01\lettre_selarl-cosmos-geometres-experts.docx
+  [DEJA FAIT] 471 mots -> 465 mots
+
+[12/923] [DEJA FAIT] Auvergne Rhone Alpes\03\lettre_fontaine-geometre-expert-sarl.docx
+  [DEJA FAIT] 470 mots -> 497 mots
+
+[13/923] [DEJA FAIT] Auvergne Rhone Alpes\03\lettre_sarl-cabinet-cedric-robin.docx
+  [DEJA FAIT] 473 mots -> 462 mots
+
+[14/923] [DEJA FAIT] Auvergne Rhone Alpes\03\lettre_selafa-jean-paul-serre-olivier-truttmann-cedric-mangin-yann-.docx
+  [DEJA FAIT] 476 mots -> 444 mots
+
+[15/923] [DEJA FAIT] Auvergne Rhone Alpes\07\lettre_cabinet-billon-sarl-unipersonnelle.docx
+  [DEJA FAIT] 471 mots -> 440 mots
+
+[16/923] [ECHEC] Auvergne Rhone Alpes\07\lettre_cabinet-lamoulere-pierre.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[17/923] [ECHEC] Auvergne Rhone Alpes\07\lettre_cabinet-miotto-thomas.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[18/923] [DEJA FAIT] Auvergne Rhone Alpes\07\lettre_eurl-cabinet-sylvain-varenne-geometre-expert.docx
+  [DEJA FAIT] 481 mots -> 408 mots
+
+[19/923] [DEJA FAIT] Auvergne Rhone Alpes\07\lettre_mgeo-sarl-de-geometres-experts.docx
+  [DEJA FAIT] 470 mots -> 443 mots
+
+[20/923] [DEJA FAIT] Auvergne Rhone Alpes\07\lettre_sarl-abgeometrie.docx
+  [DEJA FAIT] 461 mots -> 443 mots
+
+[21/923] [ECHEC] Auvergne Rhone Alpes\07\lettre_sarl-fabrice-menard-geometre-expert.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[22/923] [DEJA FAIT] Auvergne Rhone Alpes\07\lettre_selafa-geo-siapp.docx
+  [DEJA FAIT] 512 mots -> 386 mots
+
+[23/923] [DEJA FAIT] Auvergne Rhone Alpes\07\lettre_selarl-2a-geometres-experts.docx
+  [DEJA FAIT] 451 mots -> 442 mots
+
+[24/923] [DEJA FAIT] Auvergne Rhone Alpes\07\lettre_selarl-dmn-geometres-experts.docx
+  [DEJA FAIT] 495 mots -> 446 mots
+
+[25/923] [DEJA FAIT] Auvergne Rhone Alpes\15\lettre_scp-allo-et-claveirole-geometres-experts-associes.docx
+  [DEJA FAIT] 479 mots -> 462 mots
+
+[26/923] [DEJA FAIT] Auvergne Rhone Alpes\15\lettre_selarl-cabinet-cros.docx
+  [DEJA FAIT] 498 mots -> 425 mots
+
+[27/923] [DEJA FAIT] Auvergne Rhone Alpes\15\lettre_selarl-terra-geometre-expert.docx
+  [DEJA FAIT] 477 mots -> 466 mots
+
+[28/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_barneron-expertises-selarl-de-geometre-expert.docx
+  [DEJA FAIT] 506 mots -> 444 mots
+
+[29/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_cabinet-alquier-remi.docx
+  [DEJA FAIT] 464 mots -> 456 mots
+
+[30/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_calypso-plasse-et-associes-selas-de-geometres-experts.docx
+  [DEJA FAIT] 485 mots -> 432 mots
+
+[31/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_fmesure-sarl-de-geometres-experts.docx
+  [DEJA FAIT] 471 mots -> 460 mots
+
+[32/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_sarl-cabinet-david.docx
+  [DEJA FAIT] 481 mots -> 414 mots
+
+[33/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_sarl-igex.docx
+  [DEJA FAIT] 464 mots -> 455 mots
+
+[34/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_sarl-valentin-et-associes.docx
+  [DEJA FAIT] 485 mots -> 432 mots
+
+[35/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_selarl-geometri-nouvelle.docx
+  [DEJA FAIT] 488 mots -> 443 mots
+
+[36/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_selarl-patrick-epelly.docx
+  [DEJA FAIT] 504 mots -> 383 mots
+
+[37/923] [DEJA FAIT] Auvergne Rhone Alpes\26\lettre_selarl-thierry-baubet-associes.docx
+  [DEJA FAIT] 498 mots -> 448 mots
+
+[38/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_alphageo-geometres-experts-sarl.docx
+  [DEJA FAIT] 475 mots -> 445 mots
+
+[39/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_atmo-geometres-experts-sarl.docx
+  [DEJA FAIT] 503 mots -> 408 mots
+
+[40/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_cabinet-cassassolles-selarl-de-geometres-experts.docx
+  [DEJA FAIT] 502 mots -> 433 mots
+
+[41/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_convergence-geometre-expert-sarl.docx
+  [DEJA FAIT] 500 mots -> 393 mots
+
+[42/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_sarl-geo-consult.docx
+  [DEJA FAIT] 488 mots -> 454 mots
+
+[43/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_sarl-polygone-geometre-expert.docx
+  [DEJA FAIT] 487 mots -> 404 mots
+
+[44/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_sasu-bourguignon-expertises.docx
+  [DEJA FAIT] 461 mots -> 440 mots
+
+[45/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_sasu-g-home-expert.docx
+  [DEJA FAIT] 488 mots -> 442 mots
+
+[46/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_scp-bonin-favier-geometres-experts-associes.docx
+  [DEJA FAIT] 523 mots -> 415 mots
+
+[47/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_selarl-abaque-cabinet-levin-geometres-experts.docx
+  [DEJA FAIT] 473 mots -> 464 mots
+
+[48/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_selarl-abscisse-cabinet-de-geometres-experts.docx
+  [DEJA FAIT] 489 mots -> 415 mots
+
+[49/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_selarl-agate.docx
+  [DEJA FAIT] 474 mots -> 468 mots
+
+[50/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_selarl-arpenteurs.docx
+  [DEJA FAIT] 533 mots -> 389 mots
+
+[51/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_selarl-de-geometres-experts-julien-et-associes.docx
+  [DEJA FAIT] 495 mots -> 387 mots
+
+[52/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_selarl-ellipse-geometres-experts.docx
+  [DEJA FAIT] 464 mots -> 438 mots
+
+[53/923] [DEJA FAIT] Auvergne Rhone Alpes\38\lettre_sintegra-selas.docx
+  [DEJA FAIT] 497 mots -> 430 mots
+
+[54/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_adage-sarl-de-geometres-experts.docx
+  [DEJA FAIT] 482 mots -> 473 mots
+
+[55/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_adage.docx
+  [DEJA FAIT] 486 mots -> 404 mots
+
+[56/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_cabinet-coulette-thierry.docx
+  [DEJA FAIT] 456 mots -> 446 mots
+
+[57/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_cabinet-de-geometres-experts-didier-bouniard-vincent-dubreui.docx
+  [DEJA FAIT] 506 mots -> 410 mots
+
+[58/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_cabinet-mialon-manuel.docx
+  [DEJA FAIT] 523 mots -> 436 mots
+
+[59/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_eurl-geo-conseils.docx
+  [DEJA FAIT] 478 mots -> 444 mots
+
+[60/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_sarl-de-geometres-experts-geolis.docx
+  [DEJA FAIT] 463 mots -> 480 mots
+
+[61/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_sarl-geoexpert.docx
+  [DEJA FAIT] 499 mots -> 381 mots
+
+[62/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_sasu-jerome-perey-geometre-expert.docx
+  [DEJA FAIT] 462 mots -> 456 mots
+
+[63/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_selarl-aura-ge.docx
+  [DEJA FAIT] 481 mots -> 392 mots
+
+[64/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_selarl-de-geometre-expert-cap-geometre-expert.docx
+  [DEJA FAIT] 496 mots -> 450 mots
+
+[65/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_selarl-geogarants-geometres-experts-associes.docx
+  [DEJA FAIT] 500 mots -> 396 mots
+
+[66/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_selarl-geogarants.docx
+  [DEJA FAIT] 454 mots -> 441 mots
+
+[67/923] [DEJA FAIT] Auvergne Rhone Alpes\42\lettre_selarl-mesures-et-patrimoine.docx
+  [DEJA FAIT] 499 mots -> 374 mots
+
+[68/923] [DEJA FAIT] Auvergne Rhone Alpes\43\lettre_eurl-c-mageom.docx
+  [DEJA FAIT] 468 mots -> 443 mots
+
+[69/923] [DEJA FAIT] Auvergne Rhone Alpes\43\lettre_sarl-cabinet-chalaye.docx
+  [DEJA FAIT] 545 mots -> 400 mots
+
+[70/923] [DEJA FAIT] Auvergne Rhone Alpes\43\lettre_sarl-cedric-gonnachon-geometre-expert.docx
+  [DEJA FAIT] 476 mots -> 467 mots
+
+[71/923] [DEJA FAIT] Auvergne Rhone Alpes\43\lettre_sarl-geodiag-43-07.docx
+  [DEJA FAIT] 478 mots -> 472 mots
+
+[72/923] [DEJA FAIT] Auvergne Rhone Alpes\63\lettre_cabinet-blanchard-jean-luc.docx
+  [DEJA FAIT] 507 mots -> 431 mots
+
+[73/923] [DEJA FAIT] Auvergne Rhone Alpes\63\lettre_sarl-serca.docx
+  [DEJA FAIT] 522 mots -> 431 mots
+
+[74/923] [DEJA FAIT] Auvergne Rhone Alpes\63\lettre_sas-cabinet-bisio-et-associes.docx
+  [DEJA FAIT] 467 mots -> 472 mots
+
+[75/923] [DEJA FAIT] Auvergne Rhone Alpes\63\lettre_sasu-geo-conception.docx
+  [DEJA FAIT] 476 mots -> 462 mots
+
+[76/923] [DEJA FAIT] Auvergne Rhone Alpes\63\lettre_selarl-geoval.docx
+  [DEJA FAIT] 472 mots -> 468 mots
+
+[77/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_aedifia-selarl-geometres-experts.docx
+  [DEJA FAIT] 503 mots -> 408 mots
+
+[78/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_cabinet-jacquemet-selarl.docx
+  [DEJA FAIT] 507 mots -> 410 mots
+
+[79/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_cabinet-laurent-philippe.docx
+  [DEJA FAIT] 495 mots -> 405 mots
+
+[80/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_cabinet-morel-dominique.docx
+  [DEJA FAIT] 470 mots -> 455 mots
+
+[81/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_cabinet-perraud-selarl-de-geometres-experts.docx
+  [DEJA FAIT] 459 mots -> 437 mots
+
+[82/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_geodiptyque-sarl-de-geometre-expert.docx
+  [DEJA FAIT] 549 mots -> 403 mots
+
+[83/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_sarl-atlas-ingenierie.docx
+  [DEJA FAIT] 527 mots -> 433 mots
+
+[84/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_sarl-cabinet-brocas-souny-geometres-experts.docx
+  [DEJA FAIT] 460 mots -> 445 mots
+
+[85/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_sarl-cabinet-gillot-geometre-expert.docx
+  [DEJA FAIT] 489 mots -> 389 mots
+
+[86/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_sarl-cabinet-jerome-combecave-geometre-expert.docx
+  [DEJA FAIT] 514 mots -> 445 mots
+
+[87/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_sarl-cabinet-ratelade-petithomme-geometres-experts-associes.docx
+  [DEJA FAIT] 479 mots -> 473 mots
+
+[88/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_sarl-horosia.docx
+  [DEJA FAIT] 505 mots -> 410 mots
+
+[89/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_sarl-mesures-et-solutions.docx
+  [DEJA FAIT] 469 mots -> 459 mots
+
+[90/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_sarl-operandi.docx
+  [DEJA FAIT] 496 mots -> 397 mots
+
+[91/923] [ECHEC] Auvergne Rhone Alpes\69\lettre_sarl-rivolier-mounier.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[92/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_scp-capiaux-contet-geometres-experts.docx
+  [DEJA FAIT] 467 mots -> 454 mots
+
+[93/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_scp-yves-mariey-geometre-expert.docx
+  [DEJA FAIT] 490 mots -> 479 mots
+
+[94/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_selarl-altea-experts.docx
+  [DEJA FAIT] 484 mots -> 448 mots
+
+[95/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_selarl-arc-geo.docx
+  [DEJA FAIT] 458 mots -> 442 mots
+
+[96/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_selarl-cabinet-pierre-dejonghe.docx
+  [DEJA FAIT] 466 mots -> 449 mots
+
+[97/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_selarl-de-geometres-experts-cabinet-denton.docx
+  [DEJA FAIT] 476 mots -> 472 mots
+
+[98/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_selarl-geogarants.docx
+  [DEJA FAIT] 495 mots -> 393 mots
+
+[99/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_selas-charles-davaux-geometre-expert.docx
+  [DEJA FAIT] 514 mots -> 405 mots
+
+[100/923] [DEJA FAIT] Auvergne Rhone Alpes\69\lettre_terra-urba-geometres-experts-selas.docx
+  [DEJA FAIT] 493 mots -> 438 mots
+
+[101/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_agence-rossi-selas-de-geometres-experts.docx
+  [DEJA FAIT] 484 mots -> 386 mots
+
+[102/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_aixgeo-sarl-de-geometres-experts.docx
+  [DEJA FAIT] 492 mots -> 410 mots
+
+[103/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_cabinet-branche-frederic.docx
+  [DEJA FAIT] 522 mots -> 403 mots
+
+[104/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_cabinet-girod-christophe.docx
+  [DEJA FAIT] 477 mots -> 469 mots
+
+[105/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_dupont-jean-collaborateur-liberal-aupres-de-la-selarl-ge-arc.docx
+  [DEJA FAIT] 504 mots -> 405 mots
+
+[106/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_eureka-sas-de-geometres-experts.docx
+  [DEJA FAIT] 459 mots -> 450 mots
+
+[107/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_sarl-a-r-geo-fougerousse-geometre-expert.docx
+  [DEJA FAIT] 471 mots -> 459 mots
+
+[108/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_sarl-de-geometres-experts-cemap.docx
+  [DEJA FAIT] 485 mots -> 419 mots
+
+[109/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_sarl-isageo.docx
+  [DEJA FAIT] 464 mots -> 498 mots
+
+[110/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_selarl-cabinet-ge-arc.docx
+  [DEJA FAIT] 515 mots -> 391 mots
+
+[111/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_selarl-cabinet-vincent-devun.docx
+  [DEJA FAIT] 500 mots -> 426 mots
+
+[112/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_selarl-geode-geometres-experts.docx
+  [DEJA FAIT] 503 mots -> 421 mots
+
+[113/923] [DEJA FAIT] Auvergne Rhone Alpes\73\lettre_selas-mesur-alpes-geometres-experts-associes.docx
+  [DEJA FAIT] 474 mots -> 460 mots
+
+[114/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_aravis-geo-selarl.docx
+  [DEJA FAIT] 488 mots -> 412 mots
+
+[115/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_cabinet-court-olivier.docx
+  [DEJA FAIT] 481 mots -> 420 mots
+
+[116/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_cabinet-desjacques-jerome.docx
+  [DEJA FAIT] 474 mots -> 442 mots
+
+[117/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_cabinet-lecomte-aurelien.docx
+  [DEJA FAIT] 458 mots -> 441 mots
+
+[118/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_cabinet-rostand.docx
+  [DEJA FAIT] 511 mots -> 430 mots
+
+[119/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_dagron-delavoet-sarl-de-geometres-experts.docx
+  [DEJA FAIT] 463 mots -> 453 mots
+
+[120/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_jean-des-garets-sarl-de-geometres-experts.docx
+  [DEJA FAIT] 471 mots -> 473 mots
+
+[121/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_leman-geo-expertise-sarl-lacombe-geometre-expert.docx
+  [DEJA FAIT] 482 mots -> 434 mots
+
+[122/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-alpimap.docx
+  [DEJA FAIT] 494 mots -> 440 mots
+
+[123/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-arpentage-geometres-experts.docx
+  [DEJA FAIT] 478 mots -> 471 mots
+
+[124/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-bacci-geometre-expert.docx
+  [DEJA FAIT] 483 mots -> 453 mots
+
+[125/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-carrier-geometres-experts.docx
+  [DEJA FAIT] 480 mots -> 462 mots
+
+[126/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-colloud-geometres-experts.docx
+  [DEJA FAIT] 469 mots -> 461 mots
+
+[127/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-hexageo-geometres-experts.docx
+  [DEJA FAIT] 458 mots -> 449 mots
+
+[128/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-mpc-geometres-experts-associes.docx
+  [DEJA FAIT] 460 mots -> 438 mots
+
+[129/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-topoalp-jean-marie-bonnaz-geometre-expert.docx
+  [DEJA FAIT] 457 mots -> 431 mots
+
+[130/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sarl-v-k-gaillard-geometres-experts.docx
+  [DEJA FAIT] 476 mots -> 470 mots
+
+[131/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sas-damien-souvignet-geometres-experts-a-associe-unique.docx
+  [DEJA FAIT] 476 mots -> 450 mots
+
+[132/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sas-hyp-arc.docx
+  [DEJA FAIT] 459 mots -> 438 mots
+
+[133/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_sas-justin-pernoud-geometre-expert.docx
+  [DEJA FAIT] 471 mots -> 446 mots
+
+[134/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_selarl-arpent-alp-borrel-denis-geometre-expert.docx
+  [DEJA FAIT] 464 mots -> 465 mots
+
+[135/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_selarl-chauquet-geometres-experts.docx
+  [DEJA FAIT] 504 mots -> 364 mots
+
+[136/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_selarl-daviet-bisson.docx
+  [DEJA FAIT] 474 mots -> 461 mots
+
+[137/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_selarl-geo-mesure-thomas-couvert-et-helene-couvert-geometres.docx
+  [DEJA FAIT] 513 mots -> 435 mots
+
+[138/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_selarl-geode-geometres-experts.docx
+  [DEJA FAIT] 487 mots -> 398 mots
+
+[139/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_selarl-trombert-magretti.docx
+  [DEJA FAIT] 498 mots -> 407 mots
+
+[140/923] [DEJA FAIT] Auvergne Rhone Alpes\74\lettre_selas-canel-geometre-expert.docx
+  [DEJA FAIT] 469 mots -> 460 mots
+
+[141/923] [DEJA FAIT] Bourgogne Franche Comte\21\lettre_cabinet-nicolas-pinot.docx
+  [DEJA FAIT] 460 mots -> 448 mots
+
+[142/923] [DEJA FAIT] Bourgogne Franche Comte\21\lettre_cabinet-tissandier-matthieu.docx
+  [DEJA FAIT] 464 mots -> 449 mots
+
+[143/923] [DEJA FAIT] Bourgogne Franche Comte\21\lettre_geofit.docx
+  [DEJA FAIT] 458 mots -> 435 mots
+
+[144/923] [DEJA FAIT] Bourgogne Franche Comte\21\lettre_sarl-geoconseil.docx
+  [DEJA FAIT] 480 mots -> 441 mots
+
+[145/923] [DEJA FAIT] Bourgogne Franche Comte\21\lettre_selarl-cabinet-gien.docx
+  [DEJA FAIT] 497 mots -> 403 mots
+
+[146/923] [DEJA FAIT] Bourgogne Franche Comte\21\lettre_selarl-pj-marchal.docx
+  [DEJA FAIT] 499 mots -> 406 mots
+
+[147/923] [DEJA FAIT] Bourgogne Franche Comte\21\lettre_selarl-quarre-geometres-experts.docx
+  [DEJA FAIT] 451 mots -> 440 mots
+
+[148/923] [DEJA FAIT] Bourgogne Franche Comte\25\lettre_cabinet-bettinelli-grappe-marie-claire.docx
+  [DEJA FAIT] 457 mots -> 441 mots
+
+[149/923] [DEJA FAIT] Bourgogne Franche Comte\25\lettre_sarl-cabinet-coquard.docx
+  [DEJA FAIT] 479 mots -> 466 mots
+
+[150/923] [DEJA FAIT] Bourgogne Franche Comte\25\lettre_sarl-cabinet-devillairs.docx
+  [DEJA FAIT] 464 mots -> 447 mots
+
+[151/923] [DEJA FAIT] Bourgogne Franche Comte\25\lettre_sarl-cabinet-jamey-et-associes.docx
+  [DEJA FAIT] 470 mots -> 434 mots
+
+[152/923] [ECHEC] Bourgogne Franche Comte\25\lettre_sarl-cabinet-kury.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[153/923] [ECHEC] Bourgogne Franche Comte\25\lettre_sas-balland-geometre-expert-et-associe.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[154/923] [DEJA FAIT] Bourgogne Franche Comte\25\lettre_selarl-benoit-deroche-geometre-expert.docx
+  [DEJA FAIT] 452 mots -> 440 mots
+
+[155/923] [DEJA FAIT] Bourgogne Franche Comte\25\lettre_selarl-thomas-petite-geometre-expert-dplg.docx
+  [DEJA FAIT] 458 mots -> 449 mots
+
+[156/923] [DEJA FAIT] Bourgogne Franche Comte\39\lettre_cabinet-lamy-nicolas.docx
+  [DEJA FAIT] 479 mots -> 443 mots
+
+[157/923] [DEJA FAIT] Bourgogne Franche Comte\39\lettre_sarl-abcd-geometres-et-ingenierie.docx
+  [DEJA FAIT] 503 mots -> 386 mots
+
+[158/923] [DEJA FAIT] Bourgogne Franche Comte\39\lettre_sas-cabinet-alban-vuillemey.docx
+  [DEJA FAIT] 493 mots -> 479 mots
+
+[159/923] [DEJA FAIT] Bourgogne Franche Comte\39\lettre_selas-grillet-favaro.docx
+  [DEJA FAIT] 486 mots -> 447 mots
+
+[160/923] [DEJA FAIT] Bourgogne Franche Comte\58\lettre_axis-conseils.docx
+  [DEJA FAIT] 509 mots -> 493 mots
+
+[161/923] [DEJA FAIT] Bourgogne Franche Comte\70\lettre_sarl-cabinet-alexis-meunier.docx
+  [DEJA FAIT] 473 mots -> 446 mots
+
+[162/923] [DEJA FAIT] Bourgogne Franche Comte\70\lettre_sarl-cabinet-coquard.docx
+  [DEJA FAIT] 499 mots -> 387 mots
+
+[163/923] [DEJA FAIT] Bourgogne Franche Comte\70\lettre_sarl-delplanque-xavier.docx
+  [DEJA FAIT] 507 mots -> 438 mots
+
+[164/923] [DEJA FAIT] Bourgogne Franche Comte\70\lettre_sarl-pierre-boffy.docx
+  [DEJA FAIT] 457 mots -> 457 mots
+
+[165/923] [DEJA FAIT] Bourgogne Franche Comte\71\lettre_eurl-cabinet-patrick-branly.docx
+  [DEJA FAIT] 457 mots -> 442 mots
+
+[166/923] [DEJA FAIT] Bourgogne Franche Comte\71\lettre_sarl-cabinet-pierre-bouvier.docx
+  [DEJA FAIT] 473 mots -> 464 mots
+
+[167/923] [ECHEC] Bourgogne Franche Comte\71\lettre_sas-berthet-liogier-caulfuty.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[168/923] [DEJA FAIT] Bourgogne Franche Comte\71\lettre_sas-cabinet-lauberat-javouhey.docx
+  [DEJA FAIT] 472 mots -> 462 mots
+
+[169/923] [DEJA FAIT] Bourgogne Franche Comte\71\lettre_selarl-2age-conseils.docx
+  [DEJA FAIT] 475 mots -> 465 mots
+
+[170/923] [DEJA FAIT] Bourgogne Franche Comte\71\lettre_selarl-sigema.docx
+  [DEJA FAIT] 475 mots -> 466 mots
+
+[171/923] [DEJA FAIT] Bourgogne Franche Comte\71\lettre_selas-cmg.docx
+  [DEJA FAIT] 474 mots -> 365 mots
+
+[172/923] [DEJA FAIT] Bourgogne Franche Comte\71\lettre_selas-soulage-bouillier.docx
+  [DEJA FAIT] 469 mots -> 448 mots
+
+[173/923] [DEJA FAIT] Bourgogne Franche Comte\89\lettre_sarl-bureau-de-geometres-d-arpentage-et-de-topographie-bgat.docx
+  [DEJA FAIT] 489 mots -> 391 mots
+
+[174/923] [DEJA FAIT] Bourgogne Franche Comte\89\lettre_sarl-deleligne-et-associes.docx
+  [DEJA FAIT] 489 mots -> 381 mots
+
+[175/923] [DEJA FAIT] Bourgogne Franche Comte\89\lettre_selarl-azimut-conseils.docx
+  [DEJA FAIT] 472 mots -> 463 mots
+
+[176/923] [HORS ZONE] Bourgogne Franche Comte\90\lettre_cabinet-clerget-jean-christophe.docx
+  [HORS ZONE] 466 mots -> 464 mots (en 1 essai(s))
+
+[177/923] [HORS ZONE] Bourgogne Franche Comte\90\lettre_eurl-cabinet-j-baptiste-rollin.docx
+  [HORS ZONE] 513 mots -> 423 mots (en 1 essai(s))
+
+[178/923] [OK] Bourgogne Franche Comte\90\lettre_sarl-jeremy-canal.docx
+  [OK] 469 mots -> 450 mots (en 1 essai(s))
+
+[179/923] [OK] Bretagne\22\lettre_almg.docx
+  [OK] 459 mots -> 439 mots (en 1 essai(s))
+
+[180/923] [OK] Bretagne\22\lettre_bm-geometre.docx
+  [OK] 471 mots -> 438 mots (en 1 essai(s))
+
+[181/923] [OK] Bretagne\22\lettre_cabinet-lemoigne-jean-luc.docx
+  [OK] 457 mots -> 449 mots (en 1 essai(s))
+
+[182/923] [HORS ZONE] Bretagne\22\lettre_sarl-adi-me.docx
+  [HORS ZONE] 469 mots -> 453 mots (en 1 essai(s))
+
+[183/923] [OK] Bretagne\22\lettre_sarl-ageo-22.docx
+  [OK] 459 mots -> 437 mots (en 1 essai(s))
+
+[184/923] [OK] Bretagne\22\lettre_sarl-deluchat-lec-hvien.docx
+  [OK] 453 mots -> 444 mots (en 1 essai(s))
+
+[185/923] [OK] Bretagne\22\lettre_sarl-geo-cap.docx
+  [OK] 492 mots -> 445 mots (en 1 essai(s))
+
+[186/923] [OK] Bretagne\22\lettre_selarl-geo-armor-geometres-experts.docx
+  [OK] 456 mots -> 446 mots (en 1 essai(s))
+
+[187/923] [OK] Bretagne\22\lettre_selarl-nicolas-associes.docx
+  [OK] 483 mots -> 441 mots (en 1 essai(s))
+
+[188/923] [HORS ZONE] Bretagne\22\lettre_selas-hamel-ge-montfort.docx
+  [HORS ZONE] 531 mots -> 385 mots (en 1 essai(s))
+
+[189/923] [OK] Bretagne\29\lettre_c-i-t-selarl-de-geometres-experts.docx
+  [OK] 519 mots -> 440 mots (en 1 essai(s))
+
+[190/923] [OK] Bretagne\29\lettre_cabinet-leclerc-eric.docx
+  [OK] 451 mots -> 438 mots (en 1 essai(s))
+
+[191/923] [HORS ZONE] Bretagne\29\lettre_cabinet-maquet-eric.docx
+  [HORS ZONE] 468 mots -> 453 mots (en 1 essai(s))
+
+[192/923] [HORS ZONE] Bretagne\29\lettre_cabinet-peron-sylvie.docx
+  [HORS ZONE] 483 mots -> 416 mots (en 1 essai(s))
+
+[193/923] [OK] Bretagne\29\lettre_eurl-renevot-didier-geometre-expert-foncier-dplg.docx
+  [OK] 472 mots -> 449 mots (en 1 essai(s))
+
+[194/923] [HORS ZONE] Bretagne\29\lettre_sarl-amenagements-territoires-ouest-geometres-experts.docx
+  [HORS ZONE] 504 mots -> 409 mots (en 1 essai(s))
+
+[195/923] [HORS ZONE] Bretagne\29\lettre_sarl-area.docx
+  [HORS ZONE] 486 mots -> 402 mots (en 1 essai(s))
+
+[196/923] [OK] Bretagne\29\lettre_sarl-geofimo.docx
+  [OK] 466 mots -> 450 mots (en 1 essai(s))
+
+[197/923] [HORS ZONE] Bretagne\29\lettre_sasu-cabinet-quenaon-regis.docx
+  [HORS ZONE] 487 mots -> 406 mots (en 1 essai(s))
+
+[198/923] [HORS ZONE] Bretagne\29\lettre_selarl-cabinet-ollivier.docx
+  [HORS ZONE] 483 mots -> 398 mots (en 1 essai(s))
+
+[199/923] [OK] Bretagne\29\lettre_selarl-roux-jankowski-geometres-experts-associes.docx
+  [OK] 460 mots -> 449 mots (en 1 essai(s))
+
+[200/923] [HORS ZONE] Bretagne\29\lettre_selarl-roux-jankowski.docx
+  [HORS ZONE] 484 mots -> 421 mots (en 1 essai(s))
+
+[201/923] [OK] Bretagne\29\lettre_selarl-urbateam.docx
+  [OK] 453 mots -> 446 mots (en 1 essai(s))
+
+[202/923] [OK] Bretagne\35\lettre_cabinet-labbe-jean-yves.docx
+  [OK] 486 mots -> 449 mots (en 1 essai(s))
+
+[203/923] [OK] Bretagne\35\lettre_eurl-jean-philippe-bodin-geometre-expert.docx
+  [OK] 470 mots -> 446 mots (en 1 essai(s))
+
+[204/923] [HORS ZONE] Bretagne\35\lettre_legendre-sarl.docx
+  [HORS ZONE] 454 mots -> 453 mots (en 1 essai(s))
+
+[205/923] [OK] Bretagne\35\lettre_sarl-bgm-geometre-expert.docx
+  [OK] 466 mots -> 436 mots (en 1 essai(s))
+
+[206/923] [HORS ZONE] Bretagne\35\lettre_sarl-geoid.docx
+  [HORS ZONE] 479 mots -> 465 mots (en 1 essai(s))
+
+[207/923] [OK] Bretagne\35\lettre_sarl-prigent-associes.docx
+  [OK] 475 mots -> 434 mots (en 1 essai(s))
+
+[208/923] [OK] Bretagne\35\lettre_sasu-maxime-menager.docx
+  [OK] 459 mots -> 446 mots (en 1 essai(s))
+
+[209/923] [OK] Bretagne\35\lettre_selarl-eguimos.docx
+  [OK] 481 mots -> 445 mots (en 1 essai(s))
+
+[210/923] [HORS ZONE] Bretagne\35\lettre_selarl-jeremie-forgeoux.docx
+  [HORS ZONE] 469 mots -> 454 mots (en 1 essai(s))
+
+[211/923] [HORS ZONE] Bretagne\35\lettre_selas-geomat.docx
+  [HORS ZONE] 527 mots -> 425 mots (en 1 essai(s))
+
+[212/923] [ECHEC] Bretagne\35\lettre_syndxpert-selarl.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[213/923] [OK] Bretagne\56\lettre_cabinet-le-meur-jean-louis.docx
+  [OK] 460 mots -> 440 mots (en 1 essai(s))
+
+[214/923] [HORS ZONE] Bretagne\56\lettre_eurl-cogeo.docx
+  [HORS ZONE] 473 mots -> 451 mots (en 1 essai(s))
+
+[215/923] [OK] Bretagne\56\lettre_sarl-cabinet-saint-julien-ge.docx
+  [OK] 460 mots -> 447 mots (en 1 essai(s))
+
+[216/923] [HORS ZONE] Bretagne\56\lettre_sarl-laurent-martin.docx
+  [HORS ZONE] 478 mots -> 462 mots (en 1 essai(s))
+
+[217/923] [OK] Bretagne\56\lettre_sarl-ronan-bollet.docx
+  [OK] 475 mots -> 448 mots (en 1 essai(s))
+
+[218/923] [OK] Bretagne\56\lettre_sarl-ronan-lenoir.docx
+  [OK] 495 mots -> 447 mots (en 1 essai(s))
+
+[219/923] [HORS ZONE] Bretagne\56\lettre_sas-geo1m.docx
+  [HORS ZONE] 470 mots -> 453 mots (en 1 essai(s))
+
+[220/923] [OK] Bretagne\56\lettre_selarl-ag2m-geometres-experts.docx
+  [OK] 470 mots -> 449 mots (en 1 essai(s))
+
+[221/923] [HORS ZONE] Bretagne\56\lettre_selas-geo-bretagne-sud.docx
+  [HORS ZONE] 488 mots -> 415 mots (en 1 essai(s))
+
+[222/923] [OK] Centre Val De Loire\18\lettre_expert-metric-sas.docx
+  [OK] 461 mots -> 441 mots (en 1 essai(s))
+
+[223/923] [HORS ZONE] Centre Val De Loire\18\lettre_selarl-bonhomme-louis.docx
+  [HORS ZONE] 501 mots -> 400 mots (en 1 essai(s))
+
+[224/923] [OK] Centre Val De Loire\18\lettre_selarl-cabinet-denis-bodenez.docx
+  [OK] 481 mots -> 447 mots (en 1 essai(s))
+
+[225/923] [HORS ZONE] Centre Val De Loire\18\lettre_selas-neuilly.docx
+  [HORS ZONE] 492 mots -> 394 mots (en 1 essai(s))
+
+[226/923] [HORS ZONE] Centre Val De Loire\28\lettre_forteau-faisant-sarl.docx
+  [HORS ZONE] 481 mots -> 378 mots (en 1 essai(s))
+
+[227/923] [HORS ZONE] Centre Val De Loire\28\lettre_selarl-cabinet-esnault-geometre-expert.docx
+  [HORS ZONE] 468 mots -> 455 mots (en 1 essai(s))
+
+[228/923] [OK] Centre Val De Loire\36\lettre_abscisse-geo-conseil-sarl.docx
+  [OK] 476 mots -> 442 mots (en 1 essai(s))
+
+[229/923] [OK] Centre Val De Loire\36\lettre_cabinet-chichery-germain.docx
+  [OK] 539 mots -> 435 mots (en 1 essai(s))
+
+[230/923] [OK] Centre Val De Loire\36\lettre_cabinet-dayot-jean-charles.docx
+  [OK] 484 mots -> 439 mots (en 1 essai(s))
+
+[231/923] [HORS ZONE] Centre Val De Loire\36\lettre_selas-bia-geo.docx
+  [HORS ZONE] 466 mots -> 451 mots (en 1 essai(s))
+
+[232/923] [HORS ZONE] Centre Val De Loire\37\lettre_air-geo-scp-de-geometres-experts-fonciers.docx
+  [HORS ZONE] 479 mots -> 454 mots (en 1 essai(s))
+
+[233/923] [ECHEC] Centre Val De Loire\37\lettre_branly-associes.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[234/923] [HORS ZONE] Centre Val De Loire\37\lettre_cabinet-benoit-de-corbier.docx
+  [HORS ZONE] 484 mots -> 424 mots (en 1 essai(s))
+
+[235/923] [HORS ZONE] Centre Val De Loire\37\lettre_eric-lecointre-geometre-expert.docx
+  [HORS ZONE] 466 mots -> 465 mots (en 1 essai(s))
+
+[236/923] [OK] Centre Val De Loire\37\lettre_eurl-francois-tartarin.docx
+  [OK] 459 mots -> 439 mots (en 1 essai(s))
+
+[237/923] [HORS ZONE] Centre Val De Loire\37\lettre_geoplus.docx
+  [HORS ZONE] 493 mots -> 414 mots (en 1 essai(s))
+
+[238/923] [OK] Centre Val De Loire\37\lettre_selarl-bruno-etchebarne.docx
+  [OK] 484 mots -> 435 mots (en 1 essai(s))
+
+[239/923] [HORS ZONE] Centre Val De Loire\37\lettre_selarl-fr-lecreux-g-sivigny-s-duhard-geometres-experts-assoc.docx
+  [HORS ZONE] 480 mots -> 453 mots (en 1 essai(s))
+
+[240/923] [HORS ZONE] Centre Val De Loire\37\lettre_selarl-rousseau-et-schorgen.docx
+  [HORS ZONE] 478 mots -> 458 mots (en 1 essai(s))
+
+[241/923] [HORS ZONE] Centre Val De Loire\41\lettre_cabinet-dumont-pascal.docx
+  [HORS ZONE] 477 mots -> 458 mots (en 1 essai(s))
+
+[242/923] [HORS ZONE] Centre Val De Loire\41\lettre_mougel-ludovic.docx
+  [HORS ZONE] 471 mots -> 451 mots (en 1 essai(s))
+
+[243/923] [OK] Centre Val De Loire\41\lettre_sas-getam-geomexpert.docx
+  [OK] 458 mots -> 442 mots (en 1 essai(s))
+
+[244/923] [HORS ZONE] Centre Val De Loire\45\lettre_absolu-selas.docx
+  [HORS ZONE] 479 mots -> 454 mots (en 1 essai(s))
+
+[245/923] [OK] Centre Val De Loire\45\lettre_ageo-expert-eurl.docx
+  [OK] 474 mots -> 446 mots (en 1 essai(s))
+
+[246/923] [OK] Centre Val De Loire\45\lettre_axis-conseils.docx
+  [OK] 451 mots -> 438 mots (en 1 essai(s))
+
+[247/923] [OK] Centre Val De Loire\45\lettre_sas-getam-geomexpert.docx
+  [OK] 452 mots -> 439 mots (en 1 essai(s))
+
+[248/923] [OK] Centre Val De Loire\45\lettre_selarl-perronnet-lucas-geometres-experts.docx
+  [OK] 454 mots -> 438 mots (en 1 essai(s))
+
+[249/923] [HORS ZONE] Corse\20\lettre_cabinet-dominique-tiberi-geometre-expert.docx
+  [HORS ZONE] 490 mots -> 390 mots (en 1 essai(s))
+
+[250/923] [OK] Corse\20\lettre_cabinet-eyssette.docx
+  [OK] 482 mots -> 443 mots (en 1 essai(s))
+
+[251/923] [OK] Corse\20\lettre_cabinet-julien-giraschi-geometre-expert.docx
+  [OK] 488 mots -> 448 mots (en 1 essai(s))
+
+[252/923] [HORS ZONE] Corse\20\lettre_cabinet-medori-simonetti-malaspina-sarl.docx
+  [HORS ZONE] 476 mots -> 465 mots (en 1 essai(s))
+
+[253/923] [OK] Corse\20\lettre_eurl-cabinet-renucci.docx
+  [OK] 468 mots -> 446 mots (en 1 essai(s))
+
+[254/923] [OK] Corse\20\lettre_hughes-evrard-sarl-de-geometre-expert.docx
+  [OK] 483 mots -> 433 mots (en 1 essai(s))
+
+[255/923] [HORS ZONE] Corse\20\lettre_sarl-cabinet-hugo-petroni.docx
+  [HORS ZONE] 531 mots -> 424 mots (en 1 essai(s))
+
+[256/923] [HORS ZONE] Corse\20\lettre_sarl-cabinet-palandri-rodriguez.docx
+  [HORS ZONE] 524 mots -> 478 mots (en 1 essai(s))
+
+[257/923] [HORS ZONE] Corse\20\lettre_sarl-cabinet-pierre-rodriguez.docx
+  [HORS ZONE] 464 mots -> 466 mots (en 1 essai(s))
+
+[258/923] [OK] Corse\20\lettre_sarl-cabinet-vincenti-vacher.docx
+  [OK] 482 mots -> 431 mots (en 1 essai(s))
+
+[259/923] [HORS ZONE] Corse\20\lettre_sarl-geotopo.docx
+  [HORS ZONE] 468 mots -> 452 mots (en 1 essai(s))
+
+[260/923] [HORS ZONE] Corse\20\lettre_sarl-kalligeo.docx
+  [HORS ZONE] 485 mots -> 402 mots (en 1 essai(s))
+
+[261/923] [OK] Corse\20\lettre_sas-cabinet-luc-grassini.docx
+  [OK] 471 mots -> 439 mots (en 1 essai(s))
+
+[262/923] [OK] Corse\20\lettre_sas-cesari-geometre-expert.docx
+  [OK] 528 mots -> 438 mots (en 1 essai(s))
+
+[263/923] [OK] Corse\20\lettre_sas-sageo.docx
+  [OK] 468 mots -> 444 mots (en 1 essai(s))
+
+[264/923] [OK] Corse\20\lettre_sasu-cabinet-gexta.docx
+  [OK] 479 mots -> 439 mots (en 1 essai(s))
+
+[265/923] [HORS ZONE] Corse\20\lettre_sasu-cabinet-mattei-geometre-expert.docx
+  [HORS ZONE] 468 mots -> 458 mots (en 1 essai(s))
+
+[266/923] [HORS ZONE] Corse\20\lettre_scp-martini-geometre-expert.docx
+  [HORS ZONE] 490 mots -> 404 mots (en 1 essai(s))
+
+[267/923] [HORS ZONE] Corse\20\lettre_selarl-agex.docx
+  [HORS ZONE] 477 mots -> 468 mots (en 1 essai(s))
+
+[268/923] [HORS ZONE] Corse\20\lettre_selarl-cabinet-sibella-associes.docx
+  [HORS ZONE] 491 mots -> 400 mots (en 1 essai(s))
+
+[269/923] [HORS ZONE] Corse\20\lettre_selarl-legrand-et-antoniotti.docx
+  [HORS ZONE] 491 mots -> 420 mots (en 1 essai(s))
+
+[270/923] [HORS ZONE] Corse\20\lettre_selasu-terra-metra.docx
+  [HORS ZONE] 461 mots -> 452 mots (en 1 essai(s))
+
+[271/923] [HORS ZONE] Grand Est\08\lettre_angle-et-mont-sarl.docx
+  [HORS ZONE] 454 mots -> 452 mots (en 1 essai(s))
+
+[272/923] [OK] Grand Est\08\lettre_cabinet-vannier-geometre-expert-selarl.docx
+  [OK] 458 mots -> 445 mots (en 1 essai(s))
+
+[273/923] [HORS ZONE] Grand Est\08\lettre_sarl-bureau-etude-dumay.docx
+  [HORS ZONE] 479 mots -> 471 mots (en 1 essai(s))
+
+[274/923] [HORS ZONE] Grand Est\08\lettre_sarl-cabinet-berg-marconnet-geometre-expert.docx
+  [HORS ZONE] 486 mots -> 429 mots (en 1 essai(s))
+
+[275/923] [HORS ZONE] Grand Est\08\lettre_sas-delaloi-geometres-experts-associes.docx
+  [HORS ZONE] 480 mots -> 452 mots (en 1 essai(s))
+
+[276/923] [HORS ZONE] Grand Est\10\lettre_piechowski-leblanc-breton.docx
+  [HORS ZONE] 466 mots -> 454 mots (en 1 essai(s))
+
+[277/923] [HORS ZONE] Grand Est\10\lettre_sarl-guichard-et-associes.docx
+  [HORS ZONE] 461 mots -> 457 mots (en 1 essai(s))
+
+[278/923] [OK] Grand Est\51\lettre_sarl-cabinet-tessier-geometre-expert.docx
+  [OK] 458 mots -> 445 mots (en 1 essai(s))
+
+[279/923] [OK] Grand Est\51\lettre_sarl-cabinet-wienert.docx
+  [OK] 455 mots -> 441 mots (en 1 essai(s))
+
+[280/923] [OK] Grand Est\51\lettre_sarl-descamps-duhameau.docx
+  [OK] 470 mots -> 448 mots (en 1 essai(s))
+
+[281/923] [HORS ZONE] Grand Est\51\lettre_scp-o-duyme-e-vittenet-m-renfer-geometres-experts-associes.docx
+  [HORS ZONE] 484 mots -> 407 mots (en 1 essai(s))
+
+[282/923] [HORS ZONE] Grand Est\51\lettre_selarl-terra-geometres-experts-51.docx
+  [HORS ZONE] 487 mots -> 401 mots (en 1 essai(s))
+
+[283/923] [OK] Grand Est\52\lettre_cabinet-cardinal-longechamp.docx
+  [OK] 451 mots -> 446 mots (en 1 essai(s))
+
+[284/923] [OK] Grand Est\52\lettre_selarl-kolb-bourrier.docx
+  [OK] 454 mots -> 438 mots (en 1 essai(s))
+
+[285/923] [HORS ZONE] Grand Est\54\lettre_cabinet-kircher-jean-michel.docx
+  [HORS ZONE] 488 mots -> 427 mots (en 1 essai(s))
+
+[286/923] [HORS ZONE] Grand Est\54\lettre_cabinet-piquard-gilles.docx
+  [HORS ZONE] 482 mots -> 404 mots (en 1 essai(s))
+
+[287/923] [OK] Grand Est\54\lettre_geodatis-selarl-de-geometres-experts.docx
+  [OK] 480 mots -> 450 mots (en 1 essai(s))
+
+[288/923] [HORS ZONE] Grand Est\54\lettre_sarl-herreye-et-julien.docx
+  [HORS ZONE] 492 mots -> 394 mots (en 1 essai(s))
+
+[289/923] [ECHEC] Grand Est\54\lettre_scp-arnould-jacquot.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[290/923] [HORS ZONE] Grand Est\54\lettre_selarl-amesure.docx
+  [HORS ZONE] 500 mots -> 383 mots (en 1 essai(s))
+
+[291/923] [HORS ZONE] Grand Est\54\lettre_selarl-arpent-conseils.docx
+  [HORS ZONE] 516 mots -> 414 mots (en 1 essai(s))
+
+[292/923] [HORS ZONE] Grand Est\54\lettre_selarl-audrey-devillier.docx
+  [HORS ZONE] 497 mots -> 400 mots (en 1 essai(s))
+
+[293/923] [OK] Grand Est\54\lettre_selarl-sabater-geometre-expert.docx
+  [OK] 471 mots -> 441 mots (en 1 essai(s))
+
+[294/923] [HORS ZONE] Grand Est\54\lettre_selurl-geometre-expert-foncier.docx
+  [HORS ZONE] 473 mots -> 458 mots (en 1 essai(s))
+
+[295/923] [HORS ZONE] Grand Est\55\lettre_selas-cabinet-gauchotte-francis.docx
+  [HORS ZONE] 387 mots -> 465 mots (en 1 essai(s))
+
+[296/923] [HORS ZONE] Grand Est\57\lettre_benoit-geometre-expert.docx
+  [HORS ZONE] 492 mots -> 418 mots (en 1 essai(s))
+
+[297/923] [OK] Grand Est\57\lettre_cabinet-bousser-sas-geometre-expert.docx
+  [OK] 478 mots -> 447 mots (en 1 essai(s))
+
+[298/923] [HORS ZONE] Grand Est\57\lettre_cabinet-helstroffer-herve.docx
+  [HORS ZONE] 480 mots -> 463 mots (en 1 essai(s))
+
+[299/923] [HORS ZONE] Grand Est\57\lettre_cabinet-lambert-et-associes-selarl.docx
+  [HORS ZONE] 482 mots -> 423 mots (en 1 essai(s))
+
+[300/923] [HORS ZONE] Grand Est\57\lettre_geogimo-selas.docx
+  [HORS ZONE] 481 mots -> 451 mots (en 1 essai(s))
+
+[301/923] [OK] Grand Est\57\lettre_geomest.docx
+  [OK] 488 mots -> 433 mots (en 1 essai(s))
+
+[302/923] [HORS ZONE] Grand Est\57\lettre_guelle-et-fuchs.docx
+  [HORS ZONE] 467 mots -> 464 mots (en 1 essai(s))
+
+[303/923] [ECHEC] Grand Est\57\lettre_jlbdw.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[304/923] [HORS ZONE] Grand Est\57\lettre_pina-emmanuel-metz-metropole.docx
+  [HORS ZONE] 467 mots -> 466 mots (en 1 essai(s))
+
+[305/923] [HORS ZONE] Grand Est\57\lettre_sa-sge-gingembre-et-associes-societe-anonyme.docx
+  [HORS ZONE] 495 mots -> 422 mots (en 1 essai(s))
+
+[306/923] [HORS ZONE] Grand Est\57\lettre_sarl-c-a-r-t-a-g-e.docx
+  [HORS ZONE] 520 mots -> 426 mots (en 1 essai(s))
+
+[307/923] [HORS ZONE] Grand Est\57\lettre_sarl-cabinet-meley-strozyna-geometres-experts.docx
+  [HORS ZONE] 488 mots -> 452 mots (en 1 essai(s))
+
+[308/923] [HORS ZONE] Grand Est\57\lettre_selarl-carpentier-muller.docx
+  [HORS ZONE] 490 mots -> 426 mots (en 1 essai(s))
+
+[309/923] [HORS ZONE] Grand Est\67\lettre_aa-geometre-expert-cabinet-diethrich.docx
+  [HORS ZONE] 474 mots -> 460 mots (en 1 essai(s))
+
+[310/923] [OK] Grand Est\67\lettre_archimed-selas.docx
+  [OK] 462 mots -> 448 mots (en 1 essai(s))
+
+[311/923] [HORS ZONE] Grand Est\67\lettre_cabinet-bilhaut.docx
+  [HORS ZONE] 470 mots -> 461 mots (en 1 essai(s))
+
+[312/923] [OK] Grand Est\67\lettre_cabinet-carbiener-thierry.docx
+  [OK] 455 mots -> 438 mots (en 1 essai(s))
+
+[313/923] [HORS ZONE] Grand Est\67\lettre_cabinet-un-point-six-geometres-experts.docx
+  [HORS ZONE] 466 mots -> 459 mots (en 1 essai(s))
+
+[314/923] [OK] Grand Est\67\lettre_elligeo.docx
+  [OK] 458 mots -> 438 mots (en 1 essai(s))
+
+[315/923] [ECHEC] Grand Est\67\lettre_horizon-geometres-experts.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[316/923] [OK] Grand Est\67\lettre_sas-photomap.docx
+  [OK] 453 mots -> 439 mots (en 1 essai(s))
+
+[317/923] [HORS ZONE] Grand Est\67\lettre_sas-yann-le-boulaire.docx
+  [HORS ZONE] 469 mots -> 457 mots (en 1 essai(s))
+
+[318/923] [HORS ZONE] Grand Est\67\lettre_selarl-graff-kiehl.docx
+  [HORS ZONE] 489 mots -> 388 mots (en 1 essai(s))
+
+[319/923] [OK] Grand Est\67\lettre_selarl-julien-carbiener.docx
+  [OK] 468 mots -> 450 mots (en 1 essai(s))
+
+[320/923] [OK] Grand Est\68\lettre_age-geometres-experts.docx
+  [OK] 520 mots -> 435 mots (en 1 essai(s))
+
+[321/923] [HORS ZONE] Grand Est\68\lettre_cabinet-geomex-sarl-a-associe-unique.docx
+  [HORS ZONE] 501 mots -> 385 mots (en 1 essai(s))
+
+[322/923] [HORS ZONE] Grand Est\68\lettre_david-scherrer.docx
+  [HORS ZONE] 508 mots -> 391 mots (en 1 essai(s))
+
+[323/923] [HORS ZONE] Grand Est\68\lettre_geop-geometres-experts.docx
+  [HORS ZONE] 484 mots -> 394 mots (en 1 essai(s))
+
+[324/923] [OK] Grand Est\68\lettre_jung-marc-sarl.docx
+  [OK] 472 mots -> 444 mots (en 1 essai(s))
+
+[325/923] [OK] Grand Est\68\lettre_sarl-ador-de-geometres-experts.docx
+  [OK] 493 mots -> 449 mots (en 1 essai(s))
+
+[326/923] [OK] Grand Est\68\lettre_sasu-ak-geo.docx
+  [OK] 451 mots -> 437 mots (en 1 essai(s))
+
+[327/923] [HORS ZONE] Grand Est\68\lettre_scp-gerard-bihler-et-philippe-bernay.docx
+  [HORS ZONE] 468 mots -> 428 mots (en 1 essai(s))
+
+[328/923] [HORS ZONE] Grand Est\68\lettre_scp-ostermann-remi-geometres-experts-associes.docx
+  [HORS ZONE] 473 mots -> 457 mots (en 1 essai(s))
+
+[329/923] [HORS ZONE] Grand Est\68\lettre_selarl-cabinet-eric-hernandez.docx
+  [HORS ZONE] 489 mots -> 393 mots (en 1 essai(s))
+
+[330/923] [HORS ZONE] Grand Est\88\lettre_cabinet-chardot-olivier-selas-de-geometres-experts.docx
+  [HORS ZONE] 513 mots -> 407 mots (en 1 essai(s))
+
+[331/923] [OK] Grand Est\88\lettre_selarl-de-geometres-experts-jacques.docx
+  [OK] 464 mots -> 448 mots (en 1 essai(s))
+
+[332/923] [OK] Grand Est\88\lettre_selarl-merle.docx
+  [OK] 477 mots -> 435 mots (en 1 essai(s))
+
+[333/923] [HORS ZONE] Grand Est\88\lettre_selas-juliette-barlier.docx
+  [HORS ZONE] 489 mots -> 453 mots (en 1 essai(s))
+
+[334/923] [OK] Hauts De France\02\lettre_gexpeo.docx
+  [OK] 487 mots -> 434 mots (en 1 essai(s))
+
+[335/923] [OK] Hauts De France\02\lettre_scp-martin-et-fiore-geometres-experts-associes.docx
+  [OK] 470 mots -> 446 mots (en 1 essai(s))
+
+[336/923] [OK] Hauts De France\02\lettre_xavier-leduc-geometre-expert.docx
+  [OK] 453 mots -> 443 mots (en 1 essai(s))
+
+[337/923] [OK] Hauts De France\59\lettre_altigeo-sarl-de-geometres-experts.docx
+  [OK] 451 mots -> 437 mots (en 1 essai(s))
+
+[338/923] [HORS ZONE] Hauts De France\59\lettre_cabinet-berlem-alexandre-sarl-societe-de-geometre-expert.docx
+  [HORS ZONE] 473 mots -> 458 mots (en 1 essai(s))
+
+[339/923] [HORS ZONE] Hauts De France\59\lettre_cabinet-jacques-lefebvre-selas-de-geometres-experts.docx
+  [HORS ZONE] 466 mots -> 451 mots (en 1 essai(s))
+
+[340/923] [HORS ZONE] Hauts De France\59\lettre_cabinet-louis-lenhardt.docx
+  [HORS ZONE] 475 mots -> 456 mots (en 1 essai(s))
+
+[341/923] [OK] Hauts De France\59\lettre_cabinet-sagniez-michel.docx
+  [OK] 459 mots -> 437 mots (en 1 essai(s))
+
+[342/923] [OK] Hauts De France\59\lettre_caron-briffaut-selarl-de-geometres-experts.docx
+  [OK] 462 mots -> 446 mots (en 1 essai(s))
+
+[343/923] [ECHEC] Hauts De France\59\lettre_christophe-galliaerde-sarl-de-geometres-experts-dplg.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[344/923] [OK] Hauts De France\59\lettre_dix-sept-ares.docx
+  [OK] 460 mots -> 443 mots (en 1 essai(s))
+
+[345/923] [HORS ZONE] Hauts De France\59\lettre_estadieu-geometre-expert.docx
+  [HORS ZONE] 513 mots -> 390 mots (en 1 essai(s))
+
+[346/923] [HORS ZONE] Hauts De France\59\lettre_geo-flandres.docx
+  [HORS ZONE] 474 mots -> 458 mots (en 1 essai(s))
+
+[347/923] [HORS ZONE] Hauts De France\59\lettre_geo-nore-sarl-de-geometre-expert.docx
+  [HORS ZONE] 502 mots -> 414 mots (en 1 essai(s))
+
+[348/923] [OK] Hauts De France\59\lettre_sarl-2ct-geometre-expert.docx
+  [OK] 529 mots -> 447 mots (en 1 essai(s))
+
+[349/923] [HORS ZONE] Hauts De France\59\lettre_sarl-geonov-geometre-expert.docx
+  [HORS ZONE] 486 mots -> 425 mots (en 1 essai(s))
+
+[350/923] [HORS ZONE] Hauts De France\59\lettre_sarl-sylvie-lefebvre-christophe-pawlak-de-geometres-experts-.docx
+  [HORS ZONE] 481 mots -> 408 mots (en 1 essai(s))
+
+[351/923] [HORS ZONE] Hauts De France\59\lettre_scp-bourgogne-beaucamp-geometres-experts.docx
+  [HORS ZONE] 494 mots -> 382 mots (en 1 essai(s))
+
+[352/923] [HORS ZONE] Hauts De France\59\lettre_scp-david-hanoire-et-benjamin-heyndrickx-geometres-experts-a.docx
+  [HORS ZONE] 509 mots -> 419 mots (en 1 essai(s))
+
+[353/923] [HORS ZONE] Hauts De France\59\lettre_scp-georem-noisette-geometre-expert.docx
+  [HORS ZONE] 478 mots -> 458 mots (en 1 essai(s))
+
+[354/923] [OK] Hauts De France\59\lettre_scp-pierre-leveque-et-reginald-ninin-geometres-experts-assoc.docx
+  [OK] 460 mots -> 450 mots (en 1 essai(s))
+
+[355/923] [HORS ZONE] Hauts De France\59\lettre_scp-stephane-zwertvaegher.docx
+  [HORS ZONE] 496 mots -> 427 mots (en 1 essai(s))
+
+[356/923] [HORS ZONE] Hauts De France\59\lettre_selarl-carbon-cornille-geometres-experts.docx
+  [HORS ZONE] 465 mots -> 454 mots (en 1 essai(s))
+
+[357/923] [OK] Hauts De France\59\lettre_selarl-despagne-maes.docx
+  [OK] 471 mots -> 449 mots (en 1 essai(s))
+
+[358/923] [OK] Hauts De France\59\lettre_selarl-gebim.docx
+  [OK] 472 mots -> 445 mots (en 1 essai(s))
+
+[359/923] [HORS ZONE] Hauts De France\59\lettre_selarl-hugues-lapouille.docx
+  [HORS ZONE] 499 mots -> 428 mots (en 1 essai(s))
+
+[360/923] [HORS ZONE] Hauts De France\59\lettre_selas-delmotte-et-frebourg-geometres-experts.docx
+  [HORS ZONE] 472 mots -> 453 mots (en 1 essai(s))
+
+[361/923] [HORS ZONE] Hauts De France\59\lettre_selas-hamel-geometres-experts.docx
+  [HORS ZONE] 452 mots -> 451 mots (en 1 essai(s))
+
+[362/923] [HORS ZONE] Hauts De France\59\lettre_selas-ma-geo.docx
+  [HORS ZONE] 506 mots -> 389 mots (en 1 essai(s))
+
+[363/923] [HORS ZONE] Hauts De France\60\lettre_abscisse-geometre-expert-sas.docx
+  [HORS ZONE] 464 mots -> 453 mots (en 1 essai(s))
+
+[364/923] [HORS ZONE] Hauts De France\60\lettre_aet.docx
+  [HORS ZONE] 485 mots -> 382 mots (en 1 essai(s))
+
+[365/923] [OK] Hauts De France\60\lettre_axegeo-selarl-de-geometres-experts.docx
+  [OK] 451 mots -> 445 mots (en 1 essai(s))
+
+[366/923] [HORS ZONE] Hauts De France\60\lettre_cabinet-koman-florent.docx
+  [HORS ZONE] 497 mots -> 408 mots (en 1 essai(s))
+
+[367/923] [HORS ZONE] Hauts De France\60\lettre_euclyd-geometres-experts.docx
+  [HORS ZONE] 502 mots -> 399 mots (en 1 essai(s))
+
+[368/923] [ECHEC] Hauts De France\60\lettre_maxime-corre-geometre-expert-sarl-a-associe-unique.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[369/923] [HORS ZONE] Hauts De France\60\lettre_sas-a3d-geometres.docx
+  [HORS ZONE] 468 mots -> 464 mots (en 1 essai(s))
+
+[370/923] [OK] Hauts De France\60\lettre_scp-silvert-caron-petit-geometres-experts.docx
+  [OK] 470 mots -> 430 mots (en 1 essai(s))
+
+[371/923] [OK] Hauts De France\60\lettre_selarl-49-degres-nord-geometres-experts.docx
+  [OK] 459 mots -> 443 mots (en 1 essai(s))
+
+[372/923] [HORS ZONE] Hauts De France\60\lettre_selarl-cabinet-andre.docx
+  [HORS ZONE] 489 mots -> 472 mots (en 1 essai(s))
+
+[373/923] [HORS ZONE] Hauts De France\62\lettre_ayr-geo.docx
+  [HORS ZONE] 475 mots -> 469 mots (en 1 essai(s))
+
+[374/923] [HORS ZONE] Hauts De France\62\lettre_bogaert-goze.docx
+  [HORS ZONE] 483 mots -> 412 mots (en 1 essai(s))
+
+[375/923] [OK] Hauts De France\62\lettre_bph-geometres-experts.docx
+  [OK] 487 mots -> 448 mots (en 1 essai(s))
+
+[376/923] [HORS ZONE] Hauts De France\62\lettre_cabinet-gilles-bruno.docx
+  [HORS ZONE] 490 mots -> 403 mots (en 1 essai(s))
+
+[377/923] [HORS ZONE] Hauts De France\62\lettre_cabinet-louis-lubret-geometre-expert-eurl.docx
+  [HORS ZONE] 528 mots -> 388 mots (en 1 essai(s))
+
+[378/923] [HORS ZONE] Hauts De France\62\lettre_geonord-expert.docx
+  [HORS ZONE] 484 mots -> 406 mots (en 1 essai(s))
+
+[379/923] [HORS ZONE] Hauts De France\62\lettre_ingeo-sarl-de-geometres-experts.docx
+  [HORS ZONE] 513 mots -> 408 mots (en 1 essai(s))
+
+[380/923] [OK] Hauts De France\62\lettre_lecocq-associes-selarl-de-geometres-experts.docx
+  [OK] 488 mots -> 437 mots (en 1 essai(s))
+
+[381/923] [HORS ZONE] Hauts De France\62\lettre_marie-c-geometre-expert.docx
+  [HORS ZONE] 474 mots -> 451 mots (en 1 essai(s))
+
+[382/923] [HORS ZONE] Hauts De France\62\lettre_sarl-franck-tillier.docx
+  [HORS ZONE] 474 mots -> 459 mots (en 1 essai(s))
+
+[383/923] [OK] Hauts De France\62\lettre_sarl-jacky-megret-geometre-expert.docx
+  [OK] 512 mots -> 445 mots (en 1 essai(s))
+
+[384/923] [ECHEC] Hauts De France\62\lettre_selarl-ge7v.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[385/923] [HORS ZONE] Hauts De France\62\lettre_selas-cabinet-geolys.docx
+  [HORS ZONE] 488 mots -> 412 mots (en 1 essai(s))
+
+[386/923] [HORS ZONE] Hauts De France\62\lettre_selas-latitudes.docx
+  [HORS ZONE] 468 mots -> 455 mots (en 1 essai(s))
+
+[387/923] [HORS ZONE] Hauts De France\80\lettre_a-geo-geometres-experts-sas.docx
+  [HORS ZONE] 467 mots -> 452 mots (en 1 essai(s))
+
+[388/923] [HORS ZONE] Hauts De France\80\lettre_euclyd-geometres-experts.docx
+  [HORS ZONE] 456 mots -> 429 mots (en 1 essai(s))
+
+[389/923] [HORS ZONE] Ile De France\75\lettre_cabinet-garni-et-associes.docx
+  [HORS ZONE] 478 mots -> 459 mots (en 1 essai(s))
+
+[390/923] [HORS ZONE] Ile De France\75\lettre_cabinet-petru-maria-emmanuelli.docx
+  [HORS ZONE] 484 mots -> 401 mots (en 1 essai(s))
+
+[391/923] [HORS ZONE] Ile De France\75\lettre_cabinet-roseau-associes-sarl-de-geometres-experts.docx
+  [HORS ZONE] 473 mots -> 470 mots (en 1 essai(s))
+
+[392/923] [OK] Ile De France\75\lettre_emetria.docx
+  [OK] 524 mots -> 449 mots (en 1 essai(s))
+
+[393/923] [OK] Ile De France\75\lettre_eurl-etude-brion.docx
+  [OK] 480 mots -> 448 mots (en 1 essai(s))
+
+[394/923] [HORS ZONE] Ile De France\75\lettre_gexalliance-conseils.docx
+  [HORS ZONE] 521 mots -> 463 mots (en 1 essai(s))
+
+[395/923] [HORS ZONE] Ile De France\75\lettre_gta-geometres-experts.docx
+  [HORS ZONE] 514 mots -> 387 mots (en 1 essai(s))
+
+[396/923] [HORS ZONE] Ile De France\75\lettre_sarl-actif-geo.docx
+  [HORS ZONE] 470 mots -> 456 mots (en 1 essai(s))
+
+[397/923] [OK] Ile De France\75\lettre_sarl-cabinet-adam.docx
+  [OK] 466 mots -> 433 mots (en 1 essai(s))
+
+[398/923] [OK] Ile De France\75\lettre_sarl-capgeo-associes.docx
+  [OK] 489 mots -> 445 mots (en 1 essai(s))
+
+[399/923] [HORS ZONE] Ile De France\75\lettre_sarl-dupouy-flamencourt.docx
+  [HORS ZONE] 479 mots -> 458 mots (en 1 essai(s))
+
+[400/923] [HORS ZONE] Ile De France\75\lettre_sarl-serrain-bloy.docx
+  [HORS ZONE] 475 mots -> 464 mots (en 1 essai(s))
+
+[401/923] [OK] Ile De France\75\lettre_sarl-societe-philippe-vincent.docx
+  [OK] 471 mots -> 446 mots (en 1 essai(s))
+
+[402/923] [OK] Ile De France\75\lettre_sas-a-de-quenetain.docx
+  [OK] 476 mots -> 446 mots (en 1 essai(s))
+
+[403/923] [HORS ZONE] Ile De France\75\lettre_sas-niveleau-geometre-expert.docx
+  [HORS ZONE] 500 mots -> 416 mots (en 1 essai(s))
+
+[404/923] [OK] Ile De France\75\lettre_sas-urbex.docx
+  [OK] 498 mots -> 448 mots (en 1 essai(s))
+
+[405/923] [OK] Ile De France\75\lettre_scp-cabinet-tartacede-bollaert.docx
+  [OK] 475 mots -> 445 mots (en 1 essai(s))
+
+[406/923] [HORS ZONE] Ile De France\75\lettre_selarl-cabinet-denis-brachet.docx
+  [HORS ZONE] 492 mots -> 423 mots (en 1 essai(s))
+
+[407/923] [OK] Ile De France\75\lettre_selarl-cabinet-henri-de-saint-sernin-geometre-expert.docx
+  [OK] 477 mots -> 443 mots (en 1 essai(s))
+
+[408/923] [HORS ZONE] Ile De France\75\lettre_selarl-cabinet-morin-et-associe.docx
+  [HORS ZONE] 526 mots -> 411 mots (en 1 essai(s))
+
+[409/923] [HORS ZONE] Ile De France\75\lettre_selarl-cabinet-roulleau-huck-plomion.docx
+  [HORS ZONE] 481 mots -> 411 mots (en 1 essai(s))
+
+[410/923] [HORS ZONE] Ile De France\75\lettre_selarl-ge3d.docx
+  [HORS ZONE] 501 mots -> 412 mots (en 1 essai(s))
+
+[411/923] [HORS ZONE] Ile De France\75\lettre_selas-cabinet-bardel.docx
+  [HORS ZONE] 486 mots -> 405 mots (en 1 essai(s))
+
+[412/923] [HORS ZONE] Ile De France\75\lettre_selas-daniel-legrand.docx
+  [HORS ZONE] 489 mots -> 397 mots (en 1 essai(s))
+
+[413/923] [HORS ZONE] Ile De France\75\lettre_selas-geoperspectives.docx
+  [HORS ZONE] 520 mots -> 407 mots (en 1 essai(s))
+
+[414/923] [HORS ZONE] Ile De France\75\lettre_selas-pangeo-conseil.docx
+  [HORS ZONE] 477 mots -> 455 mots (en 1 essai(s))
+
+[415/923] [OK] Ile De France\75\lettre_selas-supgeo.docx
+  [OK] 478 mots -> 443 mots (en 1 essai(s))
+
+[416/923] [HORS ZONE] Ile De France\77\lettre_cabinet-frot-francois.docx
+  [HORS ZONE] 472 mots -> 462 mots (en 1 essai(s))
+
+[417/923] [HORS ZONE] Ile De France\77\lettre_gelink-international.docx
+  [HORS ZONE] 480 mots -> 457 mots (en 1 essai(s))
+
+[418/923] [OK] Ile De France\77\lettre_sarl-arents-gorisse-geometre-expert.docx
+  [OK] 472 mots -> 448 mots (en 1 essai(s))
+
+[419/923] [OK] Ile De France\77\lettre_sarl-cabinet-laurens.docx
+  [OK] 483 mots -> 443 mots (en 1 essai(s))
+
+[420/923] [HORS ZONE] Ile De France\77\lettre_sarl-cabinet-millard.docx
+  [HORS ZONE] 505 mots -> 406 mots (en 1 essai(s))
+
+[421/923] [HORS ZONE] Ile De France\77\lettre_sarl-cabinet-philippon-geometre-expert.docx
+  [HORS ZONE] 461 mots -> 451 mots (en 1 essai(s))
+
+[422/923] [HORS ZONE] Ile De France\77\lettre_sarl-cabinet-wienert.docx
+  [HORS ZONE] 484 mots -> 419 mots (en 1 essai(s))
+
+[423/923] [HORS ZONE] Ile De France\77\lettre_sarl-cap-terra.docx
+  [HORS ZONE] 569 mots -> 478 mots (en 1 essai(s))
+
+[424/923] [HORS ZONE] Ile De France\77\lettre_sarl-jmageo.docx
+  [HORS ZONE] 517 mots -> 420 mots (en 1 essai(s))
+
+[425/923] [HORS ZONE] Ile De France\77\lettre_sarl-teg-foncier.docx
+  [HORS ZONE] 490 mots -> 422 mots (en 1 essai(s))
+
+[426/923] [HORS ZONE] Ile De France\77\lettre_sas-a-s-conseils-geometres-experts.docx
+  [HORS ZONE] 462 mots -> 457 mots (en 1 essai(s))
+
+[427/923] [OK] Ile De France\77\lettre_sas-aigl-sas-agence-d-ingenieurs-et-de-geometres-du-loing.docx
+  [OK] 465 mots -> 448 mots (en 1 essai(s))
+
+[428/923] [HORS ZONE] Ile De France\77\lettre_sas-cabinet-kerguen-mandroit.docx
+  [HORS ZONE] 492 mots -> 427 mots (en 1 essai(s))
+
+[429/923] [HORS ZONE] Ile De France\77\lettre_sasu-rd-geo.docx
+  [HORS ZONE] 472 mots -> 465 mots (en 1 essai(s))
+
+[430/923] [OK] Ile De France\77\lettre_selarl-cabinet-delassus.docx
+  [OK] 453 mots -> 442 mots (en 1 essai(s))
+
+[431/923] [OK] Ile De France\77\lettre_selarl-christophe-luquet-et-associes-cabinet-dml-geometres-e.docx
+  [OK] 493 mots -> 448 mots (en 1 essai(s))
+
+[432/923] [HORS ZONE] Ile De France\77\lettre_selarl-de-geometres-experts-cabinet-greuzat.docx
+  [HORS ZONE] 476 mots -> 453 mots (en 1 essai(s))
+
+[433/923] [HORS ZONE] Ile De France\77\lettre_selarl-sogefra.docx
+  [HORS ZONE] 513 mots -> 396 mots (en 1 essai(s))
+
+[434/923] [HORS ZONE] Ile De France\77\lettre_selas-cabinet-marmagne.docx
+  [HORS ZONE] 545 mots -> 421 mots (en 1 essai(s))
+
+[435/923] [HORS ZONE] Ile De France\77\lettre_selas-dtge-developpement-territoire-geometre-expert.docx
+  [HORS ZONE] 471 mots -> 462 mots (en 1 essai(s))
+
+[436/923] [OK] Ile De France\77\lettre_selas-silandre.docx
+  [OK] 503 mots -> 438 mots (en 1 essai(s))
+
+[437/923] [OK] Ile De France\78\lettre_cabinet-abello-selarl-de-geometres-experts.docx
+  [OK] 477 mots -> 445 mots (en 1 essai(s))
+
+[438/923] [HORS ZONE] Ile De France\78\lettre_cabinet-e-ge-to-selarl.docx
+  [HORS ZONE] 477 mots -> 453 mots (en 1 essai(s))
+
+[439/923] [HORS ZONE] Ile De France\78\lettre_sarl-cabinet-herviou-debachy.docx
+  [HORS ZONE] 475 mots -> 460 mots (en 1 essai(s))
+
+[440/923] [HORS ZONE] Ile De France\78\lettre_sarl-foncier-experts.docx
+  [HORS ZONE] 484 mots -> 415 mots (en 1 essai(s))
+
+[441/923] [OK] Ile De France\78\lettre_sarl-qualigeo-expert.docx
+  [OK] 453 mots -> 446 mots (en 1 essai(s))
+
+[442/923] [OK] Ile De France\78\lettre_sarl-thelem-ac.docx
+  [OK] 454 mots -> 444 mots (en 1 essai(s))
+
+[443/923] [HORS ZONE] Ile De France\78\lettre_selarl-cabinet-goudard-associes.docx
+  [HORS ZONE] 472 mots -> 454 mots (en 1 essai(s))
+
+[444/923] [HORS ZONE] Ile De France\78\lettre_selarl-cabinet-lartigues.docx
+  [HORS ZONE] 470 mots -> 460 mots (en 1 essai(s))
+
+[445/923] [OK] Ile De France\78\lettre_selarl-geo-xp.docx
+  [OK] 483 mots -> 436 mots (en 1 essai(s))
+
+[446/923] [HORS ZONE] Ile De France\78\lettre_selas-cabinet-trocelli.docx
+  [HORS ZONE] 467 mots -> 457 mots (en 1 essai(s))
+
+[447/923] [HORS ZONE] Ile De France\91\lettre_sarl-pi-ge-bim.docx
+  [HORS ZONE] 497 mots -> 409 mots (en 1 essai(s))
+
+[448/923] [HORS ZONE] Ile De France\91\lettre_sas-cabinet-blondeau.docx
+  [HORS ZONE] 456 mots -> 454 mots (en 1 essai(s))
+
+[449/923] [HORS ZONE] Ile De France\91\lettre_sas-quadrigeo.docx
+  [HORS ZONE] 492 mots -> 419 mots (en 1 essai(s))
+
+[450/923] [HORS ZONE] Ile De France\91\lettre_sas-sgds-international.docx
+  [HORS ZONE] 523 mots -> 385 mots (en 1 essai(s))
+
+[451/923] [HORS ZONE] Ile De France\91\lettre_scop-atgt.docx
+  [HORS ZONE] 551 mots -> 403 mots (en 1 essai(s))
+
+[452/923] [OK] Ile De France\91\lettre_scop-gefa.docx
+  [OK] 452 mots -> 437 mots (en 1 essai(s))
+
+[453/923] [HORS ZONE] Ile De France\91\lettre_scp-de-geometre-expert-jean-yves-basset.docx
+  [HORS ZONE] 502 mots -> 422 mots (en 1 essai(s))
+
+[454/923] [OK] Ile De France\91\lettre_selafa-geometric-geometres-experts-associes.docx
+  [OK] 457 mots -> 445 mots (en 1 essai(s))
+
+[455/923] [HORS ZONE] Ile De France\91\lettre_selarl-arkane-foncier.docx
+  [HORS ZONE] 489 mots -> 397 mots (en 1 essai(s))
+
+[456/923] [HORS ZONE] Ile De France\91\lettre_selarl-cabinet-aubry-geometre-expert.docx
+  [HORS ZONE] 476 mots -> 461 mots (en 1 essai(s))
+
+[457/923] [ECHEC] Ile De France\91\lettre_selarl-cabinet-jouenne-geometre-expert.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[458/923] [OK] Ile De France\91\lettre_selarl-mercier-expertises.docx
+  [OK] 462 mots -> 440 mots (en 1 essai(s))
+
+[459/923] [OK] Ile De France\91\lettre_selarl-progexial.docx
+  [OK] 508 mots -> 438 mots (en 1 essai(s))
+
+[460/923] [HORS ZONE] Ile De France\92\lettre_cabinet-blomme-philippe.docx
+  [HORS ZONE] 461 mots -> 451 mots (en 1 essai(s))
+
+[461/923] [OK] Ile De France\92\lettre_cabinet-devaux-sylvain.docx
+  [OK] 471 mots -> 447 mots (en 1 essai(s))
+
+[462/923] [OK] Ile De France\92\lettre_cabinet-sleiman-cesar.docx
+  [OK] 534 mots -> 431 mots (en 1 essai(s))
+
+[463/923] [OK] Ile De France\92\lettre_sarl-barrere-dufau-geometres-experts.docx
+  [OK] 514 mots -> 431 mots (en 1 essai(s))
+
+[464/923] [OK] Ile De France\92\lettre_sarl-cabinet-carreau-collomb.docx
+  [OK] 463 mots -> 450 mots (en 1 essai(s))
+
+[465/923] [ECHEC] Ile De France\92\lettre_sarl-robin-et-associes.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[466/923] [OK] Ile De France\92\lettre_sas-tassou-cavel-geometres-experts.docx
+  [OK] 486 mots -> 448 mots (en 1 essai(s))
+
+[467/923] [HORS ZONE] Ile De France\92\lettre_sasu-g-b.docx
+  [HORS ZONE] 476 mots -> 464 mots (en 1 essai(s))
+
+[468/923] [HORS ZONE] Ile De France\92\lettre_selarl-calviac-blatier-associes.docx
+  [HORS ZONE] 487 mots -> 407 mots (en 1 essai(s))
+
+[469/923] [OK] Ile De France\92\lettre_selarl-de-geometre-expert-matthias-kulker.docx
+  [OK] 462 mots -> 450 mots (en 1 essai(s))
+
+[470/923] [HORS ZONE] Ile De France\92\lettre_selarl-forest-et-associes.docx
+  [HORS ZONE] 458 mots -> 451 mots (en 1 essai(s))
+
+[471/923] [OK] Ile De France\92\lettre_selarl-masson-geometre-expert-foncier.docx
+  [OK] 475 mots -> 446 mots (en 1 essai(s))
+
+[472/923] [HORS ZONE] Ile De France\92\lettre_selarl-mb-ge.docx
+  [HORS ZONE] 474 mots -> 462 mots (en 1 essai(s))
+
+[473/923] [OK] Ile De France\92\lettre_selarl-renfer-et-venant.docx
+  [OK] 482 mots -> 446 mots (en 1 essai(s))
+
+[474/923] [HORS ZONE] Ile De France\92\lettre_selarl-terraterre.docx
+  [HORS ZONE] 502 mots -> 383 mots (en 1 essai(s))
+
+[475/923] [HORS ZONE] Ile De France\92\lettre_selas-cabinet-charlemagne.docx
+  [HORS ZONE] 495 mots -> 394 mots (en 1 essai(s))
+
+[476/923] [HORS ZONE] Ile De France\92\lettre_selas-gexpertise-conseil.docx
+  [HORS ZONE] 475 mots -> 455 mots (en 1 essai(s))
+
+[477/923] [OK] Ile De France\93\lettre_sarl-geo-infra.docx
+  [OK] 478 mots -> 449 mots (en 1 essai(s))
+
+[478/923] [OK] Ile De France\93\lettre_selafa-cabinet-mackre.docx
+  [OK] 461 mots -> 447 mots (en 1 essai(s))
+
+[479/923] [HORS ZONE] Ile De France\93\lettre_selas-cabinet-altius.docx
+  [HORS ZONE] 464 mots -> 453 mots (en 1 essai(s))
+
+[480/923] [HORS ZONE] Ile De France\93\lettre_selas-cabinet-flf.docx
+  [HORS ZONE] 477 mots -> 466 mots (en 1 essai(s))
+
+[481/923] [OK] Ile De France\93\lettre_selas-cabinet-weisse-geometre-expert.docx
+  [OK] 462 mots -> 439 mots (en 1 essai(s))
+
+[482/923] [OK] Ile De France\93\lettre_selas-cdb.docx
+  [OK] 470 mots -> 449 mots (en 1 essai(s))
+
+[483/923] [HORS ZONE] Ile De France\94\lettre_cabinet-verdier-eric.docx
+  [HORS ZONE] 523 mots -> 412 mots (en 1 essai(s))
+
+[484/923] [OK] Ile De France\94\lettre_eurl-cabinet-lacreuse.docx
+  [OK] 485 mots -> 432 mots (en 1 essai(s))
+
+[485/923] [HORS ZONE] Ile De France\94\lettre_sas-dalbin-associes-sda.docx
+  [HORS ZONE] 511 mots -> 380 mots (en 1 essai(s))
+
+[486/923] [HORS ZONE] Ile De France\94\lettre_scp-nicolas-berthelot.docx
+  [HORS ZONE] 472 mots -> 461 mots (en 1 essai(s))
+
+[487/923] [OK] Ile De France\94\lettre_selas-archimed-ge-paris.docx
+  [OK] 456 mots -> 445 mots (en 1 essai(s))
+
+[488/923] [OK] Ile De France\95\lettre_arptego-geometre-expert.docx
+  [OK] 461 mots -> 440 mots (en 1 essai(s))
+
+[489/923] [OK] Ile De France\95\lettre_cabinet-radigois-gerard.docx
+  [OK] 461 mots -> 433 mots (en 1 essai(s))
+
+[490/923] [OK] Ile De France\95\lettre_geodatis-selarl-de-geometres-experts.docx
+  [OK] 498 mots -> 439 mots (en 1 essai(s))
+
+[491/923] [HORS ZONE] Ile De France\95\lettre_immogeo-expert.docx
+  [HORS ZONE] 487 mots -> 422 mots (en 1 essai(s))
+
+[492/923] [HORS ZONE] Ile De France\95\lettre_sarl-bertrand-deutsch-geometre-expert-foncier-associe.docx
+  [HORS ZONE] 468 mots -> 468 mots (en 1 essai(s))
+
+[493/923] [HORS ZONE] Ile De France\95\lettre_sarl-bvf-geometres-experts.docx
+  [HORS ZONE] 475 mots -> 455 mots (en 1 essai(s))
+
+[494/923] [OK] Ile De France\95\lettre_sarl-cabinet-smaili-fouzi.docx
+  [OK] 462 mots -> 446 mots (en 1 essai(s))
+
+[495/923] [HORS ZONE] Ile De France\95\lettre_sasu-lpiot.docx
+  [HORS ZONE] 477 mots -> 451 mots (en 1 essai(s))
+
+[496/923] [OK] Ile De France\95\lettre_selarl-cabinet-burtin-et-associe.docx
+  [OK] 482 mots -> 441 mots (en 1 essai(s))
+
+[497/923] [HORS ZONE] Ile De France\95\lettre_selarl-picot-merlini.docx
+  [HORS ZONE] 524 mots -> 428 mots (en 1 essai(s))
+
+[498/923] [HORS ZONE] Ile De France\95\lettre_selas-sigma-geometres-experts-associes.docx
+  [HORS ZONE] 513 mots -> 470 mots (en 1 essai(s))
+
+[499/923] [OK] Lettre motivation - candidature spontanée - Julian Brouet.docx
+  [OK] 404 mots -> 433 mots (en 1 essai(s))
+
+[500/923] [HORS ZONE] Normandie\14\lettre_abac-geo-geometres-experts-associes.docx
+  [HORS ZONE] 473 mots -> 463 mots (en 1 essai(s))
+
+[501/923] [HORS ZONE] Normandie\14\lettre_amenageo.docx
+  [HORS ZONE] 476 mots -> 463 mots (en 1 essai(s))
+
+[502/923] [OK] Normandie\14\lettre_cabinet-dominique-bellanger.docx
+  [OK] 462 mots -> 441 mots (en 1 essai(s))
+
+[503/923] [OK] Normandie\14\lettre_cabinet-julien-dubois.docx
+  [OK] 460 mots -> 445 mots (en 1 essai(s))
+
+[504/923] [HORS ZONE] Normandie\14\lettre_cabinet-landry.docx
+  [HORS ZONE] 482 mots -> 396 mots (en 1 essai(s))
+
+[505/923] [HORS ZONE] Normandie\14\lettre_cabinet-philippe-cavoit-geometre-expert-dplg.docx
+  [HORS ZONE] 478 mots -> 478 mots (en 1 essai(s))
+
+[506/923] [HORS ZONE] Normandie\14\lettre_euclyd-geometres-experts.docx
+  [HORS ZONE] 475 mots -> 460 mots (en 1 essai(s))
+
+[507/923] [HORS ZONE] Normandie\14\lettre_geodis-societe-de-geometres-experts.docx
+  [HORS ZONE] 473 mots -> 452 mots (en 1 essai(s))
+
+[508/923] [HORS ZONE] Normandie\14\lettre_geosat-normandie.docx
+  [HORS ZONE] 489 mots -> 398 mots (en 1 essai(s))
+
+[509/923] [OK] Normandie\14\lettre_le-chapois-geometre-expert.docx
+  [OK] 485 mots -> 432 mots (en 1 essai(s))
+
+[510/923] [HORS ZONE] Normandie\14\lettre_mercator.docx
+  [HORS ZONE] 502 mots -> 417 mots (en 1 essai(s))
+
+[511/923] [OK] Normandie\14\lettre_mgex.docx
+  [OK] 467 mots -> 435 mots (en 1 essai(s))
+
+[512/923] [HORS ZONE] Normandie\14\lettre_mosaic.docx
+  [HORS ZONE] 556 mots -> 393 mots (en 1 essai(s))
+
+[513/923] [HORS ZONE] Normandie\27\lettre_ageose-geometres-experts.docx
+  [HORS ZONE] 464 mots -> 459 mots (en 1 essai(s))
+
+[514/923] [HORS ZONE] Normandie\27\lettre_caldea.docx
+  [HORS ZONE] 480 mots -> 455 mots (en 1 essai(s))
+
+[515/923] [OK] Normandie\27\lettre_euclyd-geometres-experts.docx
+  [OK] 455 mots -> 438 mots (en 1 essai(s))
+
+[516/923] [OK] Normandie\27\lettre_mercator.docx
+  [OK] 521 mots -> 444 mots (en 1 essai(s))
+
+[517/923] [HORS ZONE] Normandie\27\lettre_ogex.docx
+  [HORS ZONE] 400 mots -> 463 mots (en 1 essai(s))
+
+[518/923] [OK] Normandie\27\lettre_philippe-lemble.docx
+  [OK] 459 mots -> 442 mots (en 1 essai(s))
+
+[519/923] [HORS ZONE] Normandie\27\lettre_rtgeo.docx
+  [HORS ZONE] 471 mots -> 460 mots (en 1 essai(s))
+
+[520/923] [HORS ZONE] Normandie\50\lettre_alexandre-herve.docx
+  [HORS ZONE] 493 mots -> 409 mots (en 1 essai(s))
+
+[521/923] [HORS ZONE] Normandie\50\lettre_cabinet-drouet.docx
+  [HORS ZONE] 471 mots -> 459 mots (en 1 essai(s))
+
+[522/923] [HORS ZONE] Normandie\50\lettre_segur.docx
+  [HORS ZONE] 480 mots -> 459 mots (en 1 essai(s))
+
+[523/923] [HORS ZONE] Normandie\61\lettre_agetho-conseils.docx
+  [HORS ZONE] 472 mots -> 451 mots (en 1 essai(s))
+
+[524/923] [OK] Normandie\61\lettre_cabinet-dominique-bellanger.docx
+  [OK] 493 mots -> 440 mots (en 1 essai(s))
+
+[525/923] [HORS ZONE] Normandie\76\lettre_ahmes.docx
+  [HORS ZONE] 484 mots -> 392 mots (en 1 essai(s))
+
+[526/923] [HORS ZONE] Normandie\76\lettre_cabinet-guillaume-homont.docx
+  [HORS ZONE] 483 mots -> 400 mots (en 1 essai(s))
+
+[527/923] [HORS ZONE] Normandie\76\lettre_cabinet-lechene-et-associes.docx
+  [HORS ZONE] 499 mots -> 383 mots (en 1 essai(s))
+
+[528/923] [HORS ZONE] Normandie\76\lettre_cabinet-mathilde-adam.docx
+  [HORS ZONE] 478 mots -> 475 mots (en 1 essai(s))
+
+[529/923] [HORS ZONE] Normandie\76\lettre_euclyd-geometres-experts.docx
+  [HORS ZONE] 458 mots -> 455 mots (en 1 essai(s))
+
+[530/923] [HORS ZONE] Normandie\76\lettre_frederic-bougeard.docx
+  [HORS ZONE] 488 mots -> 388 mots (en 1 essai(s))
+
+[531/923] [HORS ZONE] Normandie\76\lettre_ge360.docx
+  [HORS ZONE] 476 mots -> 460 mots (en 1 essai(s))
+
+[532/923] [HORS ZONE] Normandie\76\lettre_genop.docx
+  [HORS ZONE] 475 mots -> 451 mots (en 1 essai(s))
+
+[533/923] [HORS ZONE] Normandie\76\lettre_geo-seine.docx
+  [HORS ZONE] 456 mots -> 429 mots (en 1 essai(s))
+
+[534/923] [HORS ZONE] Nouvelle Aquitaine\16\lettre_cabinet-expaire-selas-expaire.docx
+  [HORS ZONE] 474 mots -> 457 mots (en 1 essai(s))
+
+[535/923] [OK] Nouvelle Aquitaine\16\lettre_l-ab6-sas.docx
+  [OK] 466 mots -> 438 mots (en 1 essai(s))
+
+[536/923] [HORS ZONE] Nouvelle Aquitaine\16\lettre_menard-christophe-scp.docx
+  [HORS ZONE] 477 mots -> 458 mots (en 1 essai(s))
+
+[537/923] [HORS ZONE] Nouvelle Aquitaine\16\lettre_sarl-heteria-geometre-expert.docx
+  [HORS ZONE] 466 mots -> 451 mots (en 1 essai(s))
+
+[538/923] [HORS ZONE] Nouvelle Aquitaine\16\lettre_sarl-heteria.docx
+  [HORS ZONE] 497 mots -> 424 mots (en 1 essai(s))
+
+[539/923] [HORS ZONE] Nouvelle Aquitaine\17\lettre_afeti-sarl.docx
+  [HORS ZONE] 478 mots -> 464 mots (en 1 essai(s))
+
+[540/923] [HORS ZONE] Nouvelle Aquitaine\17\lettre_arpometris.docx
+  [HORS ZONE] 468 mots -> 456 mots (en 1 essai(s))
+
+[541/923] [ECHEC] Nouvelle Aquitaine\17\lettre_cabinet-inguere-bernard.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[542/923] [OK] Nouvelle Aquitaine\17\lettre_cellier-eric-cabinet.docx
+  [OK] 481 mots -> 436 mots (en 1 essai(s))
+
+[543/923] [HORS ZONE] Nouvelle Aquitaine\17\lettre_clmc-sas-cabinet-leglise-mounitz-conseils.docx
+  [HORS ZONE] 474 mots -> 465 mots (en 1 essai(s))
+
+[544/923] [HORS ZONE] Nouvelle Aquitaine\17\lettre_devouge-stephane-sarl-cabinet.docx
+  [HORS ZONE] 510 mots -> 405 mots (en 1 essai(s))
+
+[545/923] [OK] Nouvelle Aquitaine\17\lettre_guinard-bruno-scp.docx
+  [OK] 463 mots -> 442 mots (en 1 essai(s))
+
+[546/923] [OK] Nouvelle Aquitaine\17\lettre_lger-le-geometre-expert-rochelais.docx
+  [OK] 466 mots -> 445 mots (en 1 essai(s))
+
+[547/923] [HORS ZONE] Nouvelle Aquitaine\17\lettre_renaudin-vincent-eurl.docx
+  [HORS ZONE] 403 mots -> 457 mots (en 1 essai(s))
+
+[548/923] [OK] Nouvelle Aquitaine\17\lettre_selarl-cabinet-guillemet-agt.docx
+  [OK] 465 mots -> 444 mots (en 1 essai(s))
+
+[549/923] [OK] Nouvelle Aquitaine\17\lettre_sit-a-conseil-selas.docx
+  [OK] 457 mots -> 443 mots (en 1 essai(s))
+
+[550/923] [OK] Nouvelle Aquitaine\17\lettre_synergeo-sarl.docx
+  [OK] 475 mots -> 432 mots (en 1 essai(s))
+
+[551/923] [OK] Nouvelle Aquitaine\19\lettre_sarl-atelier-de-geometre-expert-foncier-murielle-fournier.docx
+  [OK] 468 mots -> 442 mots (en 1 essai(s))
+
+[552/923] [HORS ZONE] Nouvelle Aquitaine\19\lettre_sarl-florence-corgnet.docx
+  [HORS ZONE] 502 mots -> 454 mots (en 1 essai(s))
+
+[553/923] [HORS ZONE] Nouvelle Aquitaine\19\lettre_sarl-gexeo.docx
+  [HORS ZONE] 483 mots -> 454 mots (en 1 essai(s))
+
+[554/923] [OK] Nouvelle Aquitaine\19\lettre_selarl-mesures.docx
+  [OK] 473 mots -> 442 mots (en 1 essai(s))
+
+[555/923] [OK] Nouvelle Aquitaine\19\lettre_selas-sotec-plans.docx
+  [OK] 519 mots -> 443 mots (en 1 essai(s))
+
+[556/923] [OK] Nouvelle Aquitaine\23\lettre_sarl-arpenterre.docx
+  [OK] 469 mots -> 449 mots (en 1 essai(s))
+
+[557/923] [OK] Nouvelle Aquitaine\24\lettre_bonneteau-selarl.docx
+  [OK] 466 mots -> 447 mots (en 1 essai(s))
+
+[558/923] [OK] Nouvelle Aquitaine\24\lettre_deborah-denis-geometre-expert.docx
+  [OK] 477 mots -> 444 mots (en 1 essai(s))
+
+[559/923] [HORS ZONE] Nouvelle Aquitaine\24\lettre_geoval-selarl-de-geometres-experts.docx
+  [HORS ZONE] 486 mots -> 467 mots (en 1 essai(s))
+
+[560/923] [OK] Nouvelle Aquitaine\24\lettre_kersual-defars-selarl.docx
+  [OK] 478 mots -> 441 mots (en 1 essai(s))
+
+[561/923] [HORS ZONE] Nouvelle Aquitaine\24\lettre_linares-foncier-conseil-sasu-linares-foncier-conseil.docx
+  [HORS ZONE] 500 mots -> 411 mots (en 1 essai(s))
+
+[562/923] [HORS ZONE] Nouvelle Aquitaine\24\lettre_nicolas-descamp-geometre-expert.docx
+  [HORS ZONE] 503 mots -> 413 mots (en 1 essai(s))
+
+[563/923] [OK] Nouvelle Aquitaine\24\lettre_sarl-a2geo.docx
+  [OK] 452 mots -> 445 mots (en 1 essai(s))
+
+[564/923] [HORS ZONE] Nouvelle Aquitaine\24\lettre_sas-delimit.docx
+  [HORS ZONE] 466 mots -> 454 mots (en 1 essai(s))
+
+[565/923] [OK] Nouvelle Aquitaine\24\lettre_selarl-alteo-geometres-experts.docx
+  [OK] 500 mots -> 433 mots (en 1 essai(s))
+
+[566/923] [ECHEC] Nouvelle Aquitaine\24\lettre_selarl-bazenet.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[567/923] [HORS ZONE] Nouvelle Aquitaine\24\lettre_terraconex-terra-conseils-expertises.docx
+  [HORS ZONE] 472 mots -> 458 mots (en 1 essai(s))
+
+[568/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_abac-geo-aquitaine-selarl-de-geometres-experts.docx
+  [HORS ZONE] 479 mots -> 458 mots (en 1 essai(s))
+
+[569/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_ageo-conseils-selarl-de-geometres-experts.docx
+  [HORS ZONE] 505 mots -> 407 mots (en 1 essai(s))
+
+[570/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_cabinet-deschamps-jean-marc.docx
+  [HORS ZONE] 487 mots -> 412 mots (en 1 essai(s))
+
+[571/923] [OK] Nouvelle Aquitaine\33\lettre_cabinet-dykman-geometre-expert.docx
+  [OK] 485 mots -> 448 mots (en 1 essai(s))
+
+[572/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_cabinet-inguere-bernard.docx
+  [HORS ZONE] 474 mots -> 459 mots (en 1 essai(s))
+
+[573/923] [OK] Nouvelle Aquitaine\33\lettre_cabinet-morellet-florent-urbis-foncier.docx
+  [OK] 457 mots -> 440 mots (en 1 essai(s))
+
+[574/923] [OK] Nouvelle Aquitaine\33\lettre_cabinet-viry-stephane.docx
+  [OK] 505 mots -> 431 mots (en 1 essai(s))
+
+[575/923] [OK] Nouvelle Aquitaine\33\lettre_geo-metropole-sas-de-geometres-experts.docx
+  [OK] 476 mots -> 448 mots (en 1 essai(s))
+
+[576/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_geo-sat-selas.docx
+  [HORS ZONE] 490 mots -> 403 mots (en 1 essai(s))
+
+[577/923] [OK] Nouvelle Aquitaine\33\lettre_geom3d.docx
+  [OK] 455 mots -> 447 mots (en 1 essai(s))
+
+[578/923] [OK] Nouvelle Aquitaine\33\lettre_ogeo-selarl-de-geometres-experts.docx
+  [OK] 454 mots -> 448 mots (en 1 essai(s))
+
+[579/923] [OK] Nouvelle Aquitaine\33\lettre_s-carre-selarl-s-carre.docx
+  [OK] 470 mots -> 450 mots (en 1 essai(s))
+
+[580/923] [OK] Nouvelle Aquitaine\33\lettre_sarl-acube.docx
+  [OK] 512 mots -> 442 mots (en 1 essai(s))
+
+[581/923] [OK] Nouvelle Aquitaine\33\lettre_sarl-arketude.docx
+  [OK] 481 mots -> 434 mots (en 1 essai(s))
+
+[582/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_sarl-c-e-r-c-e-a-u.docx
+  [HORS ZONE] 493 mots -> 456 mots (en 1 essai(s))
+
+[583/923] [OK] Nouvelle Aquitaine\33\lettre_sarl-ectaur-expert.docx
+  [OK] 511 mots -> 432 mots (en 1 essai(s))
+
+[584/923] [OK] Nouvelle Aquitaine\33\lettre_sarl-parallele-45-geometres-experts-associes.docx
+  [OK] 468 mots -> 444 mots (en 1 essai(s))
+
+[585/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_sarl-thales-sarl-de-geometres-experts.docx
+  [HORS ZONE] 478 mots -> 459 mots (en 1 essai(s))
+
+[586/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_sas-3d2.docx
+  [HORS ZONE] 502 mots -> 396 mots (en 1 essai(s))
+
+[587/923] [ECHEC] Nouvelle Aquitaine\33\lettre_sas-ametris-geometre-expert.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[588/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_sasu-terra-proxima.docx
+  [HORS ZONE] 478 mots -> 457 mots (en 1 essai(s))
+
+[589/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_scop-tt-geometres-experts.docx
+  [HORS ZONE] 479 mots -> 467 mots (en 1 essai(s))
+
+[590/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_scp-raynaud.docx
+  [HORS ZONE] 507 mots -> 387 mots (en 1 essai(s))
+
+[591/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_selarl-cluzant-gilles.docx
+  [HORS ZONE] 523 mots -> 422 mots (en 1 essai(s))
+
+[592/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_selarl-geoffroy-moreno.docx
+  [HORS ZONE] 478 mots -> 455 mots (en 1 essai(s))
+
+[593/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_selarl-laborde-lansard.docx
+  [HORS ZONE] 511 mots -> 422 mots (en 1 essai(s))
+
+[594/923] [HORS ZONE] Nouvelle Aquitaine\33\lettre_vegeo-expert-sarl-de-geometres-experts.docx
+  [HORS ZONE] 415 mots -> 456 mots (en 1 essai(s))
+
+[595/923] [OK] Nouvelle Aquitaine\40\lettre_aturins-sgea.docx
+  [OK] 500 mots -> 443 mots (en 1 essai(s))
+
+[596/923] [HORS ZONE] Nouvelle Aquitaine\40\lettre_dune-sarl-de-geometres-experts.docx
+  [HORS ZONE] 490 mots -> 402 mots (en 1 essai(s))
+
+[597/923] [OK] Nouvelle Aquitaine\40\lettre_olivier-bonnet-geometre-expert-sarl-olivier-bonnet-geometre-.docx
+  [OK] 467 mots -> 449 mots (en 1 essai(s))
+
+[598/923] [HORS ZONE] Nouvelle Aquitaine\40\lettre_olivier-bonnet-geometre-expert.docx
+  [HORS ZONE] 511 mots -> 393 mots (en 1 essai(s))
+
+[599/923] [HORS ZONE] Nouvelle Aquitaine\40\lettre_sarl-blandine-ganivet.docx
+  [HORS ZONE] 461 mots -> 458 mots (en 1 essai(s))
+
+[600/923] [HORS ZONE] Nouvelle Aquitaine\40\lettre_sarl-georizon.docx
+  [HORS ZONE] 462 mots -> 460 mots (en 1 essai(s))
+
+[601/923] [OK] Nouvelle Aquitaine\40\lettre_sarl-geotlandes.docx
+  [OK] 477 mots -> 439 mots (en 1 essai(s))
+
+[602/923] [OK] Nouvelle Aquitaine\40\lettre_scp-jerome-guette.docx
+  [OK] 455 mots -> 438 mots (en 1 essai(s))
+
+[603/923] [HORS ZONE] Nouvelle Aquitaine\40\lettre_selarl-agl-mesure.docx
+  [HORS ZONE] 475 mots -> 454 mots (en 1 essai(s))
+
+[604/923] [HORS ZONE] Nouvelle Aquitaine\40\lettre_selarl-premier-plan.docx
+  [HORS ZONE] 512 mots -> 413 mots (en 1 essai(s))
+
+[605/923] [HORS ZONE] Nouvelle Aquitaine\47\lettre_berthier-ge-sarl-a-associe-unique.docx
+  [HORS ZONE] 479 mots -> 459 mots (en 1 essai(s))
+
+[606/923] [OK] Nouvelle Aquitaine\47\lettre_sarl-alienor-geometres-experts.docx
+  [OK] 463 mots -> 449 mots (en 1 essai(s))
+
+[607/923] [HORS ZONE] Nouvelle Aquitaine\47\lettre_scp-joelle-maubourguet.docx
+  [HORS ZONE] 460 mots -> 455 mots (en 1 essai(s))
+
+[608/923] [HORS ZONE] Nouvelle Aquitaine\47\lettre_selas-pangeo-conseil.docx
+  [HORS ZONE] 504 mots -> 403 mots (en 1 essai(s))
+
+[609/923] [OK] Nouvelle Aquitaine\64\lettre_agence-terra-geometres-experts-associes.docx
+  [OK] 489 mots -> 431 mots (en 1 essai(s))
+
+[610/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_cabinet-arnaudin-cecile.docx
+  [HORS ZONE] 529 mots -> 464 mots (en 1 essai(s))
+
+[611/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_cabinet-berquez-lalague-selarl-de-geometres-experts.docx
+  [HORS ZONE] 477 mots -> 461 mots (en 1 essai(s))
+
+[612/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_cabinet-brenac-lionel.docx
+  [HORS ZONE] 492 mots -> 406 mots (en 1 essai(s))
+
+[613/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_cabinet-gilles-dufourcq-eurl.docx
+  [HORS ZONE] 473 mots -> 460 mots (en 1 essai(s))
+
+[614/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_cabinet-holuigue-richard.docx
+  [HORS ZONE] 483 mots -> 451 mots (en 1 essai(s))
+
+[615/923] [OK] Nouvelle Aquitaine\64\lettre_cabinet-labayle-troy-andre.docx
+  [OK] 462 mots -> 446 mots (en 1 essai(s))
+
+[616/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_cabinet-sarrat-et-associes-sarl-de-geometres-experts.docx
+  [HORS ZONE] 511 mots -> 415 mots (en 1 essai(s))
+
+[617/923] [OK] Nouvelle Aquitaine\64\lettre_cauros-sarl-de-geometres-experts-cardonne-et-associes.docx
+  [OK] 522 mots -> 432 mots (en 1 essai(s))
+
+[618/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_eurl-vincent-casaurancq-minvielle-eurl-vincent-casaurancq-mi.docx
+  [HORS ZONE] 523 mots -> 424 mots (en 1 essai(s))
+
+[619/923] [OK] Nouvelle Aquitaine\64\lettre_labat-associes-sarl-de-geometres-expert.docx
+  [OK] 455 mots -> 435 mots (en 1 essai(s))
+
+[620/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_monedero-eurl-de-geometre-expert.docx
+  [HORS ZONE] 530 mots -> 455 mots (en 1 essai(s))
+
+[621/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_morere-sebastien-sarl.docx
+  [HORS ZONE] 469 mots -> 452 mots (en 1 essai(s))
+
+[622/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sarl-bigourdan.docx
+  [HORS ZONE] 502 mots -> 396 mots (en 1 essai(s))
+
+[623/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sarl-cabinet-espel-carricart-geometres-experts.docx
+  [HORS ZONE] 471 mots -> 451 mots (en 1 essai(s))
+
+[624/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sarl-carrau.docx
+  [HORS ZONE] 475 mots -> 457 mots (en 1 essai(s))
+
+[625/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sarl-de-geometres-experts-berdoulat.docx
+  [HORS ZONE] 475 mots -> 463 mots (en 1 essai(s))
+
+[626/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sarl-de-geometres-experts-claude-vignasse.docx
+  [HORS ZONE] 476 mots -> 461 mots (en 1 essai(s))
+
+[627/923] [OK] Nouvelle Aquitaine\64\lettre_sarl-eric-dureau.docx
+  [OK] 468 mots -> 447 mots (en 1 essai(s))
+
+[628/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sarl-guillaume-vignau-geometre-expert.docx
+  [HORS ZONE] 478 mots -> 465 mots (en 1 essai(s))
+
+[629/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sarl-iparrorratz.docx
+  [HORS ZONE] 539 mots -> 413 mots (en 1 essai(s))
+
+[630/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sarl-pauline-roblin-geometre-expert.docx
+  [HORS ZONE] 464 mots -> 453 mots (en 1 essai(s))
+
+[631/923] [OK] Nouvelle Aquitaine\64\lettre_sas-nealde-geometre-expert.docx
+  [OK] 465 mots -> 448 mots (en 1 essai(s))
+
+[632/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_sasu-peio-legorburu.docx
+  [HORS ZONE] 462 mots -> 454 mots (en 1 essai(s))
+
+[633/923] [OK] Nouvelle Aquitaine\64\lettre_scp-anton-iratchet-et-nelson-jacques-geometres-experts-assoc.docx
+  [OK] 456 mots -> 446 mots (en 1 essai(s))
+
+[634/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_scp-osanz-philippe.docx
+  [HORS ZONE] 473 mots -> 451 mots (en 1 essai(s))
+
+[635/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_selarl-geodenak.docx
+  [HORS ZONE] 543 mots -> 456 mots (en 1 essai(s))
+
+[636/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_selas-drevet-chevrier-selas-ge-dominique-drevet-sylvain-chev.docx
+  [HORS ZONE] 497 mots -> 417 mots (en 1 essai(s))
+
+[637/923] [HORS ZONE] Nouvelle Aquitaine\64\lettre_victor-dorland-atelier-karukera.docx
+  [HORS ZONE] 475 mots -> 460 mots (en 1 essai(s))
+
+[638/923] [OK] Nouvelle Aquitaine\79\lettre_alpha-geometre-selarl.docx
+  [OK] 479 mots -> 436 mots (en 1 essai(s))
+
+[639/923] [HORS ZONE] Nouvelle Aquitaine\79\lettre_branly-associes.docx
+  [HORS ZONE] 541 mots -> 423 mots (en 1 essai(s))
+
+[640/923] [HORS ZONE] Nouvelle Aquitaine\79\lettre_metais-celine-selarl.docx
+  [HORS ZONE] 538 mots -> 417 mots (en 1 essai(s))
+
+[641/923] [HORS ZONE] Nouvelle Aquitaine\79\lettre_sit-a-conseil-selas.docx
+  [HORS ZONE] 502 mots -> 419 mots (en 1 essai(s))
+
+[642/923] [HORS ZONE] Nouvelle Aquitaine\86\lettre_abscisse-geo-conseil-sarl-societe-de-geometres-experts-sarl.docx
+  [HORS ZONE] 473 mots -> 452 mots (en 1 essai(s))
+
+[643/923] [HORS ZONE] Nouvelle Aquitaine\86\lettre_agea-giraud-lavrard.docx
+  [HORS ZONE] 464 mots -> 454 mots (en 1 essai(s))
+
+[644/923] [HORS ZONE] Nouvelle Aquitaine\86\lettre_branly-associes.docx
+  [HORS ZONE] 526 mots -> 426 mots (en 1 essai(s))
+
+[645/923] [OK] Nouvelle Aquitaine\86\lettre_sureau-pascal-sarl.docx
+  [OK] 477 mots -> 445 mots (en 1 essai(s))
+
+[646/923] [HORS ZONE] Nouvelle Aquitaine\87\lettre_cabinet-pimpaud-patrick.docx
+  [HORS ZONE] 477 mots -> 451 mots (en 1 essai(s))
+
+[647/923] [HORS ZONE] Nouvelle Aquitaine\87\lettre_selarl-brisset-veyrier-mesures.docx
+  [HORS ZONE] 485 mots -> 427 mots (en 1 essai(s))
+
+[648/923] [OK] Nouvelle Aquitaine\87\lettre_selarl-cabinet-duarte-geometre-expert.docx
+  [OK] 515 mots -> 435 mots (en 1 essai(s))
+
+[649/923] [OK] Nouvelle Aquitaine\87\lettre_selarl-cabinet-vincent.docx
+  [OK] 474 mots -> 444 mots (en 1 essai(s))
+
+[650/923] [HORS ZONE] Nouvelle Aquitaine\87\lettre_selarl-plan-b.docx
+  [HORS ZONE] 500 mots -> 416 mots (en 1 essai(s))
+
+[651/923] [HORS ZONE] Occitanie\09\lettre_rivere-boscariol-sarl-sarl-de-geometres-experts.docx
+  [HORS ZONE] 483 mots -> 394 mots (en 1 essai(s))
+
+[652/923] [OK] Occitanie\09\lettre_sarl-cabinet-lefevre.docx
+  [OK] 457 mots -> 430 mots (en 1 essai(s))
+
+[653/923] [HORS ZONE] Occitanie\09\lettre_sarl-marie-anne-molina.docx
+  [HORS ZONE] 482 mots -> 410 mots (en 1 essai(s))
+
+[654/923] [HORS ZONE] Occitanie\11\lettre_sarl-cabinet-lefevre.docx
+  [HORS ZONE] 475 mots -> 458 mots (en 1 essai(s))
+
+[655/923] [HORS ZONE] Occitanie\11\lettre_sas-cabinet-brahem-gueneret.docx
+  [HORS ZONE] 534 mots -> 423 mots (en 1 essai(s))
+
+[656/923] [OK] Occitanie\11\lettre_scp-orrit-blanquer-geometres-experts.docx
+  [OK] 509 mots -> 446 mots (en 1 essai(s))
+
+[657/923] [HORS ZONE] Occitanie\11\lettre_selarl-axiome.docx
+  [HORS ZONE] 501 mots -> 399 mots (en 1 essai(s))
+
+[658/923] [ECHEC] Occitanie\11\lettre_selarl-valoris-geometre-expert.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[659/923] [OK] Occitanie\11\lettre_selas-geaude.docx
+  [OK] 510 mots -> 438 mots (en 1 essai(s))
+
+[660/923] [OK] Occitanie\12\lettre_abc-selarl-de-geometres-experts.docx
+  [OK] 458 mots -> 434 mots (en 1 essai(s))
+
+[661/923] [HORS ZONE] Occitanie\12\lettre_sarl-amenagement-quercy-rouergue.docx
+  [HORS ZONE] 468 mots -> 453 mots (en 1 essai(s))
+
+[662/923] [OK] Occitanie\12\lettre_sarl-experts-geo.docx
+  [OK] 488 mots -> 446 mots (en 1 essai(s))
+
+[663/923] [OK] Occitanie\12\lettre_sarl-lbp-etudes-et-conseil.docx
+  [OK] 469 mots -> 437 mots (en 1 essai(s))
+
+[664/923] [HORS ZONE] Occitanie\12\lettre_sas-ace-jaudon-sebastien.docx
+  [HORS ZONE] 475 mots -> 453 mots (en 1 essai(s))
+
+[665/923] [OK] Occitanie\12\lettre_scp-fourcadier-alves-ge-ingenierie.docx
+  [OK] 476 mots -> 441 mots (en 1 essai(s))
+
+[666/923] [OK] Occitanie\12\lettre_scp-roques.docx
+  [OK] 482 mots -> 434 mots (en 1 essai(s))
+
+[667/923] [OK] Occitanie\12\lettre_selarl-anne-taillefer.docx
+  [OK] 460 mots -> 447 mots (en 1 essai(s))
+
+[668/923] [HORS ZONE] Occitanie\12\lettre_selas-christophe-bois.docx
+  [HORS ZONE] 476 mots -> 457 mots (en 1 essai(s))
+
+[669/923] [HORS ZONE] Occitanie\30\lettre_cabinet-balp-pietri-selarl-selarl.docx
+  [HORS ZONE] 480 mots -> 460 mots (en 1 essai(s))
+
+[670/923] [OK] Occitanie\30\lettre_cabinet-fabre-frederic.docx
+  [OK] 466 mots -> 445 mots (en 1 essai(s))
+
+[671/923] [HORS ZONE] Occitanie\30\lettre_cabinet-gabanon-fabien.docx
+  [HORS ZONE] 487 mots -> 462 mots (en 1 essai(s))
+
+[672/923] [OK] Occitanie\30\lettre_eurl-vincent-vial-eurl-de-geometre-expert.docx
+  [OK] 478 mots -> 447 mots (en 1 essai(s))
+
+[673/923] [HORS ZONE] Occitanie\30\lettre_relief-ge-selarl-de-geometres-experts.docx
+  [HORS ZONE] 510 mots -> 407 mots (en 1 essai(s))
+
+[674/923] [HORS ZONE] Occitanie\30\lettre_sarl-chivas-geometre-expert.docx
+  [HORS ZONE] 474 mots -> 467 mots (en 1 essai(s))
+
+[675/923] [OK] Occitanie\30\lettre_sarl-danis-ronald.docx
+  [OK] 463 mots -> 450 mots (en 1 essai(s))
+
+[676/923] [OK] Occitanie\30\lettre_selarl-azur-geo.docx
+  [OK] 452 mots -> 444 mots (en 1 essai(s))
+
+[677/923] [OK] Occitanie\30\lettre_selarl-bbass.docx
+  [OK] 467 mots -> 445 mots (en 1 essai(s))
+
+[678/923] [HORS ZONE] Occitanie\30\lettre_selarl-bruno-larguier.docx
+  [HORS ZONE] 473 mots -> 458 mots (en 1 essai(s))
+
+[679/923] [OK] Occitanie\30\lettre_selarl-clarenc-geometre-expert-cge.docx
+  [OK] 487 mots -> 434 mots (en 1 essai(s))
+
+[680/923] [HORS ZONE] Occitanie\30\lettre_selarl-gazan-thierry.docx
+  [HORS ZONE] 481 mots -> 419 mots (en 1 essai(s))
+
+[681/923] [HORS ZONE] Occitanie\30\lettre_selarl-global-geo-expert.docx
+  [HORS ZONE] 499 mots -> 427 mots (en 1 essai(s))
+
+[682/923] [HORS ZONE] Occitanie\30\lettre_selarl-jean-yves-rey.docx
+  [HORS ZONE] 500 mots -> 409 mots (en 1 essai(s))
+
+[683/923] [HORS ZONE] Occitanie\30\lettre_selarl-vincens-dominique.docx
+  [HORS ZONE] 511 mots -> 418 mots (en 1 essai(s))
+
+[684/923] [OK] Occitanie\30\lettre_selarlu-cabinet-carta-et-morin.docx
+  [OK] 461 mots -> 445 mots (en 1 essai(s))
+
+[685/923] [OK] Occitanie\30\lettre_selas-jean-michel-richer.docx
+  [OK] 458 mots -> 450 mots (en 1 essai(s))
+
+[686/923] [HORS ZONE] Occitanie\30\lettre_vacher-geometre-expert-selarl.docx
+  [HORS ZONE] 468 mots -> 458 mots (en 1 essai(s))
+
+[687/923] [OK] Occitanie\30\lettre_via-geo-selarl-de-geometres-experts.docx
+  [OK] 487 mots -> 446 mots (en 1 essai(s))
+
+[688/923] [HORS ZONE] Occitanie\31\lettre_cabinet-portet-alain.docx
+  [HORS ZONE] 484 mots -> 422 mots (en 1 essai(s))
+
+[689/923] [HORS ZONE] Occitanie\31\lettre_cabinet-vailles.docx
+  [HORS ZONE] 483 mots -> 384 mots (en 1 essai(s))
+
+[690/923] [OK] Occitanie\31\lettre_cledat-geometre-expert.docx
+  [OK] 451 mots -> 440 mots (en 1 essai(s))
+
+[691/923] [OK] Occitanie\31\lettre_commingeo.docx
+  [OK] 479 mots -> 449 mots (en 1 essai(s))
+
+[692/923] [HORS ZONE] Occitanie\31\lettre_g-o-metres-sarl.docx
+  [HORS ZONE] 500 mots -> 419 mots (en 1 essai(s))
+
+[693/923] [HORS ZONE] Occitanie\31\lettre_ge3f-sarl.docx
+  [HORS ZONE] 470 mots -> 456 mots (en 1 essai(s))
+
+[694/923] [HORS ZONE] Occitanie\31\lettre_gexia-foncier-expert-sarl.docx
+  [HORS ZONE] 466 mots -> 458 mots (en 1 essai(s))
+
+[695/923] [HORS ZONE] Occitanie\31\lettre_salvetat-geometre-expert.docx
+  [HORS ZONE] 486 mots -> 427 mots (en 1 essai(s))
+
+[696/923] [HORS ZONE] Occitanie\31\lettre_sarl-doglio-geometre-expert.docx
+  [HORS ZONE] 469 mots -> 451 mots (en 1 essai(s))
+
+[697/923] [OK] Occitanie\31\lettre_sarl-gelp.docx
+  [OK] 476 mots -> 449 mots (en 1 essai(s))
+
+[698/923] [HORS ZONE] Occitanie\31\lettre_sarl-mt-geo.docx
+  [HORS ZONE] 476 mots -> 458 mots (en 1 essai(s))
+
+[699/923] [OK] Occitanie\31\lettre_sarl-urbactis-groupe.docx
+  [OK] 457 mots -> 447 mots (en 1 essai(s))
+
+[700/923] [HORS ZONE] Occitanie\31\lettre_scp-bertheau-saint-criq.docx
+  [HORS ZONE] 470 mots -> 469 mots (en 1 essai(s))
+
+[701/923] [HORS ZONE] Occitanie\31\lettre_selarl-acti-geo.docx
+  [HORS ZONE] 511 mots -> 413 mots (en 1 essai(s))
+
+[702/923] [HORS ZONE] Occitanie\31\lettre_selarl-geoxitane.docx
+  [HORS ZONE] 504 mots -> 386 mots (en 1 essai(s))
+
+[703/923] [HORS ZONE] Occitanie\31\lettre_selarl-nouailles.docx
+  [HORS ZONE] 499 mots -> 413 mots (en 1 essai(s))
+
+[704/923] [OK] Occitanie\31\lettre_selarl-sogexfo.docx
+  [OK] 467 mots -> 442 mots (en 1 essai(s))
+
+[705/923] [HORS ZONE] Occitanie\31\lettre_selarl-xavier-pujol-geometre-expert.docx
+  [HORS ZONE] 510 mots -> 407 mots (en 1 essai(s))
+
+[706/923] [OK] Occitanie\31\lettre_selas-yantris-geometres-experts.docx
+  [OK] 483 mots -> 443 mots (en 1 essai(s))
+
+[707/923] [HORS ZONE] Occitanie\32\lettre_sarl-bastard.docx
+  [HORS ZONE] 506 mots -> 418 mots (en 1 essai(s))
+
+[708/923] [HORS ZONE] Occitanie\32\lettre_sarl-julien-perez.docx
+  [HORS ZONE] 475 mots -> 453 mots (en 1 essai(s))
+
+[709/923] [HORS ZONE] Occitanie\32\lettre_selarl-belestin.docx
+  [HORS ZONE] 502 mots -> 422 mots (en 1 essai(s))
+
+[710/923] [OK] Occitanie\32\lettre_selarl-xmge.docx
+  [OK] 465 mots -> 434 mots (en 1 essai(s))
+
+[711/923] [HORS ZONE] Occitanie\34\lettre_cabinet-alonso-xavier.docx
+  [HORS ZONE] 470 mots -> 457 mots (en 1 essai(s))
+
+[712/923] [HORS ZONE] Occitanie\34\lettre_cabinet-benoit-selarl-de-geometres-experts.docx
+  [HORS ZONE] 471 mots -> 453 mots (en 1 essai(s))
+
+[713/923] [HORS ZONE] Occitanie\34\lettre_cabinet-harmange-herve.docx
+  [HORS ZONE] 476 mots -> 451 mots (en 1 essai(s))
+
+[714/923] [OK] Occitanie\34\lettre_dgema-selas-de-geometres-experts.docx
+  [OK] 485 mots -> 443 mots (en 1 essai(s))
+
+[715/923] [HORS ZONE] Occitanie\34\lettre_eurl-geotop-34.docx
+  [HORS ZONE] 477 mots -> 461 mots (en 1 essai(s))
+
+[716/923] [OK] Occitanie\34\lettre_sarl-ageo-consult.docx
+  [OK] 453 mots -> 444 mots (en 1 essai(s))
+
+[717/923] [HORS ZONE] Occitanie\34\lettre_sarl-epsilon-ge.docx
+  [HORS ZONE] 510 mots -> 408 mots (en 1 essai(s))
+
+[718/923] [OK] Occitanie\34\lettre_sarl-mace-campagnolo-geometres-experts.docx
+  [OK] 460 mots -> 444 mots (en 1 essai(s))
+
+[719/923] [HORS ZONE] Occitanie\34\lettre_sarl-steinberg-denis.docx
+  [HORS ZONE] 468 mots -> 452 mots (en 1 essai(s))
+
+[720/923] [HORS ZONE] Occitanie\34\lettre_sasu-sud-geo.docx
+  [HORS ZONE] 479 mots -> 463 mots (en 1 essai(s))
+
+[721/923] [OK] Occitanie\34\lettre_selarl-atelier-3-14.docx
+  [OK] 453 mots -> 443 mots (en 1 essai(s))
+
+[722/923] [OK] Occitanie\34\lettre_selarl-geom-7.docx
+  [OK] 479 mots -> 448 mots (en 1 essai(s))
+
+[723/923] [OK] Occitanie\34\lettre_selarl-guillaume-gasquez.docx
+  [OK] 454 mots -> 449 mots (en 1 essai(s))
+
+[724/923] [OK] Occitanie\34\lettre_selarl-lusinchi.docx
+  [OK] 482 mots -> 435 mots (en 1 essai(s))
+
+[725/923] [HORS ZONE] Occitanie\34\lettre_selarl-siragusa-cabinet-de-geometres-experts.docx
+  [HORS ZONE] 487 mots -> 374 mots (en 1 essai(s))
+
+[726/923] [HORS ZONE] Occitanie\34\lettre_selas-c-e-a-u-cabinet-d-etudes-d-amenagement-et-d-urbanisme.docx
+  [HORS ZONE] 537 mots -> 423 mots (en 1 essai(s))
+
+[727/923] [HORS ZONE] Occitanie\34\lettre_selas-c-e-a-u.docx
+  [HORS ZONE] 453 mots -> 451 mots (en 1 essai(s))
+
+[728/923] [HORS ZONE] Occitanie\34\lettre_selas-pages-t-i-p.docx
+  [HORS ZONE] 475 mots -> 453 mots (en 1 essai(s))
+
+[729/923] [OK] Occitanie\34\lettre_selas-quarta.docx
+  [OK] 460 mots -> 446 mots (en 1 essai(s))
+
+[730/923] [HORS ZONE] Occitanie\46\lettre_agefaur-sarl.docx
+  [HORS ZONE] 491 mots -> 403 mots (en 1 essai(s))
+
+[731/923] [OK] Occitanie\46\lettre_cabinet-bonnet-associes-selarl.docx
+  [OK] 461 mots -> 436 mots (en 1 essai(s))
+
+[732/923] [HORS ZONE] Occitanie\46\lettre_eurl-areageo.docx
+  [HORS ZONE] 477 mots -> 460 mots (en 1 essai(s))
+
+[733/923] [OK] Occitanie\48\lettre_sarl-fagge-et-associes.docx
+  [OK] 464 mots -> 438 mots (en 1 essai(s))
+
+[734/923] [ECHEC] Occitanie\48\lettre_selarl-sogexfo-centre-cabinet-falcon.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[735/923] [HORS ZONE] Occitanie\65\lettre_ac-geopyrenees.docx
+  [HORS ZONE] 496 mots -> 413 mots (en 1 essai(s))
+
+[736/923] [HORS ZONE] Occitanie\65\lettre_cabinet-duversin-thomas.docx
+  [HORS ZONE] 500 mots -> 383 mots (en 1 essai(s))
+
+[737/923] [OK] Occitanie\65\lettre_cabinet-goueze-christophe.docx
+  [OK] 472 mots -> 442 mots (en 1 essai(s))
+
+[738/923] [HORS ZONE] Occitanie\65\lettre_cabinet-marobin-christophe.docx
+  [HORS ZONE] 482 mots -> 455 mots (en 1 essai(s))
+
+[739/923] [HORS ZONE] Occitanie\65\lettre_geomontis-selarl-de-geometre-expert.docx
+  [HORS ZONE] 489 mots -> 416 mots (en 1 essai(s))
+
+[740/923] [HORS ZONE] Occitanie\65\lettre_scp-smtb-david-larroze-damien-bregler.docx
+  [HORS ZONE] 474 mots -> 460 mots (en 1 essai(s))
+
+[741/923] [HORS ZONE] Occitanie\65\lettre_selarl-cuvillier.docx
+  [HORS ZONE] 483 mots -> 458 mots (en 1 essai(s))
+
+[742/923] [HORS ZONE] Occitanie\66\lettre_cabinet-guillon-gonin-sarl-de-geometres-experts.docx
+  [HORS ZONE] 516 mots -> 402 mots (en 1 essai(s))
+
+[743/923] [HORS ZONE] Occitanie\66\lettre_eurl-bornage-expertise-geometre-expert-stephane-jules.docx
+  [HORS ZONE] 512 mots -> 392 mots (en 1 essai(s))
+
+[744/923] [HORS ZONE] Occitanie\66\lettre_eurl-gontharet-geometre-expert.docx
+  [HORS ZONE] 526 mots -> 421 mots (en 1 essai(s))
+
+[745/923] [OK] Occitanie\66\lettre_eurl-thiriet-geometre-expert.docx
+  [OK] 464 mots -> 445 mots (en 1 essai(s))
+
+[746/923] [OK] Occitanie\66\lettre_sas-cabinet-maury-ge.docx
+  [OK] 455 mots -> 445 mots (en 1 essai(s))
+
+[747/923] [OK] Occitanie\66\lettre_scp-emmanuel-cretin-maitenaz-sylvain-moreau.docx
+  [OK] 481 mots -> 436 mots (en 1 essai(s))
+
+[748/923] [HORS ZONE] Occitanie\66\lettre_selarl-a-g-t.docx
+  [HORS ZONE] 475 mots -> 459 mots (en 1 essai(s))
+
+[749/923] [OK] Occitanie\66\lettre_selarl-g-p-o.docx
+  [OK] 466 mots -> 443 mots (en 1 essai(s))
+
+[750/923] [OK] Occitanie\66\lettre_selarl-geopole-geometres-experts-associes.docx
+  [OK] 461 mots -> 437 mots (en 1 essai(s))
+
+[751/923] [OK] Occitanie\66\lettre_selarlu-fongeo.docx
+  [OK] 499 mots -> 434 mots (en 1 essai(s))
+
+[752/923] [OK] Occitanie\66\lettre_selas-pangeo-conseil.docx
+  [OK] 456 mots -> 440 mots (en 1 essai(s))
+
+[753/923] [OK] Occitanie\81\lettre_albi-geometre-expert-agex-sarl.docx
+  [OK] 492 mots -> 438 mots (en 1 essai(s))
+
+[754/923] [HORS ZONE] Occitanie\81\lettre_sarl-bgeo-conseils.docx
+  [HORS ZONE] 476 mots -> 465 mots (en 1 essai(s))
+
+[755/923] [OK] Occitanie\81\lettre_scp-olivier-cazaux-successeur-de-jean-lacaze.docx
+  [OK] 458 mots -> 445 mots (en 1 essai(s))
+
+[756/923] [OK] Occitanie\81\lettre_selarl-axiap.docx
+  [OK] 461 mots -> 449 mots (en 1 essai(s))
+
+[757/923] [HORS ZONE] Occitanie\81\lettre_selas-geo-sud-ouest.docx
+  [HORS ZONE] 508 mots -> 391 mots (en 1 essai(s))
+
+[758/923] [OK] Occitanie\82\lettre_sarl-urbactis-groupe.docx
+  [OK] 480 mots -> 449 mots (en 1 essai(s))
+
+[759/923] [HORS ZONE] Pays De La Loire\44\lettre_agebim.docx
+  [HORS ZONE] 480 mots -> 471 mots (en 1 essai(s))
+
+[760/923] [HORS ZONE] Pays De La Loire\44\lettre_ageis-ageis.docx
+  [HORS ZONE] 501 mots -> 453 mots (en 1 essai(s))
+
+[761/923] [HORS ZONE] Pays De La Loire\44\lettre_air-geo-scp-de-geometres-experts-fonciers.docx
+  [HORS ZONE] 467 mots -> 457 mots (en 1 essai(s))
+
+[762/923] [HORS ZONE] Pays De La Loire\44\lettre_albedo.docx
+  [HORS ZONE] 483 mots -> 416 mots (en 1 essai(s))
+
+[763/923] [HORS ZONE] Pays De La Loire\44\lettre_alp-geometres.docx
+  [HORS ZONE] 497 mots -> 409 mots (en 1 essai(s))
+
+[764/923] [HORS ZONE] Pays De La Loire\44\lettre_arrondel-cabinet-de-geometres-expert.docx
+  [HORS ZONE] 475 mots -> 465 mots (en 1 essai(s))
+
+[765/923] [OK] Pays De La Loire\44\lettre_atlantique-geometres-experts.docx
+  [OK] 482 mots -> 442 mots (en 1 essai(s))
+
+[766/923] [HORS ZONE] Pays De La Loire\44\lettre_atlantique-infogeo.docx
+  [HORS ZONE] 477 mots -> 471 mots (en 1 essai(s))
+
+[767/923] [OK] Pays De La Loire\44\lettre_bcg-geometres-experts.docx
+  [OK] 477 mots -> 442 mots (en 1 essai(s))
+
+[768/923] [HORS ZONE] Pays De La Loire\44\lettre_bureau-jean-christophe-geometre-expert.docx
+  [HORS ZONE] 496 mots -> 417 mots (en 1 essai(s))
+
+[769/923] [OK] Pays De La Loire\44\lettre_cdc-conseils.docx
+  [OK] 484 mots -> 435 mots (en 1 essai(s))
+
+[770/923] [HORS ZONE] Pays De La Loire\44\lettre_choimet-marc.docx
+  [HORS ZONE] 513 mots -> 420 mots (en 1 essai(s))
+
+[771/923] [OK] Pays De La Loire\44\lettre_geometryz.docx
+  [OK] 457 mots -> 444 mots (en 1 essai(s))
+
+[772/923] [HORS ZONE] Pays De La Loire\44\lettre_geosphere.docx
+  [HORS ZONE] 470 mots -> 461 mots (en 1 essai(s))
+
+[773/923] [HORS ZONE] Pays De La Loire\44\lettre_myriade.docx
+  [HORS ZONE] 475 mots -> 453 mots (en 1 essai(s))
+
+[774/923] [HORS ZONE] Pays De La Loire\44\lettre_pierre-ge.docx
+  [HORS ZONE] 483 mots -> 422 mots (en 1 essai(s))
+
+[775/923] [HORS ZONE] Pays De La Loire\44\lettre_prisme.docx
+  [HORS ZONE] 460 mots -> 454 mots (en 1 essai(s))
+
+[776/923] [HORS ZONE] Pays De La Loire\44\lettre_progeo-conseils.docx
+  [HORS ZONE] 469 mots -> 461 mots (en 1 essai(s))
+
+[777/923] [HORS ZONE] Pays De La Loire\44\lettre_sculo-chatellier.docx
+  [HORS ZONE] 505 mots -> 426 mots (en 1 essai(s))
+
+[778/923] [HORS ZONE] Pays De La Loire\44\lettre_sna-geometre-expert.docx
+  [HORS ZONE] 473 mots -> 463 mots (en 1 essai(s))
+
+[779/923] [HORS ZONE] Pays De La Loire\44\lettre_sonneville-alexandre-h.docx
+  [HORS ZONE] 499 mots -> 402 mots (en 1 essai(s))
+
+[780/923] [HORS ZONE] Pays De La Loire\49\lettre_ageis-selarl-de-geometres-experts.docx
+  [HORS ZONE] 484 mots -> 422 mots (en 1 essai(s))
+
+[781/923] [HORS ZONE] Pays De La Loire\49\lettre_air-geo-scp-de-geometres-experts-fonciers.docx
+  [HORS ZONE] 468 mots -> 461 mots (en 1 essai(s))
+
+[782/923] [HORS ZONE] Pays De La Loire\49\lettre_branly-associes.docx
+  [HORS ZONE] 469 mots -> 466 mots (en 1 essai(s))
+
+[783/923] [HORS ZONE] Pays De La Loire\49\lettre_brichet-lhumeau-isabelle.docx
+  [HORS ZONE] 490 mots -> 428 mots (en 1 essai(s))
+
+[784/923] [HORS ZONE] Pays De La Loire\49\lettre_fevrier-antoine.docx
+  [HORS ZONE] 480 mots -> 457 mots (en 1 essai(s))
+
+[785/923] [HORS ZONE] Pays De La Loire\49\lettre_geoce.docx
+  [HORS ZONE] 489 mots -> 413 mots (en 1 essai(s))
+
+[786/923] [ECHEC] Pays De La Loire\49\lettre_geomotis.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[787/923] [OK] Pays De La Loire\49\lettre_guihaire-vincent.docx
+  [OK] 482 mots -> 436 mots (en 1 essai(s))
+
+[788/923] [OK] Pays De La Loire\49\lettre_hamel-ge-anjou.docx
+  [OK] 479 mots -> 432 mots (en 1 essai(s))
+
+[789/923] [HORS ZONE] Pays De La Loire\49\lettre_initio-conseil.docx
+  [HORS ZONE] 470 mots -> 466 mots (en 1 essai(s))
+
+[790/923] [HORS ZONE] Pays De La Loire\49\lettre_ligeis.docx
+  [HORS ZONE] 473 mots -> 455 mots (en 1 essai(s))
+
+[791/923] [OK] Pays De La Loire\49\lettre_roussel-langlois.docx
+  [OK] 452 mots -> 438 mots (en 1 essai(s))
+
+[792/923] [OK] Pays De La Loire\53\lettre_duret-vincent.docx
+  [OK] 466 mots -> 446 mots (en 1 essai(s))
+
+[793/923] [HORS ZONE] Pays De La Loire\53\lettre_kaligeo.docx
+  [HORS ZONE] 483 mots -> 408 mots (en 1 essai(s))
+
+[794/923] [OK] Pays De La Loire\53\lettre_langevin-harry-sarl-de-geometres-experts.docx
+  [OK] 465 mots -> 438 mots (en 1 essai(s))
+
+[795/923] [HORS ZONE] Pays De La Loire\53\lettre_maillard-david.docx
+  [HORS ZONE] 484 mots -> 380 mots (en 1 essai(s))
+
+[796/923] [OK] Pays De La Loire\72\lettre_air-geo-scp-de-geometres-experts-fonciers.docx
+  [OK] 494 mots -> 448 mots (en 1 essai(s))
+
+[797/923] [OK] Pays De La Loire\72\lettre_barbier-christophe-sarl-de-geometres-experts.docx
+  [OK] 478 mots -> 450 mots (en 1 essai(s))
+
+[798/923] [HORS ZONE] Pays De La Loire\72\lettre_geomans.docx
+  [HORS ZONE] 555 mots -> 398 mots (en 1 essai(s))
+
+[799/923] [OK] Pays De La Loire\72\lettre_geoplus.docx
+  [OK] 489 mots -> 448 mots (en 1 essai(s))
+
+[800/923] [OK] Pays De La Loire\72\lettre_guillerminet.docx
+  [OK] 469 mots -> 446 mots (en 1 essai(s))
+
+[801/923] [HORS ZONE] Pays De La Loire\72\lettre_loiseau-christophe.docx
+  [HORS ZONE] 524 mots -> 409 mots (en 1 essai(s))
+
+[802/923] [OK] Pays De La Loire\72\lettre_pelle-jean-michel-pelle-jean-michel.docx
+  [OK] 470 mots -> 446 mots (en 1 essai(s))
+
+[803/923] [HORS ZONE] Pays De La Loire\85\lettre_air-geo-scp-de-geometres-experts-fonciers.docx
+  [HORS ZONE] 479 mots -> 469 mots (en 1 essai(s))
+
+[804/923] [OK] Pays De La Loire\85\lettre_bonnard-frederic.docx
+  [OK] 451 mots -> 447 mots (en 1 essai(s))
+
+[805/923] [OK] Pays De La Loire\85\lettre_bourgoin-franck.docx
+  [OK] 468 mots -> 449 mots (en 1 essai(s))
+
+[806/923] [OK] Pays De La Loire\85\lettre_geocea.docx
+  [OK] 476 mots -> 447 mots (en 1 essai(s))
+
+[807/923] [HORS ZONE] Pays De La Loire\85\lettre_geodomia.docx
+  [HORS ZONE] 492 mots -> 406 mots (en 1 essai(s))
+
+[808/923] [OK] Pays De La Loire\85\lettre_geomotis.docx
+  [OK] 480 mots -> 433 mots (en 1 essai(s))
+
+[809/923] [HORS ZONE] Pays De La Loire\85\lettre_guilbaudeau-frederic.docx
+  [HORS ZONE] 495 mots -> 408 mots (en 1 essai(s))
+
+[810/923] [OK] Pays De La Loire\85\lettre_la-boussole.docx
+  [OK] 500 mots -> 444 mots (en 1 essai(s))
+
+[811/923] [OK] Pays De La Loire\85\lettre_milcent-petit.docx
+  [OK] 467 mots -> 449 mots (en 1 essai(s))
+
+[812/923] [HORS ZONE] Pays De La Loire\85\lettre_thouzeau-legal-geometre-expert.docx
+  [HORS ZONE] 490 mots -> 422 mots (en 1 essai(s))
+
+[813/923] [HORS ZONE] Pays De La Loire\85\lettre_thouzeau-legal.docx
+  [HORS ZONE] 469 mots -> 427 mots (en 1 essai(s))
+
+[814/923] [HORS ZONE] Provence Alpes Cote D Azur\04\lettre_cabinet-chomont-elie.docx
+  [HORS ZONE] 491 mots -> 451 mots (en 1 essai(s))
+
+[815/923] [OK] Provence Alpes Cote D Azur\04\lettre_cabinet-lagarde-pierre.docx
+  [OK] 482 mots -> 436 mots (en 1 essai(s))
+
+[816/923] [HORS ZONE] Provence Alpes Cote D Azur\04\lettre_cabinet-ohnimus-jacques.docx
+  [HORS ZONE] 485 mots -> 424 mots (en 1 essai(s))
+
+[817/923] [OK] Provence Alpes Cote D Azur\04\lettre_cabinet-petitjean-christophe.docx
+  [OK] 490 mots -> 430 mots (en 1 essai(s))
+
+[818/923] [HORS ZONE] Provence Alpes Cote D Azur\04\lettre_cabinet-richard-philippe.docx
+  [HORS ZONE] 460 mots -> 452 mots (en 1 essai(s))
+
+[819/923] [HORS ZONE] Provence Alpes Cote D Azur\04\lettre_sarl-geometre-en-provence.docx
+  [HORS ZONE] 506 mots -> 383 mots (en 1 essai(s))
+
+[820/923] [OK] Provence Alpes Cote D Azur\04\lettre_selarl-carlavan-geometre-expert.docx
+  [OK] 487 mots -> 435 mots (en 1 essai(s))
+
+[821/923] [OK] Provence Alpes Cote D Azur\04\lettre_selas-bourene-richard.docx
+  [OK] 473 mots -> 450 mots (en 1 essai(s))
+
+[822/923] [OK] Provence Alpes Cote D Azur\05\lettre_sarl-cabinet-toulemonde-bontoux.docx
+  [OK] 459 mots -> 444 mots (en 1 essai(s))
+
+[823/923] [OK] Provence Alpes Cote D Azur\05\lettre_scp-jacques-potin-ge-associes.docx
+  [OK] 499 mots -> 440 mots (en 1 essai(s))
+
+[824/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_atrium-foncier-sasu-de-geometre-expert.docx
+  [HORS ZONE] 473 mots -> 452 mots (en 1 essai(s))
+
+[825/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_cabinet-berbenni-olivier.docx
+  [HORS ZONE] 429 mots -> 475 mots (en 1 essai(s))
+
+[826/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_cabinet-loppin-pierre.docx
+  [HORS ZONE] 491 mots -> 410 mots (en 1 essai(s))
+
+[827/923] [OK] Provence Alpes Cote D Azur\06\lettre_cabinet-mozer.docx
+  [OK] 485 mots -> 449 mots (en 1 essai(s))
+
+[828/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_cabinet-nivola.docx
+  [HORS ZONE] 453 mots -> 428 mots (en 1 essai(s))
+
+[829/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_ecogeo-expertise.docx
+  [HORS ZONE] 470 mots -> 464 mots (en 1 essai(s))
+
+[830/923] [OK] Provence Alpes Cote D Azur\06\lettre_ge-metric.docx
+  [OK] 457 mots -> 447 mots (en 1 essai(s))
+
+[831/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_geo-nature.docx
+  [HORS ZONE] 511 mots -> 405 mots (en 1 essai(s))
+
+[832/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_igeo-conseils.docx
+  [HORS ZONE] 473 mots -> 461 mots (en 1 essai(s))
+
+[833/923] [OK] Provence Alpes Cote D Azur\06\lettre_sarl-ange-marie-flaugnatti.docx
+  [OK] 483 mots -> 441 mots (en 1 essai(s))
+
+[834/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_sarl-arielle-duclos-portugues.docx
+  [HORS ZONE] 490 mots -> 414 mots (en 1 essai(s))
+
+[835/923] [OK] Provence Alpes Cote D Azur\06\lettre_sarl-atm.docx
+  [OK] 470 mots -> 442 mots (en 1 essai(s))
+
+[836/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_sarl-azur-foncier-conseil.docx
+  [HORS ZONE] 471 mots -> 455 mots (en 1 essai(s))
+
+[837/923] [OK] Provence Alpes Cote D Azur\06\lettre_sarl-khoraxia.docx
+  [OK] 523 mots -> 430 mots (en 1 essai(s))
+
+[838/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_sarl-mf2h.docx
+  [HORS ZONE] 490 mots -> 399 mots (en 1 essai(s))
+
+[839/923] [OK] Provence Alpes Cote D Azur\06\lettre_sarl-pensa-geotopo.docx
+  [OK] 464 mots -> 445 mots (en 1 essai(s))
+
+[840/923] [OK] Provence Alpes Cote D Azur\06\lettre_sas-alta-vision.docx
+  [OK] 463 mots -> 446 mots (en 1 essai(s))
+
+[841/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_sas-efgeo.docx
+  [HORS ZONE] 487 mots -> 428 mots (en 1 essai(s))
+
+[842/923] [OK] Provence Alpes Cote D Azur\06\lettre_sas-segc-sas-de-geometres-experts.docx
+  [OK] 483 mots -> 448 mots (en 1 essai(s))
+
+[843/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_scp-jerome-chazalon-geometre-expert.docx
+  [HORS ZONE] 490 mots -> 403 mots (en 1 essai(s))
+
+[844/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_selarl-arpenteurs-geometres.docx
+  [HORS ZONE] 498 mots -> 389 mots (en 1 essai(s))
+
+[845/923] [OK] Provence Alpes Cote D Azur\06\lettre_selarl-cabinet-lugherini-ge.docx
+  [OK] 453 mots -> 440 mots (en 1 essai(s))
+
+[846/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_selarl-cabinet-rouanet.docx
+  [HORS ZONE] 459 mots -> 419 mots (en 1 essai(s))
+
+[847/923] [OK] Provence Alpes Cote D Azur\06\lettre_selarl-geotech-conseils.docx
+  [OK] 456 mots -> 449 mots (en 1 essai(s))
+
+[848/923] [OK] Provence Alpes Cote D Azur\06\lettre_selarl-pythagore.docx
+  [OK] 513 mots -> 430 mots (en 1 essai(s))
+
+[849/923] [HORS ZONE] Provence Alpes Cote D Azur\06\lettre_selas-sge-levier-castelli.docx
+  [HORS ZONE] 478 mots -> 451 mots (en 1 essai(s))
+
+[850/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_arcogex-selarl-arnel-de-combarieu.docx
+  [HORS ZONE] 509 mots -> 412 mots (en 1 essai(s))
+
+[851/923] [OK] Provence Alpes Cote D Azur\13\lettre_benjamin-minot.docx
+  [OK] 472 mots -> 448 mots (en 1 essai(s))
+
+[852/923] [OK] Provence Alpes Cote D Azur\13\lettre_cabinet-boulay-geometre-expert.docx
+  [OK] 467 mots -> 442 mots (en 1 essai(s))
+
+[853/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_cabinet-fargues-selarl-de-geometres-experts.docx
+  [HORS ZONE] 490 mots -> 412 mots (en 1 essai(s))
+
+[854/923] [OK] Provence Alpes Cote D Azur\13\lettre_cabinet-pierre-remi.docx
+  [OK] 491 mots -> 444 mots (en 1 essai(s))
+
+[855/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_cabinet-vernet-thierry.docx
+  [HORS ZONE] 465 mots -> 451 mots (en 1 essai(s))
+
+[856/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_eric-enjalbert.docx
+  [HORS ZONE] 477 mots -> 452 mots (en 1 essai(s))
+
+[857/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_eurl-cabinet-salis.docx
+  [HORS ZONE] 489 mots -> 401 mots (en 1 essai(s))
+
+[858/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_eurl-jeremy-vagne.docx
+  [HORS ZONE] 485 mots -> 454 mots (en 1 essai(s))
+
+[859/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_helios-geo.docx
+  [HORS ZONE] 525 mots -> 406 mots (en 1 essai(s))
+
+[860/923] [OK] Provence Alpes Cote D Azur\13\lettre_miquee-bruno.docx
+  [OK] 470 mots -> 440 mots (en 1 essai(s))
+
+[861/923] [OK] Provence Alpes Cote D Azur\13\lettre_rge.docx
+  [OK] 462 mots -> 445 mots (en 1 essai(s))
+
+[862/923] [OK] Provence Alpes Cote D Azur\13\lettre_sarl-cabinet-legal.docx
+  [OK] 456 mots -> 441 mots (en 1 essai(s))
+
+[863/923] [OK] Provence Alpes Cote D Azur\13\lettre_sarl-cabinet-micheletti.docx
+  [OK] 505 mots -> 442 mots (en 1 essai(s))
+
+[864/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_sarl-cg-expert.docx
+  [HORS ZONE] 465 mots -> 452 mots (en 1 essai(s))
+
+[865/923] [OK] Provence Alpes Cote D Azur\13\lettre_sarl-phigeo-expert.docx
+  [OK] 473 mots -> 446 mots (en 1 essai(s))
+
+[866/923] [OK] Provence Alpes Cote D Azur\13\lettre_sas-amocite.docx
+  [OK] 483 mots -> 430 mots (en 1 essai(s))
+
+[867/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_scop-a-t-g-t-s-m.docx
+  [HORS ZONE] 458 mots -> 453 mots (en 1 essai(s))
+
+[868/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_scp-andre-et-servolles.docx
+  [HORS ZONE] 547 mots -> 461 mots (en 1 essai(s))
+
+[869/923] [OK] Provence Alpes Cote D Azur\13\lettre_scp-frederic-rougier.docx
+  [OK] 452 mots -> 450 mots (en 1 essai(s))
+
+[870/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_scp-philippe-manfredi.docx
+  [HORS ZONE] 521 mots -> 429 mots (en 1 essai(s))
+
+[871/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_selarl-agear-s-geometres-experts.docx
+  [HORS ZONE] 480 mots -> 453 mots (en 1 essai(s))
+
+[872/923] [OK] Provence Alpes Cote D Azur\13\lettre_selarl-cabinet-d-amore-julien.docx
+  [OK] 486 mots -> 431 mots (en 1 essai(s))
+
+[873/923] [OK] Provence Alpes Cote D Azur\13\lettre_selarl-cabinet-ramond.docx
+  [OK] 528 mots -> 430 mots (en 1 essai(s))
+
+[874/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_selarl-cabinet-ranque-masala.docx
+  [HORS ZONE] 505 mots -> 406 mots (en 1 essai(s))
+
+[875/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_selarl-cedric-preau.docx
+  [HORS ZONE] 471 mots -> 457 mots (en 1 essai(s))
+
+[876/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_selarl-constantin-pitrat.docx
+  [HORS ZONE] 502 mots -> 388 mots (en 1 essai(s))
+
+[877/923] [ECHEC] Provence Alpes Cote D Azur\13\lettre_selarl-iperface-pierre-laroussinie.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[878/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_selas-geos.docx
+  [HORS ZONE] 489 mots -> 455 mots (en 1 essai(s))
+
+[879/923] [HORS ZONE] Provence Alpes Cote D Azur\13\lettre_selas-quadra-foncier.docx
+  [HORS ZONE] 495 mots -> 405 mots (en 1 essai(s))
+
+[880/923] [OK] Provence Alpes Cote D Azur\13\lettre_serre-poussard-borrel-sarl-de-geometres-experts.docx
+  [OK] 461 mots -> 444 mots (en 1 essai(s))
+
+[881/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_arkad-geometre-expert.docx
+  [HORS ZONE] 525 mots -> 425 mots (en 1 essai(s))
+
+[882/923] [OK] Provence Alpes Cote D Azur\83\lettre_atelier-de-geometres.docx
+  [OK] 460 mots -> 448 mots (en 1 essai(s))
+
+[883/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_autran-geometre-expert.docx
+  [HORS ZONE] 518 mots -> 393 mots (en 1 essai(s))
+
+[884/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_cabinet-claret-martial.docx
+  [HORS ZONE] 507 mots -> 394 mots (en 1 essai(s))
+
+[885/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_eurl-eric-guignard.docx
+  [HORS ZONE] 458 mots -> 455 mots (en 1 essai(s))
+
+[886/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_eurl-philippe-cruz.docx
+  [HORS ZONE] 468 mots -> 427 mots (en 1 essai(s))
+
+[887/923] [OK] Provence Alpes Cote D Azur\83\lettre_hennebicque-delbasse.docx
+  [OK] 515 mots -> 437 mots (en 1 essai(s))
+
+[888/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_rge-sas-de-geometres-experts.docx
+  [HORS ZONE] 461 mots -> 458 mots (en 1 essai(s))
+
+[889/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_sarl-age2f.docx
+  [HORS ZONE] 483 mots -> 425 mots (en 1 essai(s))
+
+[890/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_sarl-arnaud-deleval.docx
+  [HORS ZONE] 475 mots -> 456 mots (en 1 essai(s))
+
+[891/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_sarl-cabinet-arragon.docx
+  [HORS ZONE] 471 mots -> 461 mots (en 1 essai(s))
+
+[892/923] [OK] Provence Alpes Cote D Azur\83\lettre_sarl-cabinet-isabelle-lieutaud-sarl-cabinet-isabelle-lieutau.docx
+  [OK] 452 mots -> 441 mots (en 1 essai(s))
+
+[893/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_sarl-de-g-e-roche-et-associes.docx
+  [HORS ZONE] 487 mots -> 458 mots (en 1 essai(s))
+
+[894/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_sarl-expertgeo-sainte-baume.docx
+  [HORS ZONE] 485 mots -> 396 mots (en 1 essai(s))
+
+[895/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_sarl-laugier-geomer.docx
+  [HORS ZONE] 460 mots -> 452 mots (en 1 essai(s))
+
+[896/923] [ECHEC] Provence Alpes Cote D Azur\83\lettre_sas-ageoterra.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[897/923] [OK] Provence Alpes Cote D Azur\83\lettre_sas-cabinet-thierry-schneider.docx
+  [OK] 460 mots -> 449 mots (en 1 essai(s))
+
+[898/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_sasu-cge.docx
+  [HORS ZONE] 473 mots -> 457 mots (en 1 essai(s))
+
+[899/923] [OK] Provence Alpes Cote D Azur\83\lettre_sasu-frederic-lesueur-geometre-expert.docx
+  [OK] 468 mots -> 447 mots (en 1 essai(s))
+
+[900/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_sasu-geometica-geometre-expert.docx
+  [HORS ZONE] 486 mots -> 452 mots (en 1 essai(s))
+
+[901/923] [ECHEC] Provence Alpes Cote D Azur\83\lettre_sasu-gexxia.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[902/923] [OK] Provence Alpes Cote D Azur\83\lettre_scp-serge-hemery.docx
+  [OK] 484 mots -> 434 mots (en 1 essai(s))
+
+[903/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_selarl-a-g-t.docx
+  [HORS ZONE] 460 mots -> 451 mots (en 1 essai(s))
+
+[904/923] [OK] Provence Alpes Cote D Azur\83\lettre_selarl-bailleul-gatto.docx
+  [OK] 469 mots -> 439 mots (en 1 essai(s))
+
+[905/923] [OK] Provence Alpes Cote D Azur\83\lettre_selarl-cabinet-philippe-abadie.docx
+  [OK] 451 mots -> 448 mots (en 1 essai(s))
+
+[906/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_selarl-geoexpertise.docx
+  [HORS ZONE] 469 mots -> 454 mots (en 1 essai(s))
+
+[907/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_selas-ge2a.docx
+  [HORS ZONE] 453 mots -> 451 mots (en 1 essai(s))
+
+[908/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_selas-gexpertise-conseil.docx
+  [HORS ZONE] 491 mots -> 396 mots (en 1 essai(s))
+
+[909/923] [HORS ZONE] Provence Alpes Cote D Azur\83\lettre_verbrugge-geometre-expert.docx
+  [HORS ZONE] 546 mots -> 405 mots (en 1 essai(s))
+
+[910/923] [OK] Provence Alpes Cote D Azur\84\lettre_3-14-expert-sarl-de-geometres-experts.docx
+  [OK] 470 mots -> 435 mots (en 1 essai(s))
+
+[911/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_cabinet-carlin-michel.docx
+  [HORS ZONE] 489 mots -> 420 mots (en 1 essai(s))
+
+[912/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_sarl-agulhon-christophe.docx
+  [HORS ZONE] 471 mots -> 453 mots (en 1 essai(s))
+
+[913/923] [OK] Provence Alpes Cote D Azur\84\lettre_sarl-c2a.docx
+  [OK] 464 mots -> 446 mots (en 1 essai(s))
+
+[914/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_sarl-cabinet-enjalbert.docx
+  [HORS ZONE] 507 mots -> 411 mots (en 1 essai(s))
+
+[915/923] [ECHEC] Provence Alpes Cote D Azur\84\lettre_sarl-l-atelier-foncier.docx
+  [VIDE/TROP COURTE] 2 mots - à régénérer manuellement
+
+[916/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_sarl-l-d-geo.docx
+  [HORS ZONE] 528 mots -> 464 mots (en 1 essai(s))
+
+[917/923] [OK] Provence Alpes Cote D Azur\84\lettre_sas-expert-alliance.docx
+  [OK] 473 mots -> 444 mots (en 1 essai(s))
+
+[918/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_selarl-cabinet-argence.docx
+  [HORS ZONE] 460 mots -> 454 mots (en 1 essai(s))
+
+[919/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_selarl-cabinet-courbi.docx
+  [HORS ZONE] 485 mots -> 411 mots (en 1 essai(s))
+
+[920/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_selarl-cabinet-grimont.docx
+  [HORS ZONE] 462 mots -> 453 mots (en 1 essai(s))
+
+[921/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_selarl-jacques-blanc-et-associes.docx
+  [HORS ZONE] 483 mots -> 388 mots (en 1 essai(s))
+
+[922/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_selarl-olivier-betard.docx
+  [HORS ZONE] 456 mots -> 453 mots (en 1 essai(s))
+
+[923/923] [HORS ZONE] Provence Alpes Cote D Azur\84\lettre_selas-cabinet-geo-experts.docx
+  [HORS ZONE] 484 mots -> 389 mots (en 1 essai(s))
+
+
+======================================================================
+RESUME
+======================================================================
+Lettres conformes copiées : 86
+Lettres adaptées avec succès : 896
+Lettres en échec (vides ou erreur IA) : 27
+
+Dossier de sortie : C:\Users\Julian\Documents\recherche_oge\sortie\lettres_corrigees

@@ -3,8 +3,9 @@ Géomètres-Experts. Tu rédiges une lettre de motivation pour Julian Brouet, ca
 poste de collaborateur en vue du stage DPLG de 2 ans.
 
 OBJECTIF : personnaliser, pour LE CABINET CIBLE ci-dessous, une lettre qui doit ressembler
-à la lettre-modèle de Julian (même voix, même structure, même longueur, même registre :
+à la lettre-modèle de Julian (même voix, même structure, même registre :
 intellectuel, mesuré, sincère, sans emphase ni jargon technique appuyé).
+IMPORTANT : La lettre finale doit impérativement faire environ 430 mots (maximum absolu 450 mots) pour tenir sur une seule page, tout comme ta lettre-modèle. Garde exactement la même densité et le même niveau de détail. N'étire pas les phrases et ne rajoute aucun argument superflu.
 
 PROFIL DU CANDIDAT :
 {profil_candidat}
@@ -20,20 +21,21 @@ DOSSIER DE RECHERCHE SUR LE CABINET CIBLE :
 >>>
 
 RÈGLES :
-1. Conserve la structure de la lettre-modèle : en-tête (coordonnées de Julian, puis du
-   cabinet et de son dirigeant), objet, puis le corps en paragraphes équivalents :
-   - accroche situation/candidature (stage chez Pascal Vailles, session oct. 2026) ;
-   - paragraphe "VOUS" : ce qui distingue CE cabinet (implantations, spécialités, outils,
-     ancrage territorial, taille/ancienneté) — c'est le cœur de la personnalisation, à
-     nourrir UNIQUEMENT avec le dossier ci-dessus ;
-   - paragraphe(s) "MOI" : parcours de recherche, sensibilité à la donnée spatiale,
-     motivation pour le droit foncier et l'urbanisme ;
-   - clôture (rencontre + formule de politesse).
+1. Conserve la structure exacte de la lettre-modèle en 5 temps (après l'en-tête et l'objet) :
+   - En-tête : Ne crée AUCUNE ligne vide (aucun saut de ligne) entre tes coordonnées et celles du cabinet destinataire. Enchaîne-les directement.
+   - 1. Accroche : reconversion, candidature DPLG oct 2026, stage chez Pascal Vailles ;
+   - 2. Vision du métier : l'articulation entre rigueur technique sur le terrain et ingénierie juridique du territoire ;
+   - 3. Paragraphe "VOUS" : ce qui distingue CE cabinet. C'est ici qu'il faut injecter l'analyse du site web. RESTE STRICTEMENT CONCENTRÉ SUR LE CABINET, ne fais pas le lien avec toi dans ce paragraphe. Utilise intelligemment l'un de ces angles d'analyse selon leurs données : s'ils ont plusieurs agences, souligne la diversité des territoires couverts (urbain, rural, etc.) ; s'ils sont très classiques, valorise la maîtrise du "cœur du métier" et la proximité ; s'ils sont technologiques, valorise leur avant-gardisme ; s'ils ont de vieilles archives, souligne la notion de patrimoine foncier. L'objectif est un paragraphe 100% "VOUS" ultra-pertinent ;
+   - 4. Atouts "MOI" : maîtrise des données spatiales, rigueur méthodologique issue de la recherche, capacité d'analyse ;
+   - 5. Expérience terrain & Humilité : familiarité avec l'acquisition de données, volonté d'apprendre le droit foncier par la pratique quotidienne au sein de l'équipe ;
+   - Clôture : demande de rencontre + formule de politesse.
 2. Adresse la lettre au dirigeant nommé dans le dossier. S'il n'est pas connu, écris
    "Madame, Monsieur" et n'invente aucun nom.
 3. N'invente AUCUNE information sur le cabinet. N'utilise que des éléments présents dans le
    dossier. Ignore tout champ "Non disponible".
-4. Reste sobre : pas de superlatifs creux, pas de ton commercial, pas de listes à puces.
-5. Mentionne en clôture qu'un CV et une lettre de recommandation sont joints.
+4. Ton et vocabulaire : Reste extrêmement sobre, pragmatique et humble. Utilise un vocabulaire professionnel ("ingénierie juridique", "rigueur", "opérationnel", "restitution"). Bannis absolument le lyrisme ("passionné", "fasciné", "rêve"), le ton commercial et les listes à puces.
+5. Ne mentionne JAMAIS de pièces jointes, de CV, ni de lettre de recommandation dans le texte de la lettre (ne mets JAMAIS de phrase comme "Vous trouverez ci-joint mon CV..." ou similaire).
+
+
 
 Réponds UNIQUEMENT par le texte de la lettre, prêt à copier, sans commentaire ni balise.

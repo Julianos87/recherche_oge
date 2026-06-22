@@ -130,11 +130,23 @@ def noms_dirigeants(ent):
 # --------------------------------------------------------------------------- #
 def nettoyer_html(h):
     import html as _html
-    h = re.sub(r"(?is)<(script|style|noscript).*?</\1>", " ", h)
-    h = re.sub(r"(?s)<[^>]+>", " ", h)
+    # Supprimer les balises inutiles (scripts, navigation, header/footer)
+    h = re.sub(r"(?is)<(script|style|noscript|nav|header|footer).*?</\1>", " ", h)
+    # Remplacer les balises de blocs par des sauts de ligne
+    h = re.sub(r"(?is)</?(p|div|h[1-6]|li|br|section|article)[^>]*>", "\n", h)
+    # Supprimer toutes les autres balises
+    h = re.sub(r"(?is)<[^>]+>", " ", h)
     h = _html.unescape(h)
-    h = re.sub(r"\s+", " ", h)
-    return h.strip()
+    
+    # Ne garder que les lignes qui ressemblent à du vrai texte (phrases complètes)
+    lignes_propres = []
+    for ligne in h.split("\n"):
+        ligne = re.sub(r"\s+", " ", ligne).strip()
+        # Garder si + de 40 caractères ou + de 5 mots
+        if len(ligne) > 40 or len(ligne.split()) > 5:
+            lignes_propres.append(ligne)
+            
+    return "\n".join(lignes_propres)
 
 
 def scraper_site(cabinet_siege, pages_max=6):
@@ -144,9 +156,29 @@ def scraper_site(cabinet_siege, pages_max=6):
     if not site:
         return res
     textes, brut_total = [], ""
+    site_actif = site
+    
+    # Test d'accessibilité de la page d'accueil avec fallback sur www.
+    try:
+        h_accueil = P.http_get(site_actif, timeout=12).decode("utf-8", "replace")
+    except Exception:
+        if "://" in site_actif and "://www." not in site_actif:
+            site_actif = site_actif.replace("://", "://www.")
+            try:
+                h_accueil = P.http_get(site_actif, timeout=12).decode("utf-8", "replace")
+            except Exception:
+                return res
+        else:
+            return res
+            
+    res["url"] = site_actif
+    
     for chemin in PAGES[:pages_max]:
         try:
-            h = P.http_get(site + chemin, timeout=12).decode("utf-8", "replace")
+            if chemin == "":
+                h = h_accueil
+            else:
+                h = P.http_get(site_actif + chemin, timeout=12).decode("utf-8", "replace")
         except Exception:
             continue
         brut_total += " " + h
@@ -166,15 +198,28 @@ def scraper_site(cabinet_siege, pages_max=6):
     found = [m for m in P.MOTS_SPECIALITES if P.sans_accent(m).lower() in bas]
     if found:
         res["specialites"] = ", ".join(found)
-    # extrait : le plus long bloc de texte récolté (souvent la page d'accueil)
-    res["extrait"] = (max(textes, key=len)[:700] + "…") if textes else ""
+    # extrait : déduplication de tous les paragraphes propres récoltés
+    toutes_les_lignes = []
+    for t in textes:
+        toutes_les_lignes.extend(t.split("\n"))
+        
+    lignes_uniques = []
+    vus = set()
+    for ligne in toutes_les_lignes:
+        if ligne and ligne not in vus:
+            vus.add(ligne)
+            lignes_uniques.append(ligne)
+            
+    res["extrait"] = "\n".join(lignes_uniques)[:10000]
+    if len("\n".join(lignes_uniques)) > 10000:
+        res["extrait"] += "…"
     return res
 
 
 # --------------------------------------------------------------------------- #
 # Construction et rendu du dossier
 # --------------------------------------------------------------------------- #
-def construire(cab, ent, web, recrutement):
+def construire(cab, ent, web, recrutement, analyse_ia=""):
     s = cab["siege"]
     return {
         "nom": cab["nom"],
@@ -184,6 +229,7 @@ def construire(cab, ent, web, recrutement):
                                 if ent.get("dirigeants") else "Non disponible"),
         "adresse": ", ".join(x for x in [s.get("fullAddress", "").strip(),
                                          s.get("fullCity", "").strip()] if x),
+        "zipcode": str(s.get("zipcode", "")).strip(),
         "villes": cab["villes"],
         "email": s.get("email", ""), "tel": s.get("phone", ""),
         "site": web.get("url", ""), "site_titre": web.get("titre", ""),
@@ -197,6 +243,7 @@ def construire(cab, ent, web, recrutement):
         "finances": ent.get("finances", {}),
         "recrutement": recrutement,
         "fiche_oge": s.get("link", ""),
+        "analyse_ia": analyse_ia,
     }
 
 
@@ -255,6 +302,9 @@ def rendre_md(d):
 
     L += ["", "## Recrutement", f"- {d['recrutement']}"]
 
+    if d.get("analyse_ia"):
+        L += ["", "## Analyse intelligente du profil du cabinet", d["analyse_ia"]]
+
     if d["site_extrait"]:
         L += ["", "## Extrait du site (brut)", "> " + d["site_extrait"].replace("\n", " ")]
     return "\n".join(L) + "\n"
@@ -282,6 +332,10 @@ def dossier_texte_pour_llm(d):
     parts.append(f"Spécialités : {d['specialites']}")
     if d["site_description"]:
         parts.append(f"Présentation (site) : {d['site_description']}")
+    if d.get("site_extrait"):
+        parts.append(f"Détails extraits du site : {d['site_extrait']}")
+    if d.get("analyse_ia"):
+        parts.append(f"Analyse IA du site : {d['analyse_ia']}")
     parts.append(f"Recrutement : {d['recrutement']}")
     return "\n".join(parts)
 
@@ -303,14 +357,20 @@ def appel_llm_local(prompt):
         "model": modele,
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.7,
-        "max_tokens": 1800,
+        "max_tokens": -1,  # -1 signifie AUCUNE limite de taille
         "stream": False,
     }).encode("utf-8")
     req = urllib.request.Request(url, data=corps,
                                  headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=300) as r:
+    # Timeout augmenté à 1200 secondes (20 minutes) pour laisser le temps à LM Studio
+    with urllib.request.urlopen(req, timeout=1200) as r:
         rep = json.loads(r.read())
-    return rep["choices"][0]["message"]["content"].strip()
+    texte = rep["choices"][0]["message"]["content"].strip()
+    # Nettoyage des balises markdown (ex: ```markdown ... ```)
+    if texte.startswith("```"):
+        texte = re.sub(r"^```[a-zA-Z]*\n", "", texte)
+        texte = re.sub(r"\n```$", "", texte)
+    return texte.strip()
 
 
 def appel_llm_anthropic(prompt):
@@ -384,15 +444,24 @@ def main():
     ap.add_argument("--lettres-seules", dest="lettres_seules", action="store_true",
                     help="ne génère QUE les lettres depuis sortie/dossiers.json "
                          "(aucun appel API/scraping ; idéal en local GPU)")
+    ap.add_argument("--analyse-site", action="store_true",
+                    help="analyse l'extrait du site avec l'IA pour enrichir le dossier")
     ap.add_argument("--recrutement", action="store_true",
                     help="détecter les offres France Travail (FT_CLIENT_ID/SECRET)")
-    ap.add_argument("--pause", type=float, default=0.3)
+    ap.add_argument("--pause", type=float, default=0.35)
     ap.add_argument("--max", type=int, default=0)
     args = ap.parse_args()
 
     SORTIE.mkdir(exist_ok=True)
     DOSSIERS.mkdir(exist_ok=True)
     LETTRES.mkdir(exist_ok=True)
+    
+    # Pré-création de toute l'arborescence (Régions -> Départements)
+    for r_name, r_deps in P.REGIONS.items():
+        region_nom = r_name.title().replace("-", " ")
+        for dep in r_deps:
+            (DOSSIERS / region_nom / dep).mkdir(parents=True, exist_ok=True)
+            (LETTRES / region_nom / dep).mkdir(parents=True, exist_ok=True)
 
     racine = Path(__file__).resolve().parent
     profil = (racine / "profil_candidat.txt").read_text(encoding="utf-8")
@@ -440,25 +509,97 @@ def main():
         print("  [France Travail] identifiants absents -> recrutement ignoré.")
 
     dossiers = []
+    deja_traites = set()
+    if chemin_json.exists():
+        try:
+            anciens = json.loads(chemin_json.read_text(encoding="utf-8"))
+            anciens_valides = []
+            for a in anciens:
+                slug = slugify(a["nom"])
+                # Retrouver le chemin du .md
+                cp = str(a.get("zipcode", "")).strip().zfill(5)
+                dep = cp[:2]
+                if cp.startswith("20"): dep = "20"
+                region_nom = "Autre"
+                for r_name, r_deps in P.REGIONS.items():
+                    if dep in r_deps:
+                        region_nom = r_name.title().replace("-", " ")
+                        break
+                chemin_md = DOSSIERS / region_nom / dep / f"{slug}.md"
+                
+                # Si le fichier .md a été supprimé par l'utilisateur, on l'ignore du cache
+                if chemin_md.exists():
+                    anciens_valides.append(a)
+                    deja_traites.add(slug)
+                    
+            dossiers.extend(anciens_valides)
+            if deja_traites:
+                print(f"Reprise activée : {len(deja_traites)} cabinets intacts trouvés dans le cache.")
+        except Exception:
+            pass
+
     for n, cab in enumerate(cabs, 1):
+        slug = slugify(cab["nom"])
+        if slug in deja_traites:
+            print(f"  [{n}/{len(cabs)}] {cab['nom']} -> Déjà traité (ignoré)")
+            continue
+            
         print(f"  [{n}/{len(cabs)}] {cab['nom']}")
         ent = enrichir_complet(cab["siege"], pause=args.pause)
         web = scraper_site(cab["siege"])
         recr = (P.offres_recrutement(cab["siege"], token_ft)
                 if token_ft else "Non disponible")
-        d = construire(cab, ent, web, recr)
+                
+        analyse_ia = ""
+        if args.analyse_site and web.get("extrait"):
+            prompt_analyse = (
+                f"Voici le texte extrait du site web d'un cabinet de géomètres-experts :\n"
+                f'"{web["extrait"]}"\n\n'
+                f"Fais une analyse TRÈS DÉTAILLÉE et exhaustive en 3 parties pour m'aider à hyper-personnaliser ma lettre de motivation. Je veux un maximum d'informations tirées du texte :\n"
+                f"1. Activités & Expertises clés (liste en détail les prestations, spécialités, ou technologies mentionnées)\n"
+                f"2. Valeurs, Histoire & Philosophie du cabinet (engagements, historique, approche client)\n"
+                f"3. Mots-clés lexicaux et ambiance (le vocabulaire spécifique qu'ils utilisent, l'esprit d'équipe)\n"
+                f"Ne renvoie QUE ton analyse détaillée, sans introduction ni conclusion."
+            )
+            try:
+                print("    -> Analyse IA du site en cours...")
+                if backend == "local":
+                    analyse_ia = appel_llm_local(prompt_analyse)
+                else:
+                    analyse_ia = appel_llm_anthropic(prompt_analyse)
+            except Exception as e:
+                print(f"    [analyse site] échec : {e}")
+                analyse_ia = "Erreur lors de l'analyse IA."
+                
+        d = construire(cab, ent, web, recr, analyse_ia)
         dossiers.append(d)
 
-        slug = slugify(cab["nom"])
-        (DOSSIERS / f"{slug}.md").write_text(rendre_md(d), encoding="utf-8")
+        # Détermination de la région et du département
+        cp = str(d.get("zipcode", "")).strip().zfill(5)
+        dep = cp[:2]
+        if cp.startswith("20"): dep = "20"
+        region_nom = "Autre"
+        for r_name, r_deps in P.REGIONS.items():
+            if dep in r_deps:
+                region_nom = r_name.title().replace("-", " ")
+                break
+                
+        # Création des sous-dossiers pour les dossiers MD
+        dossier_region_dep = DOSSIERS / region_nom / dep
+        dossier_region_dep.mkdir(parents=True, exist_ok=True)
+        chemin_md = dossier_region_dep / f"{slug}.md"
+        chemin_md.write_text(rendre_md(d), encoding="utf-8")
+        
         # sauvegarde incrémentale du cache JSON (résiste à une interruption)
         chemin_json.write_text(json.dumps(dossiers, ensure_ascii=False, indent=1),
                                encoding="utf-8")
 
         if args.lettres and lettre_modele:
+            lettre_region_dep = LETTRES / region_nom / dep
+            lettre_region_dep.mkdir(parents=True, exist_ok=True)
             txt = generer_lettre(d, profil, lettre_modele, gabarit, backend)
             if txt:
-                P.ecrire_docx(txt, LETTRES / f"{slug}.docx")
+                P.ecrire_docx(txt, lettre_region_dep / f"lettre_{slug}.docx")
 
     exporter_xlsx(dossiers, SORTIE / "dossiers_cabinets.xlsx")
     print(f"\nTerminé. Dossiers : {DOSSIERS}\nRécapitulatif : {SORTIE/'dossiers_cabinets.xlsx'}"

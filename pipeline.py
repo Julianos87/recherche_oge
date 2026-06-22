@@ -41,6 +41,8 @@ from pathlib import Path
 import openpyxl
 from openpyxl.styles import Font, Alignment
 from docx import Document
+from docx.shared import Cm, Pt
+from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 # --------------------------------------------------------------------------- #
 # Constantes
@@ -57,12 +59,19 @@ UA = "Mozilla/5.0 (recherche-stage-DPLG; usage personnel)"
 
 # Départements par région (codes INSEE), pour le filtre --region
 REGIONS = {
-    "nouvelle-aquitaine": ["16", "17", "19", "23", "24", "33", "40", "47",
-                           "64", "79", "86", "87"],
-    "occitanie": ["09", "11", "12", "30", "31", "32", "34", "46", "48",
-                  "65", "66", "81", "82"],
+    "auvergne-rhone-alpes": ["01", "03", "07", "15", "26", "38", "42", "43", "63", "69", "73", "74"],
+    "bourgogne-franche-comte": ["21", "25", "39", "58", "71", "70", "89", "90"],
+    "bretagne": ["22", "29", "35", "56"],
+    "centre-val-de-loire": ["18", "28", "36", "37", "41", "45"],
+    "corse": ["20"],
+    "grand-est": ["08", "10", "51", "52", "54", "55", "57", "67", "68", "88"],
+    "hauts-de-france": ["02", "59", "60", "62", "80"],
     "ile-de-france": ["75", "77", "78", "91", "92", "93", "94", "95"],
-    # Ajoute d'autres régions au besoin.
+    "normandie": ["14", "27", "50", "61", "76"],
+    "nouvelle-aquitaine": ["16", "17", "19", "23", "24", "33", "40", "47", "64", "79", "86", "87"],
+    "occitanie": ["09", "11", "12", "30", "31", "32", "34", "46", "48", "65", "66", "81", "82"],
+    "pays-de-la-loire": ["44", "49", "53", "72", "85"],
+    "provence-alpes-cote-d-azur": ["04", "05", "06", "13", "83", "84"],
 }
 
 # Mots du nom de cabinet à ignorer pour deviner le patronyme à interroger
@@ -76,10 +85,19 @@ STOP = {"sarl", "selarl", "scp", "sas", "sasu", "eurl", "sa", "et", "associes",
 # Utilitaires
 # --------------------------------------------------------------------------- #
 def http_get(url, params=None, timeout=25):
+    import ssl
     if params:
         url = url + "?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
+    # User-Agent imitant un vrai navigateur pour éviter d'être bloqué
+    ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    req = urllib.request.Request(url, headers={"User-Agent": ua})
+    
+    # Contexte SSL permissif pour les sites de cabinets mal configurés
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    
+    with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
         raw = r.read()
     return raw
 
@@ -148,8 +166,13 @@ def filtrer(cabinets, departements=None, sieges_seuls=True):
     for c in cabinets:
         if sieges_seuls and c.get("isbureau"):
             continue  # on écarte les bureaux secondaires
+            
+        cp = str(c.get("zipcode", ""))
+        # Exclusion des DOM-TOM (97, 98) et étranger (99) pour la France Hexagonale
+        if departements is None and (cp.startswith("97") or cp.startswith("98") or cp.startswith("99")):
+            continue
+            
         if departements:
-            cp = str(c.get("zipcode", ""))
             if not any(cp.startswith(d) for d in departements):
                 continue
         res.append(c)
@@ -421,8 +444,92 @@ def generer_lettre(variables, profil, gabarit):
 
 def ecrire_docx(texte, chemin):
     doc = Document()
-    for para in texte.split("\n"):
-        doc.add_paragraph(para)
+    
+    # Marges strictes
+    for section in doc.sections:
+        section.top_margin = Cm(1.8)
+        section.bottom_margin = Cm(1.8)
+        section.left_margin = Cm(2.3)
+        section.right_margin = Cm(2.3)
+        
+    # On extrait uniquement les lignes avec du texte pour ignorer les sauts aléatoires de l'IA
+    lignes_brutes = texte.split("\n")
+    lignes = [l.strip() for l in lignes_brutes if l.strip()]
+    
+    # Trouver l'indice de l'objet
+    idx_objet = -1
+    for i, l in enumerate(lignes):
+        if l.lower().startswith("objet"):
+            idx_objet = i
+            break
+            
+    # Fallback au cas où l'IA oublie le mot "Objet"
+    if idx_objet == -1:
+        idx_objet = 8
+        
+    # On s'assure que la lettre finit par Julian Brouet et on coupe ce qu'il y a après
+    for i in range(len(lignes)-1, -1, -1):
+        if "julian brouet" in lignes[i].lower():
+            lignes = lignes[:i+1]
+            break
+
+    idx_signature = len(lignes) - 1
+    
+    for i, l in enumerate(lignes):
+        if i == idx_objet:
+            # Forcer exactement 2 lignes vides avant l'objet
+            para = doc.add_paragraph("")
+            para.paragraph_format.space_before = Pt(0)
+            para.paragraph_format.space_after = Pt(0)
+            para.paragraph_format.line_spacing = 1.0
+            para = doc.add_paragraph("")
+            para.paragraph_format.space_before = Pt(0)
+            para.paragraph_format.space_after = Pt(0)
+            para.paragraph_format.line_spacing = 1.0
+
+        para = doc.add_paragraph(l)
+        
+        if i < 5:
+            # Bloc 1: Expéditeur
+            para.alignment = WD_ALIGN_PARAGRAPH.LEFT
+            para.paragraph_format.line_spacing = 1.0
+            para.paragraph_format.space_before = Pt(0)
+            para.paragraph_format.space_after = Pt(0)
+            
+        elif i >= 5 and i < idx_objet:
+            # Bloc 2: Destinataire (avant Objet)
+            para.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+            para.paragraph_format.line_spacing = 1.0
+            para.paragraph_format.space_before = Pt(0)
+            para.paragraph_format.space_after = Pt(0)
+            
+        elif i == idx_objet:
+            # Objet
+            para.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            para.paragraph_format.line_spacing = 1.15
+            para.paragraph_format.space_before = Pt(0)
+            para.paragraph_format.space_after = Pt(0)
+            
+            # Forcer exactement 1 ligne vide après l'objet
+            para_vide = doc.add_paragraph("")
+            para_vide.paragraph_format.space_before = Pt(0)
+            para_vide.paragraph_format.space_after = Pt(0)
+            para_vide.paragraph_format.line_spacing = 1.15
+            
+        elif i == idx_signature:
+            # Signature (Julian Brouet final)
+            para.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+            para.paragraph_format.line_spacing = 1.15
+            para.paragraph_format.space_before = Pt(0)
+            para.paragraph_format.space_after = Pt(0)
+            
+        else:
+            # Corps du texte
+            para.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            para.paragraph_format.line_spacing = 1.15
+            para.paragraph_format.space_before = Pt(0)
+            para.paragraph_format.space_after = Pt(8)  # Espacement natif de Word entre les paragraphes
+            
     doc.save(chemin)
 
 

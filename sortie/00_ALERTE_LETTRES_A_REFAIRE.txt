@@ -1,0 +1,10 @@
+⚠️ ATTENTION - RAPPEL IMPORTANT ⚠️
+
+Les 267 premiers cabinets (ceux traités aujourd'hui avant notre ultime modification de la mise en page Word et du prompt final) sont obsolètes. Leurs lettres risquent d'avoir une mauvaise mise en page, de mauvais espacements, ou de ne pas utiliser vos astuces géographiques.
+
+Pour que ces 267 cabinets bénéficient de la version "Parfaite" et définitive, il faudra :
+1. Aller dans le dossier "sortie"
+2. Supprimer le fichier "dossiers.json" (ce qui videra la mémoire des "Déjà traités")
+3. Relancer le script pour qu'il les refasse au propre !
+
+(Tu peux supprimer ce fichier d'alerte une fois que tu auras refait ces lettres).

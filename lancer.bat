@@ -46,6 +46,14 @@ set "OPTIONS="
 if defined FT_CLIENT_ID if not "%FT_CLIENT_ID%"=="PAR_xxxxx" set "OPTIONS=%OPTIONS% --recrutement"
 
 echo.
+echo Analyser intelligemment le contenu des sites web (plus lent) ?
+echo    1 = Non (extraction simple)
+echo    2 = Oui, avec un LLM LOCAL (LM Studio doit etre lance)
+set "ANALYSE="
+set /p ANALYSE="Ton choix [1/2] : "
+if "%ANALYSE%"=="2" set "OPTIONS=%OPTIONS% --analyse-site --local"
+
+echo.
 echo Generer les lettres de motivation ?
 echo    1 = Non (dossiers seulement)
 echo    2 = Oui, avec un LLM LOCAL (LM Studio doit etre lance)
