@@ -14,15 +14,27 @@ Situation :
 - A réalisé un stage d'observation au sein du cabinet de Pascal Vailles à Muret
   (lettre de recommandation jointe).
 
+Niveau réel des compétences :
+- Titulaire d'un Master 2 en géomatique ; pratique confirmée des SIG, notamment QGIS et
+  ArcGIS, dans le cadre de travaux de recherche et d'analyse spatiale.
+- Programmation Python utilisée pour le traitement de données.
+- Durant l'immersion en cabinet : observation et première familiarisation avec la station
+  totale robotisée, le GNSS, le scanner statique, le SLAM, la DAO et la chaîne allant de
+  l'acquisition à la restitution graphique.
+- Ne possède pas encore de maîtrise professionnelle du bornage, des procédures foncières,
+  de la topographie de cabinet, des matériels observés ou de la DAO appliquée aux dossiers
+  de géomètre-expert.
+
 Atouts à valoriser (à doser selon le ton, sans en faire un argumentaire technique appuyé) :
 - Parcours universitaire de recherche (docteur en archéologie, spécialité urbanisme et
   fortifications) : solide capacité d'analyse, de synthèse et de travail sur archives,
   utile pour assimiler rapidement le droit foncier et la réglementation d'urbanisme.
 - Goût pour l'articulation entre rigueur technique de terrain et ingénierie juridique du
   territoire (bornage, division, aménagement durable).
-- Familiarité avec la donnée spatiale : SIG (QGIS, ArcGIS), relevés et scanner 3D / LiDAR,
-  programmation Python pour le traitement de données. Présenté comme une sensibilité qui
-  appuie le raisonnement, non comme une fin en soi.
+- Compétences en donnée spatiale : SIG (QGIS, ArcGIS), analyse spatiale et programmation
+  Python pour le traitement de données. Le scanner 3D, le LiDAR et les outils topographiques
+  vus en cabinet doivent rester présentés comme des domaines observés ou en cours
+  d'apprentissage, jamais comme des maîtrises acquises.
 
 Localisation / mobilité : installé à Limoges (87000), mobile sur l'ensemble du territoire français selon les besoins du cabinet.
 
