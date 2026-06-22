@@ -404,7 +404,7 @@ def appel_llm_local(prompt):
     corps = json.dumps({
         "model": modele,
         "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.7,
+        "temperature": 0.2,
         "max_tokens": -1,  # -1 signifie AUCUNE limite de taille
         "stream": False,
     }).encode("utf-8")
