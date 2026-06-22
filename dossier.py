@@ -16,7 +16,7 @@ Pour chaque cabinet (regroupé par email = siège + toutes ses implantations) :
 Sorties :
   - sortie/dossiers/<cabinet>.md   : dossier lisible, un par cabinet
   - sortie/dossiers_cabinets.xlsx  : tableau récapitulatif
-  - sortie/lettres/<cabinet>.docx  : lettre personnalisée (option --lettres)
+  - sortie/lettres_corrigees_V2/<region>/<departement>/lettre_<cabinet>.docx
 
 Usage :
   python dossier.py --departements 87
@@ -40,7 +40,7 @@ import pipeline as P  # réutilise les briques déjà validées
 
 SORTIE = P.SORTIE
 DOSSIERS = SORTIE / "dossiers"
-LETTRES = SORTIE / "lettres"
+LETTRES = SORTIE / "lettres_corrigees_V2"
 
 # Pages internes à explorer sur le site du cabinet
 PAGES = ["", "/nos-prestations", "/prestations", "/nos-services", "/services",
@@ -58,6 +58,18 @@ def nettoyer_nom(label):
 
 def slugify(nom):
     return re.sub(r"[^a-z0-9]+", "-", P.sans_accent(nom).lower()).strip("-")[:60]
+
+
+def region_departement(dossier):
+    """Retourne les dossiers de sortie Région / Département d'un cabinet."""
+    cp = str(dossier.get("zipcode", "")).strip().zfill(5)
+    dep = "20" if cp.startswith("20") else cp[:2]
+    region_nom = "Autre"
+    for r_name, r_deps in P.REGIONS.items():
+        if dep in r_deps:
+            region_nom = r_name.title().replace("-", " ")
+            break
+    return region_nom, dep
 
 
 def grouper(cabinets):
@@ -312,33 +324,54 @@ def rendre_md(d):
 
 def dossier_texte_pour_llm(d):
     """Version condensée injectée dans le prompt de génération de lettre."""
-    parts = [f"Nom : {d['nom']}",
-             f"Dirigeant(s) : {d['dirigeant_principal']}",
-             f"Adresse siège : {d['adresse'] or 'Non disponible'}"]
+    def disponible(valeur):
+        texte = str(valeur or "").strip().lower()
+        return texte not in {"", "non disponible", "n.c.", "none"}
+
+    donnees_site = any([
+        disponible(d.get("site_description")),
+        disponible(d.get("site_extrait")),
+        disponible(d.get("analyse_ia")),
+        disponible(d.get("specialites")),
+    ])
+    donnees_structure = any([
+        len(d.get("villes") or []) > 1,
+        disponible(d.get("creation")),
+        disponible(d.get("recrutement")),
+    ])
+
+    if donnees_site:
+        niveau = "RICHE"
+        consigne = "Conserver cinq paragraphes argumentatifs : vision du métier, VOUS précis, atouts, puis immersion et apprentissage."
+    elif donnees_structure:
+        niveau = "LIMITÉ"
+        consigne = "Conserver quatre ou cinq paragraphes argumentatifs : aucun VOUS court, mais fondre les rares faits avec les atouts et la contribution."
+    else:
+        niveau = "MINIMAL"
+        consigne = "Conserver quatre paragraphes argumentatifs sans VOUS autonome : projet, vision du métier, atouts, puis immersion et apprentissage."
+
+    parts = [
+        f"NIVEAU DE PERSONNALISATION : {niveau}",
+        f"CONSIGNE : {consigne}",
+        f"Nom : {d['nom']}",
+        f"Dirigeant(s) : {d['dirigeant_principal']}",
+        f"Adresse siège : {d['adresse'] or 'Non disponible'}",
+    ]
     if len(d["villes"]) > 1:
         parts.append("Implantations : " + ", ".join(d["villes"]))
-    bilan = []
     if d["creation"]:
-        bilan.append(f"créé en {d['creation']}")
-    if d["forme"]:
-        bilan.append(d["forme"])
-    if d["effectif"]:
-        bilan.append(d["effectif"])
-    fl = finances_lignes(d["finances"])
-    if fl:
-        bilan.append("finances — " + " ; ".join(fl))
-    if bilan:
-        parts.append("Structure : " + ", ".join(bilan))
-    parts.append(f"Spécialités : {d['specialites']}")
+        parts.append(f"Historique vérifié : créé en {d['creation']}")
+    if disponible(d.get("specialites")):
+        parts.append(f"Spécialités documentées : {d['specialites']}")
     if d["site_description"]:
         parts.append(f"Présentation (site) : {d['site_description']}")
     if d.get("site_extrait"):
         parts.append(f"Détails extraits du site : {d['site_extrait']}")
     if d.get("analyse_ia"):
         parts.append(f"Analyse IA du site : {d['analyse_ia']}")
-    parts.append(f"Recrutement : {d['recrutement']}")
+    if disponible(d.get("recrutement")):
+        parts.append(f"Recrutement : {d['recrutement']}")
     return "\n".join(parts)
-
 
 # --------------------------------------------------------------------------- #
 # Génération de lettre (modèle de style + dossier)
@@ -484,8 +517,12 @@ def main():
             print(f"  [{n}/{len(dossiers)}] {d['nom']}")
             txt = generer_lettre(d, profil, lettre_modele, gabarit, backend)
             if txt:
-                P.ecrire_docx(txt, LETTRES / f"{slugify(d['nom'])}.docx")
-        print(f"\nTerminé. Lettres : {LETTRES}")
+                region_nom, dep = region_departement(d)
+                lettre_region_dep = LETTRES / region_nom / dep
+                lettre_region_dep.mkdir(parents=True, exist_ok=True)
+                chemin_lettre = lettre_region_dep / f"lettre_{slugify(d['nom'])}.docx"
+                P.ecrire_docx(txt, chemin_lettre)
+        print(f"\nTerminé. Lettres V2 : {LETTRES}")
         return
 
     # ----- Mode collecte ----------------------------------------------------
@@ -575,14 +612,7 @@ def main():
         dossiers.append(d)
 
         # Détermination de la région et du département
-        cp = str(d.get("zipcode", "")).strip().zfill(5)
-        dep = cp[:2]
-        if cp.startswith("20"): dep = "20"
-        region_nom = "Autre"
-        for r_name, r_deps in P.REGIONS.items():
-            if dep in r_deps:
-                region_nom = r_name.title().replace("-", " ")
-                break
+        region_nom, dep = region_departement(d)
                 
         # Création des sous-dossiers pour les dossiers MD
         dossier_region_dep = DOSSIERS / region_nom / dep

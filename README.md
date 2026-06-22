@@ -107,7 +107,10 @@ Ainsi, si une lettre ne te plait pas, tu ajustes `prompt_lettre.txt` ou le model
 LM Studio et tu relances l'étape 2 seule — la collecte n'est pas refaite.
 
 Sorties : `sortie/dossiers/<cabinet>.md`, `sortie/dossiers_cabinets.xlsx`,
-et `sortie/lettres/<cabinet>.docx` (avec `--lettres`).
+et `sortie/lettres_corrigees_V2/<Region>/<Departement>/lettre_<cabinet>.docx`.
+
+Le dossier V2 est séparé des sorties précédentes : aucune lettre existante dans
+`sortie/lettres` ou `sortie/lettres_corrigees` n'est écrasée.
 
 Les lettres sont rédigées en imitant le **style de ta lettre-modèle**, lue dans
 `sortie/_lettre_julian.txt` (générée à partir de ton .docx).

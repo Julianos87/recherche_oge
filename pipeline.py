@@ -444,9 +444,16 @@ def generer_lettre(variables, profil, gabarit):
 
 def ecrire_docx(texte, chemin):
     doc = Document()
-    
-    # Marges strictes
+
+    # Mise en page compacte et lisible : la lettre doit tenir sur une page.
+    style = doc.styles["Normal"]
+    style.font.name = "Times New Roman"
+    style.font.size = Pt(11)
+
+    # Format A4 et marges adaptées aux candidatures françaises.
     for section in doc.sections:
+        section.page_width = Cm(21.0)
+        section.page_height = Cm(29.7)
         section.top_margin = Cm(1.8)
         section.bottom_margin = Cm(1.8)
         section.left_margin = Cm(2.3)
@@ -477,11 +484,7 @@ def ecrire_docx(texte, chemin):
     
     for i, l in enumerate(lignes):
         if i == idx_objet:
-            # Forcer exactement 2 lignes vides avant l'objet
-            para = doc.add_paragraph("")
-            para.paragraph_format.space_before = Pt(0)
-            para.paragraph_format.space_after = Pt(0)
-            para.paragraph_format.line_spacing = 1.0
+            # Une seule ligne vide avant l'objet préserve l'équilibre de la page.
             para = doc.add_paragraph("")
             para.paragraph_format.space_before = Pt(0)
             para.paragraph_format.space_after = Pt(0)
@@ -528,7 +531,7 @@ def ecrire_docx(texte, chemin):
             para.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
             para.paragraph_format.line_spacing = 1.15
             para.paragraph_format.space_before = Pt(0)
-            para.paragraph_format.space_after = Pt(8)  # Espacement natif de Word entre les paragraphes
+            para.paragraph_format.space_after = Pt(6)
             
     doc.save(chemin)
 
