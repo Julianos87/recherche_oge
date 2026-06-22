@@ -16,10 +16,12 @@ LONGUEUR ET FORMAT
   chaque phrase est utile et si l'ensemble reste compatible avec une page. Ne jamais
   supprimer un argument pertinent uniquement pour respecter un compteur de mots.
 - Ne jamais allonger une lettre avec des généralités pour atteindre une longueur théorique.
-- Adapter le nombre de paragraphes à la matière disponible : 4 pour un dossier RICHE,
-  3 ou 4 pour un dossier LIMITÉ, et 3 paragraphes substantiels pour un dossier MINIMAL.
-- Aucun paragraphe ne doit sembler isolé ou artificiellement court. Préférer trois paragraphes
-  cohérents à quatre paragraphes dont l'un serait écrit uniquement pour simuler un « VOUS ».
+- Conserver le rythme du modèle initial : après la salutation, 4 à 5 paragraphes
+  argumentatifs selon les données, puis un court paragraphe proposant une rencontre.
+- Un dossier RICHE conserve 5 paragraphes argumentatifs. Un dossier LIMITÉ en comporte 4
+  ou 5. Un dossier MINIMAL en comporte 4, sans « VOUS » autonome.
+- Aucun paragraphe ne doit sembler isolé ou artificiellement court. Le nombre de paragraphes
+  varie uniquement pour éviter un passage consacré au cabinet qui serait vide ou factice.
 - Chaque phrase doit apporter une information utile. Supprimer toute redondance.
 
 PROFIL DU CANDIDAT
@@ -42,29 +44,32 @@ STRUCTURE ATTENDUE
 2. Objet : « Candidature à un poste de collaborateur - stage professionnel DPLG ».
 3. Composer les quatre paragraphes selon le NIVEAU DE PERSONNALISATION :
 
-   MODE RICHE — 4 paragraphes
+   MODE RICHE — 5 paragraphes argumentatifs + rencontre
    - Paragraphe 1 : reconversion, session DPLG, éligibilité et poste recherché.
-   - Paragraphe 2 : parcours universitaire, géomatique et immersion chez Pascal Vailles.
-   - Paragraphe 3 « VOUS » (60 à 85 mots) : un ou deux faits distinctifs et vérifiables,
-     leur intérêt professionnel, puis une phrase personnelle de transition.
-   - Paragraphe 4 « NOUS » : contribution possible, compétences à acquérir et projection
-     dans l'équipe pendant le stage DPLG.
+   - Paragraphe 2 : vision du métier, sans opposer terrain et raisonnement juridique.
+   - Paragraphe 3 « VOUS » : faits distinctifs vérifiables et intérêt professionnel.
+   - Paragraphe 4 : parcours universitaire, géomatique et contribution possible.
+   - Paragraphe 5 : immersion, acquis réels, humilité et compétences à développer.
+   - Puis un court paragraphe proposant une rencontre.
 
-   MODE LIMITÉ — 3 ou 4 paragraphes selon le contenu
-   - Intégrer le ou les rares faits disponibles (implantation, ancienneté, agences ou
-     recrutement) à la raison concrète de candidater et à ce que Julian pourrait apporter.
-   - Ne jamais créer de petit paragraphe « VOUS » autonome.
-   - Conserver un quatrième paragraphe seulement si l'apprentissage attendu et la projection
-     dans l'équipe peuvent être développés sans répétition ; sinon les réunir au paragraphe
-     hybride précédent.
+   MODE LIMITÉ — 4 ou 5 paragraphes argumentatifs + rencontre
+   - Conserver les paragraphes 1 et 2 du mode RICHE.
+   - Fusionner les rares faits disponibles sur le cabinet avec le paragraphe consacré aux
+     atouts et à la contribution de Julian. Il ne doit pas exister de petit « VOUS » autonome.
+   - Conserver un paragraphe substantiel sur l'immersion, l'apprentissage et la projection
+     dans l'équipe. Ajouter un cinquième paragraphe argumentatif seulement si les informations
+     disponibles permettent de le faire sans répétition.
+   - Puis un court paragraphe proposant une rencontre.
 
-   MODE MINIMAL — 3 paragraphes substantiels
+   MODE MINIMAL — 4 paragraphes argumentatifs + rencontre
    - Ne créer AUCUN paragraphe « VOUS » autonome.
    - Paragraphe 1 : intégrer naturellement le nom du cabinet et sa ville à la candidature,
      avec la reconversion, le DPLG et le poste recherché, sans attribuer de qualité au cabinet.
-   - Paragraphe 2 : réunir utilement parcours universitaire, géomatique et capacités d'analyse.
-   - Paragraphe 3 : articuler l'immersion, les opérations observées, la contribution possible,
-     les compétences à acquérir et la pratique quotidienne recherchée au sein de l'équipe.
+   - Paragraphe 2 : vision du métier, sans opposer terrain et raisonnement juridique.
+   - Paragraphe 3 : parcours universitaire, géomatique et contribution possible.
+   - Paragraphe 4 : immersion, opérations observées, compétences à acquérir et pratique
+     quotidienne recherchée au sein de l'équipe.
+   - Puis un court paragraphe proposant une rencontre.
 
    Dans tous les modes, la lettre doit former un raisonnement continu. Ne jamais laisser
    apparaître que le rédacteur manque d'informations et ne jamais combler ce manque par
