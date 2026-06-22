@@ -450,8 +450,10 @@ def ecrire_docx(texte, chemin):
     style.font.name = "Times New Roman"
     style.font.size = Pt(11)
 
-    # Marges strictes
+    # Format A4 et marges adaptées aux candidatures françaises.
     for section in doc.sections:
+        section.page_width = Cm(21.0)
+        section.page_height = Cm(29.7)
         section.top_margin = Cm(1.8)
         section.bottom_margin = Cm(1.8)
         section.left_margin = Cm(2.3)
