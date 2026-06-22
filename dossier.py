@@ -337,16 +337,32 @@ def rendre_md(d):
     return "\n".join(L) + "\n"
 
 
-def dossier_texte_pour_llm(d):
-    """Version condensée injectée dans le prompt de génération de lettre."""
-    def disponible(valeur):
-        texte = str(valeur or "").strip().lower()
-        return texte not in {"", "non disponible", "n.c.", "none"}
+def disponible(valeur):
+    texte = str(valeur or "").strip().lower()
+    return texte not in {"", "non disponible", "n.c.", "none"}
 
-    donnees_site = any([
+
+MARQUEURS_PAGE_GENERALE_OGE = [
+    "un geometre-expert referent par region",
+    "le geometre-expert est le garant d'un cadre vie durable",
+    "retrouvez la liste des delegues 3p",
+]
+
+
+def site_cabinet_exploitable(d):
+    """Ecarte les pages generales de la profession prises pour un site de cabinet."""
+    contenu = normaliser_controle(" ".join([
+        str(d.get("site_description") or ""),
+        str(d.get("site_extrait") or ""),
+    ]))
+    return not any(marqueur in contenu for marqueur in MARQUEURS_PAGE_GENERALE_OGE)
+
+
+def niveau_personnalisation(d):
+    """Classe uniquement les donnees factuelles, jamais l'analyse produite par l'IA."""
+    donnees_site = site_cabinet_exploitable(d) and any([
         disponible(d.get("site_description")),
         disponible(d.get("site_extrait")),
-        disponible(d.get("analyse_ia")),
         disponible(d.get("specialites")),
     ])
     donnees_structure = any([
@@ -356,34 +372,44 @@ def dossier_texte_pour_llm(d):
     ])
 
     if donnees_site:
-        niveau = "RICHE"
-        consigne = "Conserver cinq paragraphes argumentatifs : vision du métier, VOUS précis, atouts, puis immersion et apprentissage."
-    elif donnees_structure:
-        niveau = "LIMITÉ"
-        consigne = "Conserver quatre ou cinq paragraphes argumentatifs : aucun VOUS court, mais fondre les rares faits avec les atouts et la contribution."
-    else:
-        niveau = "MINIMAL"
-        consigne = "Conserver quatre paragraphes argumentatifs sans VOUS autonome : projet, vision du métier, atouts, puis immersion et apprentissage."
+        return "RICHE"
+    if donnees_structure:
+        return "LIMITE"
+    return "MINIMAL"
+
+
+def dossier_texte_pour_llm(d):
+    """Version factuelle injectee dans le prompt de correction de lettre."""
+    niveau = niveau_personnalisation(d)
+    consignes = {
+        "RICHE": "Paragraphe VOUS autonome de trois ou quatre phrases maximum, fonde sur un ou deux faits verifies.",
+        "LIMITE": "Aucun VOUS autonome : fondre un ou deux faits verifies avec les atouts et la contribution du candidat.",
+        "MINIMAL": "Aucun VOUS autonome : mentionner sobrement le cabinet et la ville sans leur attribuer de qualite supposee.",
+    }
 
     parts = [
         f"NIVEAU DE PERSONNALISATION : {niveau}",
-        f"CONSIGNE : {consigne}",
+        f"CONSIGNE : {consignes[niveau]}",
+        "SOURCE : donnees factuelles uniquement. Ne rien deduire au-dela de ce qui est ecrit.",
         f"Nom : {d['nom']}",
         f"Dirigeant(s) : {d['dirigeant_principal']}",
         f"Adresse siège : {d['adresse'] or 'Non disponible'}",
     ]
+    if d.get("site"):
+        parts.append(f"Site officiel collecte : {d['site']}")
     if len(d["villes"]) > 1:
         parts.append("Implantations : " + ", ".join(d["villes"]))
     if d["creation"]:
         parts.append(f"Historique vérifié : créé en {d['creation']}")
-    if disponible(d.get("specialites")):
+    site_exploitable = site_cabinet_exploitable(d)
+    if site_exploitable and disponible(d.get("specialites")):
         parts.append(f"Spécialités documentées : {d['specialites']}")
-    if d["site_description"]:
+    if site_exploitable and d["site_description"]:
         parts.append(f"Présentation (site) : {d['site_description']}")
-    if d.get("site_extrait"):
+    if site_exploitable and d.get("site_extrait"):
         parts.append(f"Détails extraits du site : {d['site_extrait']}")
-    if d.get("analyse_ia"):
-        parts.append(f"Analyse IA du site : {d['analyse_ia']}")
+    if not site_exploitable:
+        parts.append("Contenu du site ecarte : page generale de la profession, non propre au cabinet.")
     if disponible(d.get("recrutement")):
         parts.append(f"Recrutement : {d['recrutement']}")
     return "\n".join(parts)
@@ -436,15 +462,127 @@ def appel_llm_anthropic(prompt):
     return "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
 
 
+FORMULATIONS_INTERDITES = [
+    "dimension intellectuelle",
+    "ingenierie juridique du territoire",
+    "force de production technique",
+    "force technique",
+    "veritable echange",
+    "echange de competences",
+    "se distingue",
+    "temoigne",
+    "cabinet dynamique",
+    "structure dynamique",
+    "cadre ideal",
+    "cadre stimulant",
+    "excellence",
+    "avant-gardisme",
+    "visionnaire",
+    "exemplaire",
+    "precision millimetrique",
+    "concours technique",
+    "correspond exactement a ce que je recherche",
+    "suite a un stage",
+    "je sollicite votre structure",
+    "j'ai acquis une maitrise",
+    "j'ai acquis une bonne maitrise",
+    "maitrise rapide",
+]
+
+
+def normaliser_controle(texte):
+    texte = str(texte or "").replace("’", "'").replace("‘", "'")
+    texte = P.sans_accent(texte).lower()
+    return re.sub(r"\s+", " ", texte).strip()
+
+
+def valider_lettre_generee(texte, dossier):
+    """Bloque les sorties non conformes avant toute creation du DOCX."""
+    erreurs = []
+    lignes = [ligne.strip() for ligne in str(texte or "").splitlines() if ligne.strip()]
+    normalise = normaliser_controle(texte)
+
+    if not lignes:
+        return ["reponse vide"]
+    if not any(normaliser_controle(ligne).startswith("objet :") for ligne in lignes):
+        erreurs.append("objet absent ou mal forme")
+    if not any(re.match(r"^(madame|monsieur|mesdames)", normaliser_controle(ligne))
+               for ligne in lignes):
+        erreurs.append("formule d'appel absente")
+    if "je vous prie d'agreer" not in normalise:
+        erreurs.append("formule de politesse absente")
+    if normaliser_controle(lignes[-1]) != "julian brouet":
+        erreurs.append("signature finale absente")
+
+    if "l'ordre ayant confirme l'eligibilite de mon parcours" not in normalise:
+        erreurs.append("formulation obligatoire sur l'eligibilite absente")
+    if "stage professionnel de deux ans" not in normalise:
+        erreurs.append("stage professionnel de deux ans non explicite")
+    if "session dplg d'octobre 2026" not in normalise:
+        erreurs.append("session DPLG d'octobre 2026 mal formulee")
+
+    for formulation in FORMULATIONS_INTERDITES:
+        if formulation in normalise:
+            erreurs.append(f"formulation interdite : {formulation}")
+
+    if re.search(r"je maitrise[^.]{0,120}(scanner|lidar|slam|gnss|station totale)", normalise):
+        erreurs.append("maitrise indue d'un materiel seulement observe")
+
+    niveau = niveau_personnalisation(dossier)
+    if niveau in {"LIMITE", "MINIMAL"}:
+        for ligne in lignes:
+            ligne_normalisee = normaliser_controle(ligne)
+            if (ligne_normalisee.startswith("votre cabinet")
+                    or ligne_normalisee.startswith("le cabinet")) and len(ligne.split()) > 15:
+                erreurs.append(f"paragraphe VOUS autonome interdit pour le niveau {niveau}")
+                break
+
+    total_mots = len(re.findall(r"\b[\w'-]+\b", str(texte or ""), flags=re.UNICODE))
+    if total_mots > 500:
+        erreurs.append(f"lettre trop longue : {total_mots} mots")
+    if total_mots < 300:
+        erreurs.append(f"lettre trop courte : {total_mots} mots")
+
+    return erreurs
+
+
+def appeler_modele(prompt, backend):
+    if backend == "local":
+        return appel_llm_local(prompt)
+    return appel_llm_anthropic(prompt)
+
+
 def generer_lettre(d, profil, lettre_modele, gabarit, lettre_existante,
                    backend="anthropic"):
-    prompt = gabarit.format(profil_candidat=profil, lettre_modele=lettre_modele,
-                            dossier_cabinet=dossier_texte_pour_llm(d),
-                            lettre_existante=lettre_existante)
+    prompt_initial = gabarit.format(
+        profil_candidat=profil,
+        lettre_modele=lettre_modele,
+        dossier_cabinet=dossier_texte_pour_llm(d),
+        lettre_existante=lettre_existante,
+    )
+    prompt = prompt_initial
     try:
-        if backend == "local":
-            return appel_llm_local(prompt)
-        return appel_llm_anthropic(prompt)
+        for tentative in range(1, 3):
+            texte = appeler_modele(prompt, backend)
+            erreurs = valider_lettre_generee(texte, d)
+            if not erreurs:
+                return texte
+
+            print(f"    [lettre] sortie non conforme (tentative {tentative}/2) :")
+            for erreur in erreurs:
+                print(f"      - {erreur}")
+            if tentative == 1:
+                prompt = (
+                    prompt_initial
+                    + "\n\nCORRECTION IMPERATIVE DE LA REPONSE PRECEDENTE\n\n"
+                    + "La reponse precedente a ete refusee pour les raisons suivantes :\n- "
+                    + "\n- ".join(erreurs)
+                    + "\n\nVoici cette reponse a corriger :\n<<<\n"
+                    + str(texte or "")
+                    + "\n>>>\n\nRenvoie uniquement la lettre complete corrigee."
+                )
+        print("    [lettre] abandon : la seconde sortie reste non conforme.")
+        return None
     except Exception as e:
         print(f"    [lettre] échec génération ({backend}) : {e}")
         return None
@@ -479,6 +617,42 @@ def exporter_xlsx(dossiers, chemin):
     wb.save(chemin)
 
 
+def selectionner_echantillon_audit(dossiers, taille=20):
+    """Echantillon deterministe reparti entre dossiers riches, limites et minimaux."""
+    groupes = {"RICHE": [], "LIMITE": [], "MINIMAL": []}
+    for dossier in sorted(dossiers, key=lambda d: normaliser_controle(d.get("nom"))):
+        groupes[niveau_personnalisation(dossier)].append(dossier)
+
+    quotas = {"RICHE": 7, "LIMITE": 7, "MINIMAL": 6}
+    selection = []
+    ids_selectionnes = set()
+
+    for niveau, quota in quotas.items():
+        groupe = groupes[niveau]
+        nombre = min(quota, len(groupe))
+        if not nombre:
+            continue
+        for index in range(nombre):
+            position = min(len(groupe) - 1, int((index + 0.5) * len(groupe) / nombre))
+            dossier = groupe[position]
+            identifiant = (dossier.get("siren"), dossier.get("nom"), dossier.get("adresse"))
+            if identifiant not in ids_selectionnes:
+                selection.append(dossier)
+                ids_selectionnes.add(identifiant)
+
+    if len(selection) < taille:
+        for dossier in sorted(dossiers, key=lambda d: normaliser_controle(d.get("nom"))):
+            identifiant = (dossier.get("siren"), dossier.get("nom"), dossier.get("adresse"))
+            if identifiant in ids_selectionnes:
+                continue
+            selection.append(dossier)
+            ids_selectionnes.add(identifiant)
+            if len(selection) == taille:
+                break
+
+    return selection[:taille]
+
+
 # --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
@@ -494,6 +668,9 @@ def main():
     ap.add_argument("--lettres-seules", dest="lettres_seules", action="store_true",
                     help="ne génère QUE les lettres depuis sortie/dossiers.json "
                          "(aucun appel API/scraping ; idéal en local GPU)")
+    ap.add_argument("--audit-echantillon", action="store_true",
+                    help="corriger un echantillon representatif de 20 lettres dans "
+                         "sortie/lettres_test_audit")
     ap.add_argument("--analyse-site", action="store_true",
                     help="analyse l'extrait du site avec l'IA pour enrichir le dossier")
     ap.add_argument("--recrutement", action="store_true",
@@ -501,6 +678,9 @@ def main():
     ap.add_argument("--pause", type=float, default=0.35)
     ap.add_argument("--max", type=int, default=0)
     args = ap.parse_args()
+
+    if args.audit_echantillon and not args.lettres_seules:
+        ap.error("--audit-echantillon s'utilise avec --lettres-seules")
 
     SORTIE.mkdir(exist_ok=True)
     DOSSIERS.mkdir(exist_ok=True)
@@ -535,6 +715,11 @@ def main():
             deps_autorises = {d.zfill(2) for d in args.departements}
             dossiers = [d for d in dossiers
                         if region_departement(d)[1] in deps_autorises]
+        if args.audit_echantillon:
+            dossiers_avec_source = [
+                d for d in dossiers if lire_lettre_source(d)[1].exists()
+            ]
+            dossiers = selectionner_echantillon_audit(dossiers_avec_source, 20)
         if args.max:
             dossiers = dossiers[:args.max]
         print(f"{len(dossiers)} dossiers -> génération des lettres ({backend})...")
@@ -548,14 +733,21 @@ def main():
                                  lettre_existante, backend)
             if txt:
                 region_nom, dep = region_departement(d)
-                lettre_region_dep = LETTRES / region_nom / dep
+                racine_destination = (SORTIE / "lettres_test_audit"
+                                      if args.audit_echantillon else LETTRES)
+                lettre_region_dep = racine_destination / region_nom / dep
                 lettre_region_dep.mkdir(parents=True, exist_ok=True)
                 chemin_lettre = lettre_region_dep / f"lettre_{slugify(d['nom'])}.docx"
-                P.ecrire_docx(txt, chemin_lettre)
+                try:
+                    P.ecrire_docx(txt, chemin_lettre)
+                except ValueError as e:
+                    print(f"    [lettre] DOCX refuse : {e}")
+                    continue
                 if not chemin_lettre.exists():
                     raise OSError(f"Lettre non créée : {chemin_lettre}")
                 print(f"    -> enregistrée : {chemin_lettre.resolve()}")
-        print(f"\nTerminé. Lettres V2 : {LETTRES}")
+        destination = SORTIE / "lettres_test_audit" if args.audit_echantillon else LETTRES
+        print(f"\nTerminé. Lettres : {destination}")
         return
 
     # ----- Mode collecte ----------------------------------------------------
@@ -668,7 +860,11 @@ def main():
                                      lettre_existante, backend)
                 if txt:
                     chemin_lettre = lettre_region_dep / f"lettre_{slug}.docx"
-                    P.ecrire_docx(txt, chemin_lettre)
+                    try:
+                        P.ecrire_docx(txt, chemin_lettre)
+                    except ValueError as e:
+                        print(f"    [lettre] DOCX refuse : {e}")
+                        continue
                     if not chemin_lettre.exists():
                         raise OSError(f"Lettre non créée : {chemin_lettre}")
                     print(f"    -> enregistrée : {chemin_lettre.resolve()}")
