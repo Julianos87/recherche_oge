@@ -330,13 +330,13 @@ def dossier_texte_pour_llm(d):
 
     if donnees_site:
         niveau = "RICHE"
-        consigne = "Créer un VOUS autonome avec les éléments précis du site, puis un NOUS distinct."
+        consigne = "Conserver cinq paragraphes argumentatifs : vision du métier, VOUS précis, atouts, puis immersion et apprentissage."
     elif donnees_structure:
         niveau = "LIMITÉ"
-        consigne = "Ne pas créer de VOUS autonome : fondre les rares faits disponibles dans un paragraphe hybride avec la motivation et la contribution."
+        consigne = "Conserver quatre ou cinq paragraphes argumentatifs : aucun VOUS court, mais fondre les rares faits avec les atouts et la contribution."
     else:
         niveau = "MINIMAL"
-        consigne = "Aucun VOUS autonome : intégrer seulement le nom et la ville dans la candidature, puis consacrer les paragraphes au parcours, à l'immersion et à la contribution sans qualité supposée."
+        consigne = "Conserver quatre paragraphes argumentatifs sans VOUS autonome : projet, vision du métier, atouts, puis immersion et apprentissage."
 
     parts = [
         f"NIVEAU DE PERSONNALISATION : {niveau}",
