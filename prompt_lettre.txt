@@ -9,7 +9,9 @@ secondes : le poste recherché, la cohérence de la reconversion, l'apport du pa
 universitaire, les acquis de l'immersion et l'intérêt précis pour son cabinet.
 
 LONGUEUR ET FORMAT
-- Viser 390 à 410 mots, en-tête, objet et formule de politesse compris.
+- Si le dossier est RICHE : viser 390 à 410 mots, en-tête, objet et politesse compris.
+- Si le dossier est LIMITÉ ou MINIMAL : viser 360 à 390 mots. Ne jamais allonger une
+  lettre uniquement pour atteindre une longueur théorique.
 - Ne jamais dépasser 420 mots.
 - Produire 4 paragraphes de corps courts, puis une demande de rencontre et la politesse.
 - Chaque phrase doit apporter une information utile. Supprimer toute redondance.
@@ -37,15 +39,18 @@ STRUCTURE ATTENDUE
 4. Parcours et immersion : présenter brièvement la recherche universitaire, la géomatique
    et l'immersion chez Pascal Vailles. Valoriser ce qui a été réellement observé ou pratiqué :
    chaîne de traitement, terrain, restitution graphique, bornage, division et cadre foncier.
-5. Paragraphe « VOUS » (60 à 85 mots) : commencer par un ou deux faits concrets,
-   distinctifs et vérifiables tirés du dossier (implantations précises, missions réellement
-   citées, histoire, organisation ou technologie documentée). Expliquer brièvement ce que
-   ces faits révèlent de la pratique du cabinet. Terminer par UNE phrase personnelle qui
-   indique pourquoi cet élément compte réellement pour Julian ; la première personne est
-   autorisée uniquement dans cette phrase de transition. Ne jamais transformer ce passage
-   en fiche descriptive ni accumuler des compliments. Si le dossier est pauvre, s'appuyer
-   honnêtement sur la localisation ou l'histoire disponible et sur leur intérêt concret
-   pour le projet DPLG, sans inventer une culture, des valeurs ou des spécialités.
+5. Adapter le paragraphe consacré au cabinet au NIVEAU DE PERSONNALISATION indiqué :
+   - RICHE (60 à 85 mots) : utiliser un ou deux faits distinctifs tirés du site ou des
+     activités documentées, expliquer leur intérêt professionnel, puis terminer par UNE
+     phrase personnelle reliant ces éléments au projet de Julian.
+   - LIMITÉ (50 à 70 mots) : utiliser seulement l'implantation, l'ancienneté, les agences ou
+     le recrutement réellement indiqués. Ne déduire ni valeurs, ni méthodes, ni réputation.
+     Terminer par une phrase sobre sur l'intérêt concret pour le stage DPLG.
+   - MINIMAL (40 à 60 mots) : ne prétendre personnaliser ni décrire le cabinet. Mentionner
+     uniquement son nom, sa ville et, si connu, le dirigeant. Expliquer honnêtement que
+     Julian recherche un cadre de pratique quotidienne du métier pour son stage DPLG.
+   Dans les trois modes, ne jamais transformer le passage en fiche descriptive, accumuler
+   des compliments ou combler l'absence d'information par des qualités supposées.
 6. Paragraphe « NOUS » : montrer ensuite comment Julian pourrait contribuer aux missions
    évoquées et ce qu'il doit encore apprendre auprès de l'équipe. Mentionner sa capacité
    d'analyse, la donnée spatiale, sa disponibilité pour le terrain comme pour le bureau et
