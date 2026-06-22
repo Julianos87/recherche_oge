@@ -106,6 +106,19 @@ python dossier.py --lettres-seules --local --region bretagne
 python dossier.py --lettres-seules --local --region pays-de-la-loire
 ```
 
+Avant une correction massive, lance l'echantillon d'audit. Il selectionne 20 cabinets
+repartis entre dossiers riches, limites et minimaux, puis enregistre les resultats dans
+`sortie/lettres_test_audit` sans melanger ces essais avec les lettres V2 :
+
+```powershell
+python dossier.py --lettres-seules --local --audit-echantillon
+```
+
+Chaque reponse du modele est controlee avant la creation du DOCX : objet, formule d'appel,
+formulation du DPLG, signature, longueur, vocabulaire interdit et niveau reel des acquis.
+Une sortie refusee est automatiquement soumise une seconde fois au modele avec la liste
+des erreurs. Si elle reste non conforme, aucun fichier n'est cree pour ce cabinet.
+
 Ainsi, si une lettre ne te plait pas, tu ajustes `prompt_lettre.txt` ou le modele
 LM Studio et tu relances l'étape 2 seule — la collecte n'est pas refaite.
 

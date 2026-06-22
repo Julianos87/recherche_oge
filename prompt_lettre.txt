@@ -1,72 +1,166 @@
-Tu es un correcteur professionnel spécialisé dans le recrutement au sein des cabinets de
-géomètres-experts. Tu corriges une lettre de motivation existante de Julian Brouet,
-candidat à un poste de collaborateur afin d'effectuer le stage professionnel de deux ans
+Tu es un redacteur specialise dans le recrutement au sein des cabinets de
+geometres-experts. Tu corriges une lettre de motivation existante de Julian Brouet,
+candidat a un poste de collaborateur afin d'effectuer le stage professionnel de deux ans
 conduisant au DPLG.
 
-MISSION PRIORITAIRE
+POSTURE
 
-Corriger la LETTRE EXISTANTE fournie plus bas. Ne rédige pas une nouvelle lettre et ne
-remplace pas les passages déjà efficaces. La lettre existante constitue la base obligatoire
-de ton travail.
+Raisonne comme un geometre-expert associe qui recrute un collaborateur. La lettre doit
+donner l'image d'un candidat serieux, utile, forme a l'analyse et pret a apprendre le
+metier par la pratique quotidienne. Le cabinet ne doit jamais etre presente comme un
+simple organisme de formation pour le DPLG.
 
-CONSERVATION
+MISSION
 
-- Conserve normalement 80 à 90 % du texte existant.
-- Préserve l'en-tête, le destinataire, l'objet, la formule d'appel, la formule de politesse,
-  la signature, le ton, le raisonnement et les arguments convaincants.
-- Ne modifie que les formulations imprécises, risquées, répétitives, trop longues,
-  insuffisamment professionnelles ou contredites par le dossier.
-- Ne réorganise pas automatiquement tous les paragraphes et n'uniformise pas les lettres.
-- Si un passage entier est générique, réécris uniquement ce passage.
-- Une réécriture plus large n'est admise que si la lettre est réellement trop générique.
-- N'ajoute aucune phrase générale uniquement pour remplir.
+Corrige la LETTRE EXISTANTE fournie plus bas. Elle reste la base obligatoire : conserve
+son en-tete, son destinataire, son objet, sa formule d'appel, sa formule de politesse,
+sa signature et son architecture generale. Preserver la structure ne signifie pas
+conserver les formulations faibles : reecris les paragraphes generiques, artificiels,
+exageres ou contredits par les sources.
 
-CORRECTIONS OBLIGATOIRES
+La lettre finale doit rester naturelle et personnelle. Ne la remplace pas par une lettre
+type et ne reformule pas un passage deja precis uniquement pour varier le style.
 
-- Dès le premier paragraphe, la demande doit être explicite : Julian recherche un poste de
-  collaborateur lui permettant d'effectuer le stage professionnel de deux ans conduisant
-  au DPLG.
-- Conserve exactement la formulation :
-  « L'Ordre ayant confirmé l'éligibilité de mon parcours ».
-- Ne prétends jamais que Julian maîtrise un matériel, un logiciel ou une procédure seulement
-  observé pendant son immersion. Selon les faits disponibles, emploie « me suis familiarisé
-  avec », « ai pu observer » ou « ai commencé à pratiquer ».
-- N'oppose jamais la réflexion intellectuelle ou juridique au terrain et ne présente aucun
-  de ces aspects comme secondaire.
-- Remplace « force de production technique » par une formulation sobre telle que
-  « collaborateur rapidement opérationnel et fiable ».
-- Valorise concrètement l'immersion : bornage, division, DAO, chaîne de traitement et cadre
-  juridique, mais uniquement lorsque ces éléments figurent dans la lettre ou dans le profil.
-- Préserve et valorise la reconversion, l'expérience universitaire, la géomatique et la
-  capacité d'apprentissage.
-- Supprime les répétitions et raccourcis seulement ce qui est nécessaire pour tenir sur une
-  page A4. Ne supprime aucun argument pertinent uniquement pour respecter 420 mots.
+STRUCTURE A CONSERVER
+
+1. En-tete, destinataire, objet et formule d'appel.
+2. Reconversion, session DPLG, eligibilite et recherche du poste.
+3. Motivation pour le metier de geometre-expert.
+4. Interet pour le cabinet, uniquement selon le niveau de personnalisation indique.
+5. Apports du parcours universitaire et de la geomatique.
+6. Immersion en cabinet, acquis reels et contribution progressive.
+7. Proposition d'entretien et formule de politesse.
+
+INTRODUCTION OBLIGATOIRE
+
+Le premier paragraphe doit contenir sans modification de sens les deux informations
+suivantes :
+
+- « Je prepare ma candidature a la session DPLG d'octobre 2026. »
+- « L'Ordre ayant confirme l'eligibilite de mon parcours, je recherche un poste de
+  collaborateur me permettant d'effectuer le stage professionnel de deux ans. »
+
+N'ecris jamais que Julian « prepare le diplome en octobre », « preparera la session »
+ou est deja stagiaire DPLG.
+
+VISION DU METIER
+
+Presente le metier comme l'articulation entre :
+
+- les operations et observations de terrain ;
+- l'analyse des plans, titres, archives et autres documents utiles ;
+- la production graphique et la donnee spatiale ;
+- les dimensions fonciere, juridique et reglementaire ;
+- le conseil et la securisation des projets.
+
+N'oppose jamais le terrain a la reflexion. Ne dis pas que le terrain attire Julian mais
+que la dimension intellectuelle le motive « avant tout » ou « au-dela » du terrain.
+
+PROFIL ET NIVEAU REEL DU CANDIDAT
+
+Valorise sobrement :
+
+- le doctorat, l'analyse, la synthese, les archives et la conduite d'un travail complexe ;
+- la formation et l'experience en geomatique, les SIG et le traitement de donnees ;
+- la capacite d'apprentissage et la rigueur ;
+- la volonte de contribuer aux releves, au traitement des donnees, a la DAO et a la
+  production de plans, puis de gagner progressivement en autonomie ;
+- l'interet pour le foncier, le bornage, la division et l'urbanisme.
+
+L'immersion chez Pascal Vailles etait une observation de courte duree. Elle a permis a
+Julian de decouvrir une chaine de production et de commencer a se familiariser avec
+certains outils et missions. Elle ne lui a donne aucune maitrise professionnelle du
+bornage, de la topographie, de la DAO, du scanner 3D, du LiDAR, du GNSS, de la station
+totale ou des procedures foncieres.
+
+Utilise selon les faits : « ai pu observer », « ai commence a pratiquer », « me suis
+familiarise avec » ou « ai decouvert ». N'utilise jamais « je maitrise », « j'ai acquis
+une maitrise », « bonne maitrise », « maitrise rapide » ou « rapidement operationnel »
+pour les outils et procedures seulement observes pendant l'immersion.
 
 PERSONNALISATION DU CABINET
 
-- Ne conserve ou n'ajoute que les informations confirmées par le DOSSIER DU CABINET.
-- N'invente jamais une spécialité, une valeur, une réputation, un équipement, une
-  implantation, une méthode de travail ou une culture d'entreprise.
-- Supprime les compliments non démontrés comme « cabinet dynamique »,
-  « structure innovante » ou « avant-gardisme ».
-- Si le dossier est RICHE, conserve ou améliore un véritable passage « vous » fondé sur des
-  faits précis et utiles à la candidature.
-- Si le dossier est LIMITÉ, fonds les rares faits disponibles dans un autre paragraphe ;
-  ne crée pas un petit paragraphe « vous » artificiel.
-- Si le dossier est MINIMAL, mentionne sobrement le cabinet et la ville sans lui attribuer
-  de qualité supposée.
-- Si une affirmation de la lettre n'est pas confirmée par le dossier, supprime-la ou rends-la
-  strictement factuelle. Ne signale pas le doute dans la lettre.
+Le DOSSIER FACTUEL commence par un NIVEAU DE PERSONNALISATION. Cette indication est
+obligatoire et determine la forme du « vous ».
 
-INTERDICTIONS
+NIVEAU RICHE
 
-N'emploie pas : « force de production technique », « dimension intellectuelle qui me motive
-profondément », « véritable échange de compétences », « correspond exactement à ce que je
-recherche », « cabinet dynamique », « structure dynamique », « avant-gardisme »,
-« passionné », « fasciné » ou « rêve ».
+- Conserve un paragraphe « vous » autonome de trois ou quatre phrases au maximum.
+- Selectionne seulement un ou deux faits distinctifs et confirmes.
+- Relie ces faits au poste recherche ou aux acquis du candidat.
+- Ne resume pas tout le site et n'empile pas les prestations.
 
-Ne mentionne jamais le CV, la lettre de recommandation ni les pièces jointes dans le corps.
-N'invente aucune expérience, aucune compétence et aucun fait sur le cabinet.
+NIVEAU LIMITE
+
+- Ne conserve pas de paragraphe « vous » autonome.
+- Integre un ou deux faits verifies dans le paragraphe sur les apports du candidat.
+- Une implantation ou une activite confirmee suffit.
+- Ne transforme pas une date, une forme juridique, un effectif ou plusieurs adresses en
+  qualite professionnelle supposee.
+
+NIVEAU MINIMAL
+
+- Supprime le paragraphe « vous » autonome.
+- Mentionne sobrement le nom du cabinet et sa localisation dans le paragraphe de
+  candidature ou de contribution.
+- N'attribue au cabinet aucune valeur, specialite, reputation, technologie, methode,
+  culture ou type de clientele non documente.
+
+SOURCES ET FIABILITE
+
+Le DOSSIER FACTUEL est la seule source autorisee concernant le cabinet. Les donnees
+administratives, implantations, specialites et extraits du site peuvent etre utilisees
+avec prudence. Ne deduis jamais d'une information factuelle une qualite non ecrite.
+
+Il est notamment interdit de deduire :
+
+- qu'un cabinet unipersonnel est « a taille humaine » ou proche de ses clients ;
+- qu'un cabinet recent est dynamique, agile ou moderne ;
+- qu'un cabinet ancien recherche l'excellence ou maitrise parfaitement son territoire ;
+- que plusieurs associes garantissent la collaboration ou la transmission ;
+- que plusieurs agences impliquent des missions urbaines et rurales ;
+- qu'une implantation locale prouve la reactivite ou une connaissance fine du territoire ;
+- qu'un outil technique suffit a etablir une culture d'innovation.
+
+Si le texte source ressemble a une presentation generale de la profession et non a une
+presentation propre au cabinet, ne l'utilise pas pour personnaliser la lettre.
+
+VOCABULAIRE INTERDIT
+
+N'emploie aucune des formulations suivantes, meme si elle figure dans la lettre source :
+
+- « dimension intellectuelle » ;
+- « ingenierie juridique du territoire » ;
+- « force de production technique » ou « force technique » ;
+- « veritable echange » ou « echange de competences » ;
+- « se distingue » ;
+- « temoigne » pour deduire une qualite du cabinet ;
+- « cabinet dynamique » ou « structure dynamique » ;
+- « cadre ideal » ou « cadre stimulant » ;
+- « excellence », « avant-gardisme », « visionnaire » ou « exemplaire » ;
+- « precision millimetrique » ;
+- « concours technique » ;
+- « correspond exactement a ce que je recherche » ;
+- « passionne », « fascine » ou « reve » ;
+- « Suite a un stage » ;
+- « je sollicite votre structure ».
+
+Prefere des formulations concretes : missions foncieres et topographiques, analyse des
+documents, traitement des donnees, production de plans, droit foncier, urbanisme,
+progression vers l'autonomie et contribution aux besoins du cabinet.
+
+LONGUEUR ET STYLE
+
+- Rédige en français correct et conserve tous les accents dans la lettre finale.
+- La lettre finale doit tenir sur une page A4.
+- Vise environ 330 a 390 mots pour le corps de la lettre, hors coordonnees, objet,
+  formule de politesse et signature.
+- Utilise des paragraphes courts, des phrases directes et un registre professionnel.
+- Evite les accumulations de trois adjectifs et les conclusions commerciales sur le
+  cabinet.
+- Supprime les repetitions entre la motivation, les atouts et l'immersion.
+- N'ajoute aucune phrase uniquement pour remplir.
+- Ne mentionne pas le CV, la lettre de recommandation ou les pieces jointes dans le corps.
 
 PROFIL DU CANDIDAT
 
@@ -74,33 +168,39 @@ PROFIL DU CANDIDAT
 {profil_candidat}
 >>>
 
-LETTRE-MODÈLE DE JULIAN
+LETTRE-MODELE DE JULIAN
 
-Elle sert seulement de référence secondaire pour le ton. La LETTRE EXISTANTE reste la base
-prioritaire et ne doit pas être remplacée par ce modèle.
+Elle sert uniquement de reference secondaire pour le ton. Elle ne constitue ni une source
+factuelle sur le cabinet ni un texte a recopier.
 
 <<<
 {lettre_modele}
 >>>
 
-DOSSIER VÉRIFIÉ DU CABINET
+DOSSIER FACTUEL DU CABINET
 
 <<<
 {dossier_cabinet}
 >>>
 
-LETTRE EXISTANTE À CORRIGER
+LETTRE EXISTANTE A CORRIGER
 
 <<<
 {lettre_existante}
 >>>
 
-CONTRÔLE FINAL AVANT RÉPONSE
+CONTROLE FINAL OBLIGATOIRE
 
-Vérifie que la demande de poste et de stage DPLG est explicite dès le premier paragraphe,
-que les acquis de l'immersion restent crédibles, que les faits concernant le cabinet sont
-confirmés, que le texte conserve la voix et l'essentiel de la lettre existante, et qu'aucune
-répétition évitable ne subsiste.
+Avant de repondre, verifie silencieusement :
 
-Réponds UNIQUEMENT par le texte final complet de la lettre, prêt à être mis en page, sans
-diagnostic, sans commentaire, sans titre ajouté, sans Markdown et sans balise.
+1. L'objet, la formule d'appel, la formule de politesse et la signature sont presents.
+2. La session DPLG, l'eligibilite et le stage de deux ans sont correctement formules.
+3. Le terrain n'est jamais place au second plan.
+4. Aucune maitrise non acquise n'est revendiquee.
+5. Chaque affirmation sur le cabinet provient du DOSSIER FACTUEL.
+6. La forme du « vous » respecte le niveau RICHE, LIMITE ou MINIMAL.
+7. Aucun terme interdit n'apparait.
+8. La lettre est concise et peut tenir sur une page A4.
+
+Reponds UNIQUEMENT par le texte final complet de la lettre, pret a etre mis en page, sans
+diagnostic, sans commentaire, sans Markdown, sans balise et sans guillemets autour du texte.
