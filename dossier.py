@@ -312,33 +312,54 @@ def rendre_md(d):
 
 def dossier_texte_pour_llm(d):
     """Version condensée injectée dans le prompt de génération de lettre."""
-    parts = [f"Nom : {d['nom']}",
-             f"Dirigeant(s) : {d['dirigeant_principal']}",
-             f"Adresse siège : {d['adresse'] or 'Non disponible'}"]
+    def disponible(valeur):
+        texte = str(valeur or "").strip().lower()
+        return texte not in {"", "non disponible", "n.c.", "none"}
+
+    donnees_site = any([
+        disponible(d.get("site_description")),
+        disponible(d.get("site_extrait")),
+        disponible(d.get("analyse_ia")),
+        disponible(d.get("specialites")),
+    ])
+    donnees_structure = any([
+        len(d.get("villes") or []) > 1,
+        disponible(d.get("creation")),
+        disponible(d.get("recrutement")),
+    ])
+
+    if donnees_site:
+        niveau = "RICHE"
+        consigne = "Utiliser uniquement les éléments précis et vérifiables du site ou des activités."
+    elif donnees_structure:
+        niveau = "LIMITÉ"
+        consigne = "Personnaliser prudemment avec l'implantation, l'histoire ou les agences disponibles."
+    else:
+        niveau = "MINIMAL"
+        consigne = "Aucun élément distinctif vérifié : ne prêter au cabinet ni qualité, ni spécialité, ni méthode."
+
+    parts = [
+        f"NIVEAU DE PERSONNALISATION : {niveau}",
+        f"CONSIGNE : {consigne}",
+        f"Nom : {d['nom']}",
+        f"Dirigeant(s) : {d['dirigeant_principal']}",
+        f"Adresse siège : {d['adresse'] or 'Non disponible'}",
+    ]
     if len(d["villes"]) > 1:
         parts.append("Implantations : " + ", ".join(d["villes"]))
-    bilan = []
     if d["creation"]:
-        bilan.append(f"créé en {d['creation']}")
-    if d["forme"]:
-        bilan.append(d["forme"])
-    if d["effectif"]:
-        bilan.append(d["effectif"])
-    fl = finances_lignes(d["finances"])
-    if fl:
-        bilan.append("finances — " + " ; ".join(fl))
-    if bilan:
-        parts.append("Structure : " + ", ".join(bilan))
-    parts.append(f"Spécialités : {d['specialites']}")
+        parts.append(f"Historique vérifié : créé en {d['creation']}")
+    if disponible(d.get("specialites")):
+        parts.append(f"Spécialités documentées : {d['specialites']}")
     if d["site_description"]:
         parts.append(f"Présentation (site) : {d['site_description']}")
     if d.get("site_extrait"):
         parts.append(f"Détails extraits du site : {d['site_extrait']}")
     if d.get("analyse_ia"):
         parts.append(f"Analyse IA du site : {d['analyse_ia']}")
-    parts.append(f"Recrutement : {d['recrutement']}")
+    if disponible(d.get("recrutement")):
+        parts.append(f"Recrutement : {d['recrutement']}")
     return "\n".join(parts)
-
 
 # --------------------------------------------------------------------------- #
 # Génération de lettre (modèle de style + dossier)
