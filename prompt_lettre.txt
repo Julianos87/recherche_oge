@@ -16,8 +16,10 @@ LONGUEUR ET FORMAT
   chaque phrase est utile et si l'ensemble reste compatible avec une page. Ne jamais
   supprimer un argument pertinent uniquement pour respecter un compteur de mots.
 - Ne jamais allonger une lettre avec des généralités pour atteindre une longueur théorique.
-- Produire exactement 4 paragraphes de corps visuellement équilibrés. Aucun paragraphe de
-  corps ne doit sembler isolé ou artificiellement court ; viser au moins 55 mots chacun.
+- Adapter le nombre de paragraphes à la matière disponible : 4 pour un dossier RICHE,
+  3 ou 4 pour un dossier LIMITÉ, et 3 paragraphes substantiels pour un dossier MINIMAL.
+- Aucun paragraphe ne doit sembler isolé ou artificiellement court. Préférer trois paragraphes
+  cohérents à quatre paragraphes dont l'un serait écrit uniquement pour simuler un « VOUS ».
 - Chaque phrase doit apporter une information utile. Supprimer toute redondance.
 
 PROFIL DU CANDIDAT
@@ -40,7 +42,7 @@ STRUCTURE ATTENDUE
 2. Objet : « Candidature à un poste de collaborateur - stage professionnel DPLG ».
 3. Composer les quatre paragraphes selon le NIVEAU DE PERSONNALISATION :
 
-   MODE RICHE
+   MODE RICHE — 4 paragraphes
    - Paragraphe 1 : reconversion, session DPLG, éligibilité et poste recherché.
    - Paragraphe 2 : parcours universitaire, géomatique et immersion chez Pascal Vailles.
    - Paragraphe 3 « VOUS » (60 à 85 mots) : un ou deux faits distinctifs et vérifiables,
@@ -48,25 +50,21 @@ STRUCTURE ATTENDUE
    - Paragraphe 4 « NOUS » : contribution possible, compétences à acquérir et projection
      dans l'équipe pendant le stage DPLG.
 
-   MODE LIMITÉ
-   - Paragraphe 1 : reconversion, session DPLG, éligibilité et poste recherché.
-   - Paragraphe 2 : parcours universitaire, géomatique et immersion.
-   - Paragraphe 3 HYBRIDE (80 à 110 mots) : intégrer le ou les rares faits disponibles
-     (implantation, ancienneté, agences ou recrutement) à la raison concrète de candidater,
-     puis enchaîner directement sur ce que Julian pourrait apporter. Il ne doit surtout pas
-     exister de petit paragraphe « VOUS » autonome.
-   - Paragraphe 4 : apprentissage attendu, autonomie à construire, terrain/bureau et
-     inscription durable dans l'équipe.
+   MODE LIMITÉ — 3 ou 4 paragraphes selon le contenu
+   - Intégrer le ou les rares faits disponibles (implantation, ancienneté, agences ou
+     recrutement) à la raison concrète de candidater et à ce que Julian pourrait apporter.
+   - Ne jamais créer de petit paragraphe « VOUS » autonome.
+   - Conserver un quatrième paragraphe seulement si l'apprentissage attendu et la projection
+     dans l'équipe peuvent être développés sans répétition ; sinon les réunir au paragraphe
+     hybride précédent.
 
-   MODE MINIMAL
+   MODE MINIMAL — 3 paragraphes substantiels
    - Ne créer AUCUN paragraphe « VOUS » autonome.
    - Paragraphe 1 : intégrer naturellement le nom du cabinet et sa ville à la candidature,
-     sans lui attribuer de qualité particulière.
-   - Paragraphe 2 : développer utilement le parcours universitaire et la géomatique.
-   - Paragraphe 3 : développer l'immersion, les opérations observées et la compréhension
-     acquise de l'articulation entre terrain, restitution et cadre foncier.
-   - Paragraphe 4 : réunir contribution possible, compétences à acquérir et intérêt pour
-     une pratique quotidienne du métier au sein de l'équipe destinataire.
+     avec la reconversion, le DPLG et le poste recherché, sans attribuer de qualité au cabinet.
+   - Paragraphe 2 : réunir utilement parcours universitaire, géomatique et capacités d'analyse.
+   - Paragraphe 3 : articuler l'immersion, les opérations observées, la contribution possible,
+     les compétences à acquérir et la pratique quotidienne recherchée au sein de l'équipe.
 
    Dans tous les modes, la lettre doit former un raisonnement continu. Ne jamais laisser
    apparaître que le rédacteur manque d'informations et ne jamais combler ce manque par
